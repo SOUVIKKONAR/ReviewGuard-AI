@@ -1,0 +1,3 @@
+cluster,total_reviews,truthful_reviews,deceptive_reviews,deceptive_percentage,unique_hotels
+0,883,414,469,53.11,20
+1,713,382,331,46.42,20

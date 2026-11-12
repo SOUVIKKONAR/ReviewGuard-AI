@@ -1,0 +1,47 @@
+[
+    {
+        "dimensions": 384,
+        "explained_variance_percentage": 100.0,
+        "best_k": 2,
+        "silhouette_score": 0.17363949120044708,
+        "adjusted_rand_index": 0.002294733483884471,
+        "normalized_mutual_information": 0.002141759957891062,
+        "execution_time_seconds": 12.35
+    },
+    {
+        "dimensions": 128,
+        "explained_variance_percentage": 90.33,
+        "best_k": 2,
+        "silhouette_score": 0.17360541224479675,
+        "adjusted_rand_index": 0.0034660496642882174,
+        "normalized_mutual_information": 0.0029664395072939854,
+        "execution_time_seconds": 4.81
+    },
+    {
+        "dimensions": 64,
+        "explained_variance_percentage": 77.2,
+        "best_k": 2,
+        "silhouette_score": 0.1989642083644867,
+        "adjusted_rand_index": 0.0037935287249584817,
+        "normalized_mutual_information": 0.00320819580657677,
+        "execution_time_seconds": 3.25
+    },
+    {
+        "dimensions": 32,
+        "explained_variance_percentage": 60.83,
+        "best_k": 2,
+        "silhouette_score": 0.24381844699382782,
+        "adjusted_rand_index": 0.003962509518284595,
+        "normalized_mutual_information": 0.0033357573529684877,
+        "execution_time_seconds": 3.11
+    },
+    {
+        "dimensions": 16,
+        "explained_variance_percentage": 44.83,
+        "best_k": 2,
+        "silhouette_score": 0.3114786446094513,
+        "adjusted_rand_index": 0.003466368445798102,
+        "normalized_mutual_information": 0.0029679571483629233,
+        "execution_time_seconds": 3.05
+    }
+]

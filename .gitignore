@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.py[cod]
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+backend/.env
+*.log
+
+# Amazon polarity is an optional sentiment-only corpus, not used by this app.
+# Keep its description, but exclude the multi-gigabyte CSV files.
+DATASET/amazon_review_polarity_csv/train.csv
+DATASET/amazon_review_polarity_csv/test.csv
+DATASET/train.csv
+DATASET/test.csv

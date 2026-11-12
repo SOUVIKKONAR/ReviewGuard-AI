@@ -1,0 +1,4789 @@
+review_id,original_filename,model,hotel,actual,predicted
+0,d_affinia_1.txt,KNN,affinia,1,1
+1,d_affinia_10.txt,KNN,affinia,1,1
+2,d_affinia_11.txt,KNN,affinia,1,1
+3,d_affinia_12.txt,KNN,affinia,1,1
+4,d_affinia_13.txt,KNN,affinia,1,1
+5,d_affinia_14.txt,KNN,affinia,1,1
+6,d_affinia_15.txt,KNN,affinia,1,1
+7,d_affinia_16.txt,KNN,affinia,1,1
+8,d_affinia_17.txt,KNN,affinia,1,1
+9,d_affinia_18.txt,KNN,affinia,1,1
+10,d_affinia_19.txt,KNN,affinia,1,1
+11,d_affinia_2.txt,KNN,affinia,1,0
+12,d_affinia_20.txt,KNN,affinia,1,1
+13,d_affinia_3.txt,KNN,affinia,1,1
+14,d_affinia_4.txt,KNN,affinia,1,1
+15,d_affinia_5.txt,KNN,affinia,1,0
+16,d_affinia_6.txt,KNN,affinia,1,1
+17,d_affinia_7.txt,KNN,affinia,1,1
+18,d_affinia_8.txt,KNN,affinia,1,0
+19,d_affinia_9.txt,KNN,affinia,1,1
+400,t_affinia_1.txt,KNN,affinia,0,1
+401,t_affinia_10.txt,KNN,affinia,0,0
+402,t_affinia_11.txt,KNN,affinia,0,1
+403,t_affinia_12.txt,KNN,affinia,0,0
+404,t_affinia_13.txt,KNN,affinia,0,0
+405,t_affinia_19.txt,KNN,affinia,0,1
+406,t_affinia_15.txt,KNN,affinia,0,1
+407,t_affinia_16.txt,KNN,affinia,0,0
+408,t_affinia_17.txt,KNN,affinia,0,0
+409,t_affinia_18.txt,KNN,affinia,0,1
+410,t_affinia_2.txt,KNN,affinia,0,0
+411,t_affinia_20.txt,KNN,affinia,0,1
+412,t_affinia_3.txt,KNN,affinia,0,0
+413,t_affinia_4.txt,KNN,affinia,0,0
+414,t_affinia_5.txt,KNN,affinia,0,0
+415,t_affinia_6.txt,KNN,affinia,0,0
+416,t_affinia_7.txt,KNN,affinia,0,1
+417,t_affinia_8.txt,KNN,affinia,0,0
+418,t_affinia_9.txt,KNN,affinia,0,1
+796,d_affinia_1.txt,KNN,affinia,1,1
+797,d_affinia_10.txt,KNN,affinia,1,1
+798,d_affinia_11.txt,KNN,affinia,1,1
+799,d_affinia_12.txt,KNN,affinia,1,1
+800,d_affinia_13.txt,KNN,affinia,1,1
+801,d_affinia_14.txt,KNN,affinia,1,1
+802,d_affinia_15.txt,KNN,affinia,1,0
+803,d_affinia_16.txt,KNN,affinia,1,1
+804,d_affinia_17.txt,KNN,affinia,1,0
+805,d_affinia_18.txt,KNN,affinia,1,1
+806,d_affinia_19.txt,KNN,affinia,1,1
+807,d_affinia_2.txt,KNN,affinia,1,1
+808,d_affinia_20.txt,KNN,affinia,1,1
+809,d_affinia_3.txt,KNN,affinia,1,1
+810,d_affinia_4.txt,KNN,affinia,1,1
+811,d_affinia_5.txt,KNN,affinia,1,1
+812,d_affinia_6.txt,KNN,affinia,1,1
+813,d_affinia_7.txt,KNN,affinia,1,1
+814,d_affinia_8.txt,KNN,affinia,1,1
+815,d_affinia_9.txt,KNN,affinia,1,1
+1196,t_affinia_1.txt,KNN,affinia,0,0
+1197,t_affinia_10.txt,KNN,affinia,0,0
+1198,t_affinia_11.txt,KNN,affinia,0,0
+1199,t_affinia_12.txt,KNN,affinia,0,0
+1200,t_affinia_13.txt,KNN,affinia,0,0
+1201,t_affinia_14.txt,KNN,affinia,0,0
+1202,t_affinia_15.txt,KNN,affinia,0,1
+1203,t_affinia_16.txt,KNN,affinia,0,1
+1204,t_affinia_17.txt,KNN,affinia,0,0
+1205,t_affinia_18.txt,KNN,affinia,0,0
+1206,t_affinia_19.txt,KNN,affinia,0,0
+1207,t_affinia_2.txt,KNN,affinia,0,0
+1208,t_affinia_20.txt,KNN,affinia,0,0
+1209,t_affinia_3.txt,KNN,affinia,0,0
+1210,t_affinia_4.txt,KNN,affinia,0,0
+1211,t_affinia_5.txt,KNN,affinia,0,1
+1212,t_affinia_6.txt,KNN,affinia,0,0
+1213,t_affinia_7.txt,KNN,affinia,0,0
+1214,t_affinia_8.txt,KNN,affinia,0,0
+1215,t_affinia_9.txt,KNN,affinia,0,0
+20,d_allegro_1.txt,KNN,allegro,1,1
+21,d_allegro_10.txt,KNN,allegro,1,1
+22,d_allegro_11.txt,KNN,allegro,1,1
+23,d_allegro_12.txt,KNN,allegro,1,1
+24,d_allegro_13.txt,KNN,allegro,1,1
+25,d_allegro_14.txt,KNN,allegro,1,1
+26,d_allegro_15.txt,KNN,allegro,1,1
+27,d_allegro_16.txt,KNN,allegro,1,1
+28,d_allegro_17.txt,KNN,allegro,1,1
+29,d_allegro_18.txt,KNN,allegro,1,1
+30,d_allegro_19.txt,KNN,allegro,1,1
+31,d_allegro_2.txt,KNN,allegro,1,1
+32,d_allegro_20.txt,KNN,allegro,1,1
+33,d_allegro_3.txt,KNN,allegro,1,1
+34,d_allegro_4.txt,KNN,allegro,1,1
+35,d_allegro_5.txt,KNN,allegro,1,1
+36,d_allegro_6.txt,KNN,allegro,1,1
+37,d_allegro_7.txt,KNN,allegro,1,1
+38,d_allegro_8.txt,KNN,allegro,1,1
+39,d_allegro_9.txt,KNN,allegro,1,1
+419,t_allegro_1.txt,KNN,allegro,0,0
+420,t_allegro_10.txt,KNN,allegro,0,1
+421,t_allegro_11.txt,KNN,allegro,0,1
+422,t_allegro_12.txt,KNN,allegro,0,1
+423,t_allegro_13.txt,KNN,allegro,0,0
+424,t_allegro_14.txt,KNN,allegro,0,1
+425,t_allegro_15.txt,KNN,allegro,0,0
+426,t_allegro_16.txt,KNN,allegro,0,0
+427,t_allegro_17.txt,KNN,allegro,0,1
+428,t_allegro_18.txt,KNN,allegro,0,0
+429,t_allegro_19.txt,KNN,allegro,0,0
+430,t_allegro_2.txt,KNN,allegro,0,0
+431,t_allegro_20.txt,KNN,allegro,0,1
+432,t_allegro_3.txt,KNN,allegro,0,0
+433,t_allegro_4.txt,KNN,allegro,0,1
+434,t_allegro_5.txt,KNN,allegro,0,0
+435,t_allegro_6.txt,KNN,allegro,0,0
+436,t_allegro_7.txt,KNN,allegro,0,0
+437,t_allegro_8.txt,KNN,allegro,0,0
+438,t_allegro_9.txt,KNN,allegro,0,0
+816,d_allegro_1.txt,KNN,allegro,1,1
+817,d_allegro_10.txt,KNN,allegro,1,1
+818,d_allegro_11.txt,KNN,allegro,1,1
+819,d_allegro_12.txt,KNN,allegro,1,1
+820,d_allegro_13.txt,KNN,allegro,1,1
+821,d_allegro_14.txt,KNN,allegro,1,1
+822,d_allegro_15.txt,KNN,allegro,1,1
+823,d_allegro_16.txt,KNN,allegro,1,1
+824,d_allegro_17.txt,KNN,allegro,1,1
+825,d_allegro_18.txt,KNN,allegro,1,1
+826,d_allegro_19.txt,KNN,allegro,1,1
+827,d_allegro_2.txt,KNN,allegro,1,1
+828,d_allegro_20.txt,KNN,allegro,1,1
+829,d_allegro_3.txt,KNN,allegro,1,1
+830,d_allegro_4.txt,KNN,allegro,1,1
+831,d_allegro_5.txt,KNN,allegro,1,1
+832,d_allegro_6.txt,KNN,allegro,1,1
+833,d_allegro_7.txt,KNN,allegro,1,1
+834,d_allegro_8.txt,KNN,allegro,1,1
+835,d_allegro_9.txt,KNN,allegro,1,1
+1216,t_allegro_1.txt,KNN,allegro,0,0
+1217,t_allegro_10.txt,KNN,allegro,0,1
+1218,t_allegro_11.txt,KNN,allegro,0,1
+1219,t_allegro_12.txt,KNN,allegro,0,0
+1220,t_allegro_13.txt,KNN,allegro,0,0
+1221,t_allegro_14.txt,KNN,allegro,0,0
+1222,t_allegro_15.txt,KNN,allegro,0,1
+1223,t_allegro_16.txt,KNN,allegro,0,1
+1224,t_allegro_17.txt,KNN,allegro,0,0
+1225,t_allegro_18.txt,KNN,allegro,0,1
+1226,t_allegro_19.txt,KNN,allegro,0,0
+1227,t_allegro_2.txt,KNN,allegro,0,0
+1228,t_allegro_20.txt,KNN,allegro,0,0
+1229,t_allegro_3.txt,KNN,allegro,0,0
+1230,t_allegro_4.txt,KNN,allegro,0,0
+1231,t_allegro_5.txt,KNN,allegro,0,1
+1232,t_allegro_6.txt,KNN,allegro,0,0
+1233,t_allegro_7.txt,KNN,allegro,0,0
+1234,t_allegro_8.txt,KNN,allegro,0,1
+1235,t_allegro_9.txt,KNN,allegro,0,0
+40,d_amalfi_1.txt,KNN,amalfi,1,1
+41,d_amalfi_10.txt,KNN,amalfi,1,1
+42,d_amalfi_11.txt,KNN,amalfi,1,1
+43,d_amalfi_12.txt,KNN,amalfi,1,1
+44,d_amalfi_13.txt,KNN,amalfi,1,1
+45,d_amalfi_14.txt,KNN,amalfi,1,1
+46,d_amalfi_15.txt,KNN,amalfi,1,1
+47,d_amalfi_16.txt,KNN,amalfi,1,1
+48,d_amalfi_17.txt,KNN,amalfi,1,1
+49,d_amalfi_18.txt,KNN,amalfi,1,1
+50,d_amalfi_19.txt,KNN,amalfi,1,1
+51,d_amalfi_2.txt,KNN,amalfi,1,1
+52,d_amalfi_20.txt,KNN,amalfi,1,1
+53,d_amalfi_3.txt,KNN,amalfi,1,1
+54,d_amalfi_4.txt,KNN,amalfi,1,1
+55,d_amalfi_5.txt,KNN,amalfi,1,1
+56,d_amalfi_6.txt,KNN,amalfi,1,1
+57,d_amalfi_7.txt,KNN,amalfi,1,1
+58,d_amalfi_8.txt,KNN,amalfi,1,1
+59,d_amalfi_9.txt,KNN,amalfi,1,1
+439,t_amalfi_1.txt,KNN,amalfi,0,1
+440,t_amalfi_10.txt,KNN,amalfi,0,1
+441,t_amalfi_11.txt,KNN,amalfi,0,0
+442,t_amalfi_12.txt,KNN,amalfi,0,1
+443,t_amalfi_13.txt,KNN,amalfi,0,0
+444,t_amalfi_14.txt,KNN,amalfi,0,1
+445,t_amalfi_15.txt,KNN,amalfi,0,0
+446,t_amalfi_16.txt,KNN,amalfi,0,0
+447,t_amalfi_17.txt,KNN,amalfi,0,1
+448,t_amalfi_18.txt,KNN,amalfi,0,1
+449,t_amalfi_19.txt,KNN,amalfi,0,0
+450,t_amalfi_2.txt,KNN,amalfi,0,0
+451,t_amalfi_20.txt,KNN,amalfi,0,1
+452,t_amalfi_3.txt,KNN,amalfi,0,0
+453,t_amalfi_4.txt,KNN,amalfi,0,0
+454,t_amalfi_5.txt,KNN,amalfi,0,0
+455,t_amalfi_6.txt,KNN,amalfi,0,0
+456,t_amalfi_7.txt,KNN,amalfi,0,1
+457,t_amalfi_8.txt,KNN,amalfi,0,0
+458,t_amalfi_9.txt,KNN,amalfi,0,0
+836,d_amalfi_1.txt,KNN,amalfi,1,1
+837,d_amalfi_10.txt,KNN,amalfi,1,1
+838,d_amalfi_11.txt,KNN,amalfi,1,1
+839,d_amalfi_12.txt,KNN,amalfi,1,1
+840,d_amalfi_13.txt,KNN,amalfi,1,1
+841,d_amalfi_14.txt,KNN,amalfi,1,1
+842,d_amalfi_15.txt,KNN,amalfi,1,1
+843,d_amalfi_16.txt,KNN,amalfi,1,1
+844,d_amalfi_17.txt,KNN,amalfi,1,1
+845,d_amalfi_18.txt,KNN,amalfi,1,1
+846,d_amalfi_19.txt,KNN,amalfi,1,1
+847,d_amalfi_2.txt,KNN,amalfi,1,1
+848,d_amalfi_20.txt,KNN,amalfi,1,1
+849,d_amalfi_3.txt,KNN,amalfi,1,1
+850,d_amalfi_4.txt,KNN,amalfi,1,1
+851,d_amalfi_5.txt,KNN,amalfi,1,1
+852,d_amalfi_6.txt,KNN,amalfi,1,1
+853,d_amalfi_7.txt,KNN,amalfi,1,1
+854,d_amalfi_8.txt,KNN,amalfi,1,0
+855,d_amalfi_9.txt,KNN,amalfi,1,1
+1236,t_amalfi_1.txt,KNN,amalfi,0,0
+1237,t_amalfi_10.txt,KNN,amalfi,0,0
+1238,t_amalfi_11.txt,KNN,amalfi,0,0
+1239,t_amalfi_12.txt,KNN,amalfi,0,0
+1240,t_amalfi_13.txt,KNN,amalfi,0,1
+1241,t_amalfi_14.txt,KNN,amalfi,0,0
+1242,t_amalfi_15.txt,KNN,amalfi,0,1
+1243,t_amalfi_16.txt,KNN,amalfi,0,1
+1244,t_amalfi_17.txt,KNN,amalfi,0,0
+1245,t_amalfi_18.txt,KNN,amalfi,0,1
+1246,t_amalfi_19.txt,KNN,amalfi,0,0
+1247,t_amalfi_2.txt,KNN,amalfi,0,0
+1248,t_amalfi_20.txt,KNN,amalfi,0,0
+1249,t_amalfi_3.txt,KNN,amalfi,0,0
+1250,t_amalfi_4.txt,KNN,amalfi,0,0
+1251,t_amalfi_5.txt,KNN,amalfi,0,0
+1252,t_amalfi_6.txt,KNN,amalfi,0,0
+1253,t_amalfi_7.txt,KNN,amalfi,0,0
+1254,t_amalfi_8.txt,KNN,amalfi,0,0
+1255,t_amalfi_9.txt,KNN,amalfi,0,0
+60,d_ambassador_1.txt,KNN,ambassador,1,1
+61,d_ambassador_10.txt,KNN,ambassador,1,0
+62,d_ambassador_11.txt,KNN,ambassador,1,1
+63,d_ambassador_12.txt,KNN,ambassador,1,0
+64,d_ambassador_13.txt,KNN,ambassador,1,1
+65,d_ambassador_14.txt,KNN,ambassador,1,1
+66,d_ambassador_15.txt,KNN,ambassador,1,0
+67,d_ambassador_16.txt,KNN,ambassador,1,1
+68,d_ambassador_17.txt,KNN,ambassador,1,0
+69,d_ambassador_18.txt,KNN,ambassador,1,1
+70,d_ambassador_19.txt,KNN,ambassador,1,1
+71,d_ambassador_2.txt,KNN,ambassador,1,1
+72,d_ambassador_20.txt,KNN,ambassador,1,0
+73,d_ambassador_3.txt,KNN,ambassador,1,1
+74,d_ambassador_4.txt,KNN,ambassador,1,0
+75,d_ambassador_5.txt,KNN,ambassador,1,1
+76,d_ambassador_6.txt,KNN,ambassador,1,1
+77,d_ambassador_7.txt,KNN,ambassador,1,1
+78,d_ambassador_8.txt,KNN,ambassador,1,1
+79,d_ambassador_9.txt,KNN,ambassador,1,1
+459,t_ambassador_1.txt,KNN,ambassador,0,0
+460,t_ambassador_10.txt,KNN,ambassador,0,0
+461,t_ambassador_11.txt,KNN,ambassador,0,0
+462,t_ambassador_12.txt,KNN,ambassador,0,0
+463,t_ambassador_13.txt,KNN,ambassador,0,1
+464,t_ambassador_14.txt,KNN,ambassador,0,1
+465,t_ambassador_15.txt,KNN,ambassador,0,1
+466,t_ambassador_16.txt,KNN,ambassador,0,0
+467,t_ambassador_17.txt,KNN,ambassador,0,1
+468,t_ambassador_18.txt,KNN,ambassador,0,1
+469,t_ambassador_19.txt,KNN,ambassador,0,1
+470,t_ambassador_2.txt,KNN,ambassador,0,0
+471,t_ambassador_20.txt,KNN,ambassador,0,0
+472,t_ambassador_3.txt,KNN,ambassador,0,0
+473,t_ambassador_4.txt,KNN,ambassador,0,0
+474,t_ambassador_5.txt,KNN,ambassador,0,0
+475,t_ambassador_6.txt,KNN,ambassador,0,1
+476,t_ambassador_7.txt,KNN,ambassador,0,0
+477,t_ambassador_8.txt,KNN,ambassador,0,0
+478,t_ambassador_9.txt,KNN,ambassador,0,1
+856,d_ambassador_1.txt,KNN,ambassador,1,1
+857,d_ambassador_10.txt,KNN,ambassador,1,0
+858,d_ambassador_11.txt,KNN,ambassador,1,0
+859,d_ambassador_12.txt,KNN,ambassador,1,1
+860,d_ambassador_13.txt,KNN,ambassador,1,1
+861,d_ambassador_14.txt,KNN,ambassador,1,1
+862,d_ambassador_15.txt,KNN,ambassador,1,1
+863,d_ambassador_16.txt,KNN,ambassador,1,1
+864,d_ambassador_17.txt,KNN,ambassador,1,1
+865,d_ambassador_18.txt,KNN,ambassador,1,1
+866,d_ambassador_19.txt,KNN,ambassador,1,1
+867,d_ambassador_2.txt,KNN,ambassador,1,1
+868,d_ambassador_20.txt,KNN,ambassador,1,1
+869,d_ambassador_3.txt,KNN,ambassador,1,1
+870,d_ambassador_4.txt,KNN,ambassador,1,1
+871,d_ambassador_5.txt,KNN,ambassador,1,1
+872,d_ambassador_6.txt,KNN,ambassador,1,1
+873,d_ambassador_7.txt,KNN,ambassador,1,1
+874,d_ambassador_8.txt,KNN,ambassador,1,1
+875,d_ambassador_9.txt,KNN,ambassador,1,1
+1256,t_ambassador_1.txt,KNN,ambassador,0,1
+1257,t_ambassador_10.txt,KNN,ambassador,0,0
+1258,t_ambassador_11.txt,KNN,ambassador,0,1
+1259,t_ambassador_12.txt,KNN,ambassador,0,0
+1260,t_ambassador_13.txt,KNN,ambassador,0,1
+1261,t_ambassador_14.txt,KNN,ambassador,0,0
+1262,t_ambassador_15.txt,KNN,ambassador,0,0
+1263,t_ambassador_16.txt,KNN,ambassador,0,0
+1264,t_ambassador_17.txt,KNN,ambassador,0,0
+1265,t_ambassador_18.txt,KNN,ambassador,0,1
+1266,t_ambassador_19.txt,KNN,ambassador,0,0
+1267,t_ambassador_2.txt,KNN,ambassador,0,0
+1268,t_ambassador_20.txt,KNN,ambassador,0,0
+1269,t_ambassador_3.txt,KNN,ambassador,0,1
+1270,t_ambassador_4.txt,KNN,ambassador,0,1
+1271,t_ambassador_5.txt,KNN,ambassador,0,0
+1272,t_ambassador_6.txt,KNN,ambassador,0,1
+1273,t_ambassador_7.txt,KNN,ambassador,0,1
+1274,t_ambassador_8.txt,KNN,ambassador,0,1
+1275,t_ambassador_9.txt,KNN,ambassador,0,0
+80,d_conrad_1.txt,KNN,conrad,1,1
+81,d_conrad_10.txt,KNN,conrad,1,1
+82,d_conrad_11.txt,KNN,conrad,1,1
+83,d_conrad_12.txt,KNN,conrad,1,1
+84,d_conrad_13.txt,KNN,conrad,1,1
+85,d_conrad_14.txt,KNN,conrad,1,1
+86,d_conrad_15.txt,KNN,conrad,1,1
+87,d_conrad_16.txt,KNN,conrad,1,1
+88,d_conrad_17.txt,KNN,conrad,1,1
+89,d_conrad_18.txt,KNN,conrad,1,1
+90,d_conrad_19.txt,KNN,conrad,1,1
+91,d_conrad_2.txt,KNN,conrad,1,1
+92,d_conrad_20.txt,KNN,conrad,1,1
+93,d_conrad_3.txt,KNN,conrad,1,1
+94,d_conrad_4.txt,KNN,conrad,1,1
+95,d_conrad_5.txt,KNN,conrad,1,1
+96,d_conrad_6.txt,KNN,conrad,1,1
+97,d_conrad_7.txt,KNN,conrad,1,1
+98,d_conrad_8.txt,KNN,conrad,1,1
+99,d_conrad_9.txt,KNN,conrad,1,1
+479,t_conrad_1.txt,KNN,conrad,0,1
+480,t_conrad_10.txt,KNN,conrad,0,0
+481,t_conrad_11.txt,KNN,conrad,0,0
+482,t_conrad_12.txt,KNN,conrad,0,0
+483,t_conrad_13.txt,KNN,conrad,0,0
+484,t_conrad_14.txt,KNN,conrad,0,0
+485,t_conrad_15.txt,KNN,conrad,0,1
+486,t_conrad_16.txt,KNN,conrad,0,0
+487,t_conrad_17.txt,KNN,conrad,0,1
+488,t_conrad_18.txt,KNN,conrad,0,1
+489,t_conrad_19.txt,KNN,conrad,0,1
+490,t_conrad_2.txt,KNN,conrad,0,1
+491,t_conrad_20.txt,KNN,conrad,0,0
+492,t_conrad_3.txt,KNN,conrad,0,1
+493,t_conrad_4.txt,KNN,conrad,0,1
+494,t_conrad_5.txt,KNN,conrad,0,1
+495,t_conrad_6.txt,KNN,conrad,0,0
+496,t_conrad_7.txt,KNN,conrad,0,1
+497,t_conrad_8.txt,KNN,conrad,0,0
+498,t_conrad_9.txt,KNN,conrad,0,1
+876,d_conrad_1.txt,KNN,conrad,1,1
+877,d_conrad_10.txt,KNN,conrad,1,1
+878,d_conrad_11.txt,KNN,conrad,1,1
+879,d_conrad_12.txt,KNN,conrad,1,1
+880,d_conrad_13.txt,KNN,conrad,1,1
+881,d_conrad_14.txt,KNN,conrad,1,1
+882,d_conrad_15.txt,KNN,conrad,1,1
+883,d_conrad_16.txt,KNN,conrad,1,0
+884,d_conrad_17.txt,KNN,conrad,1,1
+885,d_conrad_18.txt,KNN,conrad,1,1
+886,d_conrad_19.txt,KNN,conrad,1,1
+887,d_conrad_2.txt,KNN,conrad,1,1
+888,d_conrad_20.txt,KNN,conrad,1,1
+889,d_conrad_3.txt,KNN,conrad,1,1
+890,d_conrad_4.txt,KNN,conrad,1,1
+891,d_conrad_5.txt,KNN,conrad,1,1
+892,d_conrad_6.txt,KNN,conrad,1,1
+893,d_conrad_7.txt,KNN,conrad,1,1
+894,d_conrad_8.txt,KNN,conrad,1,1
+895,d_conrad_9.txt,KNN,conrad,1,1
+1276,t_conrad_1.txt,KNN,conrad,0,0
+1277,t_conrad_10.txt,KNN,conrad,0,1
+1278,t_conrad_11.txt,KNN,conrad,0,0
+1279,t_conrad_12.txt,KNN,conrad,0,1
+1280,t_conrad_13.txt,KNN,conrad,0,0
+1281,t_conrad_14.txt,KNN,conrad,0,1
+1282,t_conrad_15.txt,KNN,conrad,0,0
+1283,t_conrad_16.txt,KNN,conrad,0,0
+1284,t_conrad_17.txt,KNN,conrad,0,0
+1285,t_conrad_18.txt,KNN,conrad,0,1
+1286,t_conrad_19.txt,KNN,conrad,0,1
+1287,t_conrad_2.txt,KNN,conrad,0,0
+1288,t_conrad_20.txt,KNN,conrad,0,1
+1289,t_conrad_3.txt,KNN,conrad,0,0
+1290,t_conrad_4.txt,KNN,conrad,0,1
+1291,t_conrad_5.txt,KNN,conrad,0,0
+1292,t_conrad_6.txt,KNN,conrad,0,1
+1293,t_conrad_7.txt,KNN,conrad,0,0
+1294,t_conrad_8.txt,KNN,conrad,0,0
+1295,t_conrad_9.txt,KNN,conrad,0,1
+100,d_fairmont_1.txt,KNN,fairmont,1,0
+101,d_fairmont_10.txt,KNN,fairmont,1,1
+102,d_fairmont_11.txt,KNN,fairmont,1,1
+103,d_fairmont_12.txt,KNN,fairmont,1,1
+104,d_fairmont_13.txt,KNN,fairmont,1,0
+105,d_fairmont_14.txt,KNN,fairmont,1,1
+106,d_fairmont_15.txt,KNN,fairmont,1,1
+107,d_fairmont_16.txt,KNN,fairmont,1,1
+108,d_fairmont_17.txt,KNN,fairmont,1,1
+109,d_fairmont_18.txt,KNN,fairmont,1,1
+110,d_fairmont_19.txt,KNN,fairmont,1,1
+111,d_fairmont_2.txt,KNN,fairmont,1,1
+112,d_fairmont_20.txt,KNN,fairmont,1,1
+113,d_fairmont_3.txt,KNN,fairmont,1,1
+114,d_fairmont_4.txt,KNN,fairmont,1,1
+115,d_fairmont_5.txt,KNN,fairmont,1,1
+116,d_fairmont_6.txt,KNN,fairmont,1,1
+117,d_fairmont_7.txt,KNN,fairmont,1,1
+118,d_fairmont_8.txt,KNN,fairmont,1,1
+119,d_fairmont_9.txt,KNN,fairmont,1,1
+499,t_fairmont_1.txt,KNN,fairmont,0,0
+500,t_fairmont_10.txt,KNN,fairmont,0,0
+501,t_fairmont_11.txt,KNN,fairmont,0,0
+502,t_fairmont_12.txt,KNN,fairmont,0,0
+503,t_fairmont_13.txt,KNN,fairmont,0,1
+504,t_fairmont_14.txt,KNN,fairmont,0,1
+505,t_fairmont_15.txt,KNN,fairmont,0,0
+506,t_fairmont_16.txt,KNN,fairmont,0,0
+507,t_fairmont_17.txt,KNN,fairmont,0,0
+508,t_fairmont_18.txt,KNN,fairmont,0,0
+509,t_fairmont_19.txt,KNN,fairmont,0,0
+510,t_fairmont_2.txt,KNN,fairmont,0,0
+511,t_fairmont_20.txt,KNN,fairmont,0,1
+512,t_fairmont_3.txt,KNN,fairmont,0,1
+513,t_fairmont_4.txt,KNN,fairmont,0,1
+514,t_fairmont_5.txt,KNN,fairmont,0,1
+515,t_fairmont_6.txt,KNN,fairmont,0,0
+516,t_fairmont_7.txt,KNN,fairmont,0,0
+517,t_fairmont_8.txt,KNN,fairmont,0,0
+518,t_fairmont_9.txt,KNN,fairmont,0,1
+896,d_fairmont_1.txt,KNN,fairmont,1,1
+897,d_fairmont_10.txt,KNN,fairmont,1,1
+898,d_fairmont_11.txt,KNN,fairmont,1,1
+899,d_fairmont_12.txt,KNN,fairmont,1,0
+900,d_fairmont_13.txt,KNN,fairmont,1,1
+901,d_fairmont_14.txt,KNN,fairmont,1,1
+902,d_fairmont_15.txt,KNN,fairmont,1,1
+903,d_fairmont_16.txt,KNN,fairmont,1,1
+904,d_fairmont_17.txt,KNN,fairmont,1,1
+905,d_fairmont_18.txt,KNN,fairmont,1,1
+906,d_fairmont_19.txt,KNN,fairmont,1,1
+907,d_fairmont_2.txt,KNN,fairmont,1,1
+908,d_fairmont_20.txt,KNN,fairmont,1,1
+909,d_fairmont_3.txt,KNN,fairmont,1,1
+910,d_fairmont_4.txt,KNN,fairmont,1,1
+911,d_fairmont_5.txt,KNN,fairmont,1,0
+912,d_fairmont_6.txt,KNN,fairmont,1,1
+913,d_fairmont_7.txt,KNN,fairmont,1,1
+914,d_fairmont_8.txt,KNN,fairmont,1,1
+915,d_fairmont_9.txt,KNN,fairmont,1,1
+1296,t_fairmont_1.txt,KNN,fairmont,0,0
+1297,t_fairmont_10.txt,KNN,fairmont,0,1
+1298,t_fairmont_11.txt,KNN,fairmont,0,0
+1299,t_fairmont_12.txt,KNN,fairmont,0,0
+1300,t_fairmont_13.txt,KNN,fairmont,0,0
+1301,t_fairmont_14.txt,KNN,fairmont,0,1
+1302,t_fairmont_15.txt,KNN,fairmont,0,0
+1303,t_fairmont_16.txt,KNN,fairmont,0,0
+1304,t_fairmont_17.txt,KNN,fairmont,0,0
+1305,t_fairmont_18.txt,KNN,fairmont,0,0
+1306,t_fairmont_19.txt,KNN,fairmont,0,1
+1307,t_fairmont_2.txt,KNN,fairmont,0,0
+1308,t_fairmont_20.txt,KNN,fairmont,0,0
+1309,t_fairmont_3.txt,KNN,fairmont,0,1
+1310,t_fairmont_4.txt,KNN,fairmont,0,0
+1311,t_fairmont_5.txt,KNN,fairmont,0,0
+1312,t_fairmont_6.txt,KNN,fairmont,0,0
+1313,t_fairmont_7.txt,KNN,fairmont,0,0
+1314,t_fairmont_8.txt,KNN,fairmont,0,0
+1315,t_fairmont_9.txt,KNN,fairmont,0,0
+120,d_hardrock_1.txt,KNN,hardrock,1,1
+121,d_hardrock_10.txt,KNN,hardrock,1,1
+122,d_hardrock_11.txt,KNN,hardrock,1,1
+123,d_hardrock_12.txt,KNN,hardrock,1,1
+124,d_hardrock_13.txt,KNN,hardrock,1,1
+125,d_hardrock_14.txt,KNN,hardrock,1,1
+126,d_hardrock_15.txt,KNN,hardrock,1,1
+127,d_hardrock_16.txt,KNN,hardrock,1,1
+128,d_hardrock_17.txt,KNN,hardrock,1,1
+129,d_hardrock_18.txt,KNN,hardrock,1,1
+130,d_hardrock_19.txt,KNN,hardrock,1,1
+131,d_hardrock_2.txt,KNN,hardrock,1,1
+132,d_hardrock_20.txt,KNN,hardrock,1,1
+133,d_hardrock_3.txt,KNN,hardrock,1,0
+134,d_hardrock_4.txt,KNN,hardrock,1,1
+135,d_hardrock_5.txt,KNN,hardrock,1,1
+136,d_hardrock_6.txt,KNN,hardrock,1,1
+137,d_hardrock_7.txt,KNN,hardrock,1,1
+138,d_hardrock_8.txt,KNN,hardrock,1,1
+139,d_hardrock_9.txt,KNN,hardrock,1,1
+519,t_hardrock_1.txt,KNN,hardrock,0,1
+520,t_hardrock_10.txt,KNN,hardrock,0,1
+521,t_hardrock_11.txt,KNN,hardrock,0,1
+522,t_hardrock_12.txt,KNN,hardrock,0,0
+523,t_hardrock_13.txt,KNN,hardrock,0,0
+524,t_hardrock_14.txt,KNN,hardrock,0,1
+525,t_hardrock_15.txt,KNN,hardrock,0,0
+526,t_hardrock_16.txt,KNN,hardrock,0,0
+527,t_hardrock_17.txt,KNN,hardrock,0,0
+528,t_hardrock_18.txt,KNN,hardrock,0,0
+529,t_hardrock_19.txt,KNN,hardrock,0,1
+530,t_hardrock_2.txt,KNN,hardrock,0,0
+531,t_hardrock_20.txt,KNN,hardrock,0,0
+532,t_hardrock_3.txt,KNN,hardrock,0,1
+533,t_hardrock_4.txt,KNN,hardrock,0,0
+534,t_hardrock_5.txt,KNN,hardrock,0,0
+535,t_hardrock_6.txt,KNN,hardrock,0,0
+536,t_hardrock_7.txt,KNN,hardrock,0,0
+537,t_hardrock_8.txt,KNN,hardrock,0,0
+538,t_hardrock_9.txt,KNN,hardrock,0,1
+916,d_hardrock_1.txt,KNN,hardrock,1,1
+917,d_hardrock_10.txt,KNN,hardrock,1,1
+918,d_hardrock_11.txt,KNN,hardrock,1,0
+919,d_hardrock_12.txt,KNN,hardrock,1,1
+920,d_hardrock_13.txt,KNN,hardrock,1,1
+921,d_hardrock_14.txt,KNN,hardrock,1,1
+922,d_hardrock_15.txt,KNN,hardrock,1,1
+923,d_hardrock_16.txt,KNN,hardrock,1,1
+924,d_hardrock_17.txt,KNN,hardrock,1,1
+925,d_hardrock_18.txt,KNN,hardrock,1,1
+926,d_hardrock_19.txt,KNN,hardrock,1,1
+927,d_hardrock_2.txt,KNN,hardrock,1,1
+928,d_hardrock_20.txt,KNN,hardrock,1,1
+929,d_hardrock_3.txt,KNN,hardrock,1,1
+930,d_hardrock_4.txt,KNN,hardrock,1,1
+931,d_hardrock_5.txt,KNN,hardrock,1,1
+932,d_hardrock_6.txt,KNN,hardrock,1,1
+933,d_hardrock_7.txt,KNN,hardrock,1,1
+934,d_hardrock_8.txt,KNN,hardrock,1,1
+935,d_hardrock_9.txt,KNN,hardrock,1,1
+1316,t_hardrock_1.txt,KNN,hardrock,0,0
+1317,t_hardrock_10.txt,KNN,hardrock,0,0
+1318,t_hardrock_11.txt,KNN,hardrock,0,1
+1319,t_hardrock_12.txt,KNN,hardrock,0,0
+1320,t_hardrock_13.txt,KNN,hardrock,0,1
+1321,t_hardrock_14.txt,KNN,hardrock,0,1
+1322,t_hardrock_15.txt,KNN,hardrock,0,0
+1323,t_hardrock_16.txt,KNN,hardrock,0,1
+1324,t_hardrock_17.txt,KNN,hardrock,0,1
+1325,t_hardrock_18.txt,KNN,hardrock,0,1
+1326,t_hardrock_19.txt,KNN,hardrock,0,1
+1327,t_hardrock_2.txt,KNN,hardrock,0,0
+1328,t_hardrock_20.txt,KNN,hardrock,0,0
+1329,t_hardrock_3.txt,KNN,hardrock,0,0
+1330,t_hardrock_4.txt,KNN,hardrock,0,0
+1331,t_hardrock_5.txt,KNN,hardrock,0,1
+1332,t_hardrock_6.txt,KNN,hardrock,0,0
+1333,t_hardrock_7.txt,KNN,hardrock,0,0
+1334,t_hardrock_8.txt,KNN,hardrock,0,0
+1335,t_hardrock_9.txt,KNN,hardrock,0,0
+140,d_hilton_1.txt,KNN,hilton,1,0
+141,d_hilton_10.txt,KNN,hilton,1,0
+142,d_hilton_11.txt,KNN,hilton,1,1
+143,d_hilton_12.txt,KNN,hilton,1,1
+144,d_hilton_13.txt,KNN,hilton,1,1
+145,d_hilton_14.txt,KNN,hilton,1,1
+146,d_hilton_15.txt,KNN,hilton,1,1
+147,d_hilton_16.txt,KNN,hilton,1,1
+148,d_hilton_17.txt,KNN,hilton,1,1
+149,d_hilton_18.txt,KNN,hilton,1,1
+150,d_hilton_19.txt,KNN,hilton,1,1
+151,d_hilton_2.txt,KNN,hilton,1,1
+152,d_hilton_20.txt,KNN,hilton,1,1
+153,d_hilton_3.txt,KNN,hilton,1,1
+154,d_hilton_4.txt,KNN,hilton,1,1
+155,d_hilton_5.txt,KNN,hilton,1,1
+156,d_hilton_6.txt,KNN,hilton,1,1
+157,d_hilton_7.txt,KNN,hilton,1,1
+158,d_hilton_8.txt,KNN,hilton,1,1
+159,d_hilton_9.txt,KNN,hilton,1,1
+539,t_hilton_1.txt,KNN,hilton,0,0
+540,t_hilton_10.txt,KNN,hilton,0,0
+541,t_hilton_11.txt,KNN,hilton,0,1
+542,t_hilton_12.txt,KNN,hilton,0,0
+543,t_hilton_13.txt,KNN,hilton,0,0
+544,t_hilton_14.txt,KNN,hilton,0,0
+545,t_hilton_15.txt,KNN,hilton,0,1
+546,t_hilton_16.txt,KNN,hilton,0,0
+547,t_hilton_17.txt,KNN,hilton,0,0
+548,t_hilton_18.txt,KNN,hilton,0,0
+549,t_hilton_19.txt,KNN,hilton,0,0
+550,t_hilton_2.txt,KNN,hilton,0,1
+551,t_hilton_20.txt,KNN,hilton,0,1
+552,t_hilton_3.txt,KNN,hilton,0,1
+553,t_hilton_4.txt,KNN,hilton,0,1
+554,t_hilton_5.txt,KNN,hilton,0,0
+555,t_hilton_6.txt,KNN,hilton,0,1
+556,t_hilton_7.txt,KNN,hilton,0,0
+557,t_hilton_8.txt,KNN,hilton,0,0
+558,t_hilton_9.txt,KNN,hilton,0,0
+936,d_hilton_1.txt,KNN,hilton,1,1
+937,d_hilton_10.txt,KNN,hilton,1,0
+938,d_hilton_11.txt,KNN,hilton,1,0
+939,d_hilton_12.txt,KNN,hilton,1,1
+940,d_hilton_13.txt,KNN,hilton,1,1
+941,d_hilton_14.txt,KNN,hilton,1,1
+942,d_hilton_15.txt,KNN,hilton,1,1
+943,d_hilton_16.txt,KNN,hilton,1,1
+944,d_hilton_17.txt,KNN,hilton,1,1
+945,d_hilton_18.txt,KNN,hilton,1,1
+946,d_hilton_19.txt,KNN,hilton,1,1
+947,d_hilton_2.txt,KNN,hilton,1,1
+948,d_hilton_20.txt,KNN,hilton,1,1
+949,d_hilton_3.txt,KNN,hilton,1,1
+950,d_hilton_4.txt,KNN,hilton,1,1
+951,d_hilton_5.txt,KNN,hilton,1,1
+952,d_hilton_6.txt,KNN,hilton,1,1
+953,d_hilton_7.txt,KNN,hilton,1,1
+954,d_hilton_8.txt,KNN,hilton,1,1
+955,d_hilton_9.txt,KNN,hilton,1,0
+1336,t_hilton_1.txt,KNN,hilton,0,0
+1337,t_hilton_10.txt,KNN,hilton,0,1
+1338,t_hilton_11.txt,KNN,hilton,0,0
+1339,t_hilton_12.txt,KNN,hilton,0,0
+1340,t_hilton_13.txt,KNN,hilton,0,0
+1341,t_hilton_14.txt,KNN,hilton,0,0
+1342,t_hilton_15.txt,KNN,hilton,0,0
+1343,t_hilton_16.txt,KNN,hilton,0,0
+1344,t_hilton_17.txt,KNN,hilton,0,0
+1345,t_hilton_18.txt,KNN,hilton,0,0
+1346,t_hilton_19.txt,KNN,hilton,0,0
+1347,t_hilton_2.txt,KNN,hilton,0,1
+1348,t_hilton_20.txt,KNN,hilton,0,0
+1349,t_hilton_3.txt,KNN,hilton,0,0
+1350,t_hilton_4.txt,KNN,hilton,0,0
+1351,t_hilton_5.txt,KNN,hilton,0,0
+1352,t_hilton_6.txt,KNN,hilton,0,0
+1353,t_hilton_7.txt,KNN,hilton,0,0
+1354,t_hilton_8.txt,KNN,hilton,0,0
+1355,t_hilton_9.txt,KNN,hilton,0,1
+160,d_homewood_1.txt,KNN,homewood,1,1
+161,d_homewood_10.txt,KNN,homewood,1,1
+162,d_homewood_11.txt,KNN,homewood,1,1
+163,d_homewood_12.txt,KNN,homewood,1,1
+164,d_homewood_13.txt,KNN,homewood,1,1
+165,d_homewood_14.txt,KNN,homewood,1,1
+166,d_homewood_15.txt,KNN,homewood,1,1
+167,d_homewood_16.txt,KNN,homewood,1,1
+168,d_homewood_17.txt,KNN,homewood,1,1
+169,d_homewood_18.txt,KNN,homewood,1,1
+170,d_homewood_19.txt,KNN,homewood,1,1
+171,d_homewood_2.txt,KNN,homewood,1,1
+172,d_homewood_20.txt,KNN,homewood,1,1
+173,d_homewood_3.txt,KNN,homewood,1,0
+174,d_homewood_4.txt,KNN,homewood,1,1
+175,d_homewood_5.txt,KNN,homewood,1,1
+176,d_homewood_6.txt,KNN,homewood,1,1
+177,d_homewood_7.txt,KNN,homewood,1,1
+178,d_homewood_8.txt,KNN,homewood,1,1
+179,d_homewood_9.txt,KNN,homewood,1,1
+559,t_homewood_1.txt,KNN,homewood,0,0
+560,t_homewood_10.txt,KNN,homewood,0,0
+561,t_homewood_11.txt,KNN,homewood,0,0
+562,t_homewood_12.txt,KNN,homewood,0,0
+563,t_homewood_13.txt,KNN,homewood,0,1
+564,t_homewood_14.txt,KNN,homewood,0,0
+565,t_homewood_15.txt,KNN,homewood,0,0
+566,t_homewood_16.txt,KNN,homewood,0,0
+567,t_homewood_17.txt,KNN,homewood,0,0
+568,t_homewood_18.txt,KNN,homewood,0,1
+569,t_homewood_19.txt,KNN,homewood,0,0
+570,t_homewood_2.txt,KNN,homewood,0,0
+571,t_homewood_20.txt,KNN,homewood,0,1
+572,t_homewood_3.txt,KNN,homewood,0,0
+573,t_homewood_4.txt,KNN,homewood,0,1
+574,t_homewood_5.txt,KNN,homewood,0,0
+575,t_homewood_6.txt,KNN,homewood,0,0
+576,t_homewood_7.txt,KNN,homewood,0,0
+577,t_homewood_8.txt,KNN,homewood,0,0
+578,t_homewood_9.txt,KNN,homewood,0,1
+956,d_homewood_1.txt,KNN,homewood,1,1
+957,d_homewood_10.txt,KNN,homewood,1,1
+958,d_homewood_11.txt,KNN,homewood,1,1
+959,d_homewood_12.txt,KNN,homewood,1,1
+960,d_homewood_13.txt,KNN,homewood,1,0
+961,d_homewood_14.txt,KNN,homewood,1,1
+962,d_homewood_15.txt,KNN,homewood,1,1
+963,d_homewood_16.txt,KNN,homewood,1,1
+964,d_homewood_17.txt,KNN,homewood,1,1
+965,d_homewood_18.txt,KNN,homewood,1,1
+966,d_homewood_19.txt,KNN,homewood,1,0
+967,d_homewood_2.txt,KNN,homewood,1,1
+968,d_homewood_20.txt,KNN,homewood,1,1
+969,d_homewood_3.txt,KNN,homewood,1,1
+970,d_homewood_4.txt,KNN,homewood,1,1
+971,d_homewood_5.txt,KNN,homewood,1,1
+972,d_homewood_6.txt,KNN,homewood,1,1
+973,d_homewood_7.txt,KNN,homewood,1,1
+974,d_homewood_8.txt,KNN,homewood,1,1
+975,d_homewood_9.txt,KNN,homewood,1,1
+1356,t_homewood_1.txt,KNN,homewood,0,0
+1357,t_homewood_10.txt,KNN,homewood,0,0
+1358,t_homewood_11.txt,KNN,homewood,0,0
+1359,t_homewood_12.txt,KNN,homewood,0,0
+1360,t_homewood_13.txt,KNN,homewood,0,1
+1361,t_homewood_14.txt,KNN,homewood,0,1
+1362,t_homewood_15.txt,KNN,homewood,0,1
+1363,t_homewood_16.txt,KNN,homewood,0,0
+1364,t_homewood_17.txt,KNN,homewood,0,1
+1365,t_homewood_18.txt,KNN,homewood,0,1
+1366,t_homewood_19.txt,KNN,homewood,0,0
+1367,t_homewood_2.txt,KNN,homewood,0,1
+1368,t_homewood_20.txt,KNN,homewood,0,0
+1369,t_homewood_3.txt,KNN,homewood,0,1
+1370,t_homewood_4.txt,KNN,homewood,0,0
+1371,t_homewood_5.txt,KNN,homewood,0,0
+1372,t_homewood_6.txt,KNN,homewood,0,0
+1373,t_homewood_7.txt,KNN,homewood,0,0
+1374,t_homewood_8.txt,KNN,homewood,0,1
+1375,t_homewood_9.txt,KNN,homewood,0,0
+180,d_hyatt_1.txt,KNN,hyatt,1,1
+181,d_hyatt_10.txt,KNN,hyatt,1,1
+182,d_hyatt_11.txt,KNN,hyatt,1,0
+183,d_hyatt_12.txt,KNN,hyatt,1,0
+184,d_hyatt_13.txt,KNN,hyatt,1,1
+185,d_hyatt_14.txt,KNN,hyatt,1,1
+186,d_hyatt_15.txt,KNN,hyatt,1,1
+187,d_hyatt_16.txt,KNN,hyatt,1,1
+188,d_hyatt_17.txt,KNN,hyatt,1,1
+189,d_hyatt_18.txt,KNN,hyatt,1,1
+190,d_hyatt_19.txt,KNN,hyatt,1,1
+191,d_hyatt_2.txt,KNN,hyatt,1,0
+192,d_hyatt_20.txt,KNN,hyatt,1,1
+193,d_hyatt_3.txt,KNN,hyatt,1,1
+194,d_hyatt_4.txt,KNN,hyatt,1,1
+195,d_hyatt_5.txt,KNN,hyatt,1,1
+196,d_hyatt_6.txt,KNN,hyatt,1,0
+197,d_hyatt_7.txt,KNN,hyatt,1,0
+198,d_hyatt_8.txt,KNN,hyatt,1,1
+199,d_hyatt_9.txt,KNN,hyatt,1,1
+579,t_hyatt_1.txt,KNN,hyatt,0,0
+580,t_hyatt_10.txt,KNN,hyatt,0,1
+581,t_hyatt_11.txt,KNN,hyatt,0,1
+582,t_hyatt_12.txt,KNN,hyatt,0,1
+583,t_hyatt_13.txt,KNN,hyatt,0,1
+584,t_hyatt_14.txt,KNN,hyatt,0,1
+585,t_hyatt_15.txt,KNN,hyatt,0,0
+586,t_hyatt_16.txt,KNN,hyatt,0,0
+587,t_hyatt_17.txt,KNN,hyatt,0,1
+588,t_hyatt_18.txt,KNN,hyatt,0,0
+589,t_hyatt_19.txt,KNN,hyatt,0,0
+590,t_hyatt_2.txt,KNN,hyatt,0,0
+591,t_hyatt_20.txt,KNN,hyatt,0,0
+592,t_hyatt_3.txt,KNN,hyatt,0,1
+593,t_hyatt_4.txt,KNN,hyatt,0,0
+594,t_hyatt_5.txt,KNN,hyatt,0,1
+595,t_hyatt_6.txt,KNN,hyatt,0,1
+596,t_hyatt_7.txt,KNN,hyatt,0,1
+597,t_hyatt_8.txt,KNN,hyatt,0,0
+598,t_hyatt_9.txt,KNN,hyatt,0,0
+976,d_hyatt_1.txt,KNN,hyatt,1,1
+977,d_hyatt_10.txt,KNN,hyatt,1,1
+978,d_hyatt_11.txt,KNN,hyatt,1,1
+979,d_hyatt_12.txt,KNN,hyatt,1,1
+980,d_hyatt_13.txt,KNN,hyatt,1,1
+981,d_hyatt_14.txt,KNN,hyatt,1,1
+982,d_hyatt_15.txt,KNN,hyatt,1,1
+983,d_hyatt_16.txt,KNN,hyatt,1,0
+984,d_hyatt_17.txt,KNN,hyatt,1,1
+985,d_hyatt_18.txt,KNN,hyatt,1,0
+986,d_hyatt_19.txt,KNN,hyatt,1,0
+987,d_hyatt_2.txt,KNN,hyatt,1,1
+988,d_hyatt_20.txt,KNN,hyatt,1,1
+989,d_hyatt_3.txt,KNN,hyatt,1,1
+990,d_hyatt_4.txt,KNN,hyatt,1,1
+991,d_hyatt_5.txt,KNN,hyatt,1,1
+992,d_hyatt_6.txt,KNN,hyatt,1,1
+993,d_hyatt_7.txt,KNN,hyatt,1,1
+994,d_hyatt_8.txt,KNN,hyatt,1,1
+995,d_hyatt_9.txt,KNN,hyatt,1,0
+1376,t_hyatt_1.txt,KNN,hyatt,0,0
+1377,t_hyatt_10.txt,KNN,hyatt,0,0
+1378,t_hyatt_11.txt,KNN,hyatt,0,1
+1379,t_hyatt_12.txt,KNN,hyatt,0,0
+1380,t_hyatt_13.txt,KNN,hyatt,0,0
+1381,t_hyatt_14.txt,KNN,hyatt,0,0
+1382,t_hyatt_15.txt,KNN,hyatt,0,0
+1383,t_hyatt_16.txt,KNN,hyatt,0,0
+1384,t_hyatt_17.txt,KNN,hyatt,0,1
+1385,t_hyatt_18.txt,KNN,hyatt,0,0
+1386,t_hyatt_19.txt,KNN,hyatt,0,0
+1387,t_hyatt_2.txt,KNN,hyatt,0,0
+1388,t_hyatt_20.txt,KNN,hyatt,0,1
+1389,t_hyatt_3.txt,KNN,hyatt,0,1
+1390,t_hyatt_4.txt,KNN,hyatt,0,0
+1391,t_hyatt_5.txt,KNN,hyatt,0,0
+1392,t_hyatt_6.txt,KNN,hyatt,0,0
+1393,t_hyatt_7.txt,KNN,hyatt,0,0
+1394,t_hyatt_8.txt,KNN,hyatt,0,0
+1395,t_hyatt_9.txt,KNN,hyatt,0,0
+200,d_intercontinental_1.txt,KNN,intercontinental,1,1
+201,d_intercontinental_10.txt,KNN,intercontinental,1,1
+202,d_intercontinental_11.txt,KNN,intercontinental,1,1
+203,d_intercontinental_12.txt,KNN,intercontinental,1,1
+204,d_intercontinental_13.txt,KNN,intercontinental,1,0
+205,d_intercontinental_14.txt,KNN,intercontinental,1,1
+206,d_intercontinental_15.txt,KNN,intercontinental,1,1
+207,d_intercontinental_16.txt,KNN,intercontinental,1,1
+208,d_intercontinental_17.txt,KNN,intercontinental,1,1
+209,d_intercontinental_18.txt,KNN,intercontinental,1,1
+210,d_intercontinental_19.txt,KNN,intercontinental,1,1
+211,d_intercontinental_2.txt,KNN,intercontinental,1,1
+212,d_intercontinental_20.txt,KNN,intercontinental,1,1
+213,d_intercontinental_3.txt,KNN,intercontinental,1,0
+214,d_intercontinental_4.txt,KNN,intercontinental,1,1
+215,d_intercontinental_5.txt,KNN,intercontinental,1,1
+216,d_intercontinental_6.txt,KNN,intercontinental,1,0
+217,d_intercontinental_7.txt,KNN,intercontinental,1,1
+218,d_intercontinental_8.txt,KNN,intercontinental,1,0
+219,d_intercontinental_9.txt,KNN,intercontinental,1,1
+599,t_intercontinental_1.txt,KNN,intercontinental,0,1
+600,t_intercontinental_10.txt,KNN,intercontinental,0,0
+601,t_intercontinental_11.txt,KNN,intercontinental,0,0
+602,t_intercontinental_12.txt,KNN,intercontinental,0,1
+603,t_intercontinental_13.txt,KNN,intercontinental,0,0
+604,t_intercontinental_14.txt,KNN,intercontinental,0,0
+605,t_intercontinental_15.txt,KNN,intercontinental,0,0
+606,t_intercontinental_16.txt,KNN,intercontinental,0,1
+607,t_intercontinental_17.txt,KNN,intercontinental,0,0
+608,t_intercontinental_18.txt,KNN,intercontinental,0,0
+609,t_intercontinental_19.txt,KNN,intercontinental,0,1
+610,t_intercontinental_2.txt,KNN,intercontinental,0,0
+611,t_intercontinental_20.txt,KNN,intercontinental,0,1
+612,t_intercontinental_3.txt,KNN,intercontinental,0,0
+613,t_intercontinental_4.txt,KNN,intercontinental,0,0
+614,t_intercontinental_5.txt,KNN,intercontinental,0,1
+615,t_intercontinental_6.txt,KNN,intercontinental,0,0
+616,t_intercontinental_7.txt,KNN,intercontinental,0,0
+617,t_intercontinental_8.txt,KNN,intercontinental,0,0
+618,t_intercontinental_9.txt,KNN,intercontinental,0,1
+996,d_intercontinental_1.txt,KNN,intercontinental,1,1
+997,d_intercontinental_10.txt,KNN,intercontinental,1,0
+998,d_intercontinental_11.txt,KNN,intercontinental,1,1
+999,d_intercontinental_12.txt,KNN,intercontinental,1,1
+1000,d_intercontinental_13.txt,KNN,intercontinental,1,1
+1001,d_intercontinental_14.txt,KNN,intercontinental,1,1
+1002,d_intercontinental_15.txt,KNN,intercontinental,1,1
+1003,d_intercontinental_16.txt,KNN,intercontinental,1,1
+1004,d_intercontinental_17.txt,KNN,intercontinental,1,0
+1005,d_intercontinental_18.txt,KNN,intercontinental,1,1
+1006,d_intercontinental_19.txt,KNN,intercontinental,1,1
+1007,d_intercontinental_2.txt,KNN,intercontinental,1,1
+1008,d_intercontinental_20.txt,KNN,intercontinental,1,1
+1009,d_intercontinental_3.txt,KNN,intercontinental,1,1
+1010,d_intercontinental_4.txt,KNN,intercontinental,1,1
+1011,d_intercontinental_5.txt,KNN,intercontinental,1,1
+1012,d_intercontinental_6.txt,KNN,intercontinental,1,1
+1013,d_intercontinental_7.txt,KNN,intercontinental,1,1
+1014,d_intercontinental_8.txt,KNN,intercontinental,1,1
+1015,d_intercontinental_9.txt,KNN,intercontinental,1,1
+1396,t_intercontinental_1.txt,KNN,intercontinental,0,0
+1397,t_intercontinental_10.txt,KNN,intercontinental,0,0
+1398,t_intercontinental_11.txt,KNN,intercontinental,0,0
+1399,t_intercontinental_12.txt,KNN,intercontinental,0,0
+1400,t_intercontinental_13.txt,KNN,intercontinental,0,0
+1401,t_intercontinental_14.txt,KNN,intercontinental,0,0
+1402,t_intercontinental_15.txt,KNN,intercontinental,0,0
+1403,t_intercontinental_16.txt,KNN,intercontinental,0,0
+1404,t_intercontinental_17.txt,KNN,intercontinental,0,1
+1405,t_intercontinental_18.txt,KNN,intercontinental,0,0
+1406,t_intercontinental_19.txt,KNN,intercontinental,0,0
+1407,t_intercontinental_2.txt,KNN,intercontinental,0,0
+1408,t_intercontinental_20.txt,KNN,intercontinental,0,0
+1409,t_intercontinental_3.txt,KNN,intercontinental,0,0
+1410,t_intercontinental_4.txt,KNN,intercontinental,0,1
+1411,t_intercontinental_5.txt,KNN,intercontinental,0,0
+1412,t_intercontinental_6.txt,KNN,intercontinental,0,0
+1413,t_intercontinental_7.txt,KNN,intercontinental,0,0
+1414,t_intercontinental_8.txt,KNN,intercontinental,0,0
+1415,t_intercontinental_9.txt,KNN,intercontinental,0,1
+220,d_james_1.txt,KNN,james,1,1
+221,d_james_10.txt,KNN,james,1,1
+222,d_james_11.txt,KNN,james,1,1
+223,d_james_12.txt,KNN,james,1,1
+224,d_james_13.txt,KNN,james,1,1
+225,d_james_14.txt,KNN,james,1,1
+226,d_james_15.txt,KNN,james,1,1
+227,d_james_16.txt,KNN,james,1,1
+228,d_james_17.txt,KNN,james,1,1
+229,d_james_18.txt,KNN,james,1,1
+230,d_james_19.txt,KNN,james,1,1
+231,d_james_2.txt,KNN,james,1,1
+232,d_james_20.txt,KNN,james,1,1
+233,d_james_3.txt,KNN,james,1,1
+234,d_james_4.txt,KNN,james,1,1
+235,d_james_5.txt,KNN,james,1,1
+236,d_james_6.txt,KNN,james,1,1
+237,d_james_7.txt,KNN,james,1,1
+238,d_james_8.txt,KNN,james,1,1
+239,d_james_9.txt,KNN,james,1,1
+619,t_james_1.txt,KNN,james,0,0
+620,t_james_10.txt,KNN,james,0,1
+621,t_james_11.txt,KNN,james,0,0
+622,t_james_12.txt,KNN,james,0,1
+623,t_james_13.txt,KNN,james,0,1
+624,t_james_14.txt,KNN,james,0,0
+625,t_james_15.txt,KNN,james,0,0
+626,t_james_16.txt,KNN,james,0,0
+627,t_james_17.txt,KNN,james,0,1
+628,t_james_18.txt,KNN,james,0,0
+629,t_james_19.txt,KNN,james,0,0
+630,t_james_2.txt,KNN,james,0,1
+631,t_james_20.txt,KNN,james,0,0
+632,t_james_3.txt,KNN,james,0,0
+633,t_james_4.txt,KNN,james,0,0
+634,t_james_5.txt,KNN,james,0,0
+635,t_james_6.txt,KNN,james,0,0
+636,t_james_7.txt,KNN,james,0,1
+637,t_james_8.txt,KNN,james,0,1
+638,t_james_9.txt,KNN,james,0,1
+1016,d_james_1.txt,KNN,james,1,1
+1017,d_james_10.txt,KNN,james,1,0
+1018,d_james_11.txt,KNN,james,1,1
+1019,d_james_12.txt,KNN,james,1,1
+1020,d_james_13.txt,KNN,james,1,0
+1021,d_james_14.txt,KNN,james,1,1
+1022,d_james_15.txt,KNN,james,1,1
+1023,d_james_16.txt,KNN,james,1,1
+1024,d_james_17.txt,KNN,james,1,1
+1025,d_james_18.txt,KNN,james,1,1
+1026,d_james_19.txt,KNN,james,1,1
+1027,d_james_2.txt,KNN,james,1,1
+1028,d_james_20.txt,KNN,james,1,1
+1029,d_james_3.txt,KNN,james,1,1
+1030,d_james_4.txt,KNN,james,1,0
+1031,d_james_5.txt,KNN,james,1,1
+1032,d_james_6.txt,KNN,james,1,1
+1033,d_james_7.txt,KNN,james,1,1
+1034,d_james_8.txt,KNN,james,1,1
+1035,d_james_9.txt,KNN,james,1,1
+1416,t_james_1.txt,KNN,james,0,1
+1417,t_james_10.txt,KNN,james,0,0
+1418,t_james_11.txt,KNN,james,0,1
+1419,t_james_12.txt,KNN,james,0,1
+1420,t_james_13.txt,KNN,james,0,1
+1421,t_james_14.txt,KNN,james,0,1
+1422,t_james_15.txt,KNN,james,0,0
+1423,t_james_16.txt,KNN,james,0,0
+1424,t_james_17.txt,KNN,james,0,0
+1425,t_james_18.txt,KNN,james,0,0
+1426,t_james_19.txt,KNN,james,0,0
+1427,t_james_2.txt,KNN,james,0,1
+1428,t_james_20.txt,KNN,james,0,0
+1429,t_james_3.txt,KNN,james,0,1
+1430,t_james_4.txt,KNN,james,0,1
+1431,t_james_5.txt,KNN,james,0,0
+1432,t_james_6.txt,KNN,james,0,0
+1433,t_james_7.txt,KNN,james,0,0
+1434,t_james_8.txt,KNN,james,0,0
+1435,t_james_9.txt,KNN,james,0,0
+240,d_knickerbocker_1.txt,KNN,knickerbocker,1,1
+241,d_knickerbocker_10.txt,KNN,knickerbocker,1,1
+242,d_knickerbocker_11.txt,KNN,knickerbocker,1,1
+243,d_knickerbocker_12.txt,KNN,knickerbocker,1,1
+244,d_knickerbocker_13.txt,KNN,knickerbocker,1,1
+245,d_knickerbocker_14.txt,KNN,knickerbocker,1,1
+246,d_knickerbocker_15.txt,KNN,knickerbocker,1,1
+247,d_knickerbocker_16.txt,KNN,knickerbocker,1,1
+248,d_knickerbocker_17.txt,KNN,knickerbocker,1,1
+249,d_knickerbocker_18.txt,KNN,knickerbocker,1,1
+250,d_knickerbocker_19.txt,KNN,knickerbocker,1,1
+251,d_knickerbocker_2.txt,KNN,knickerbocker,1,1
+252,d_knickerbocker_20.txt,KNN,knickerbocker,1,1
+253,d_knickerbocker_3.txt,KNN,knickerbocker,1,1
+254,d_knickerbocker_4.txt,KNN,knickerbocker,1,1
+255,d_knickerbocker_5.txt,KNN,knickerbocker,1,1
+256,d_knickerbocker_6.txt,KNN,knickerbocker,1,1
+257,d_knickerbocker_7.txt,KNN,knickerbocker,1,1
+258,d_knickerbocker_8.txt,KNN,knickerbocker,1,0
+259,d_knickerbocker_9.txt,KNN,knickerbocker,1,0
+639,t_knickerbocker_1.txt,KNN,knickerbocker,0,1
+640,t_knickerbocker_10.txt,KNN,knickerbocker,0,0
+641,t_knickerbocker_11.txt,KNN,knickerbocker,0,0
+642,t_knickerbocker_12.txt,KNN,knickerbocker,0,0
+643,t_knickerbocker_13.txt,KNN,knickerbocker,0,0
+644,t_knickerbocker_14.txt,KNN,knickerbocker,0,1
+645,t_knickerbocker_15.txt,KNN,knickerbocker,0,0
+646,t_knickerbocker_16.txt,KNN,knickerbocker,0,0
+647,t_knickerbocker_17.txt,KNN,knickerbocker,0,1
+648,t_knickerbocker_18.txt,KNN,knickerbocker,0,0
+649,t_knickerbocker_19.txt,KNN,knickerbocker,0,0
+650,t_knickerbocker_2.txt,KNN,knickerbocker,0,0
+651,t_knickerbocker_20.txt,KNN,knickerbocker,0,1
+652,t_knickerbocker_3.txt,KNN,knickerbocker,0,0
+653,t_knickerbocker_4.txt,KNN,knickerbocker,0,1
+654,t_knickerbocker_5.txt,KNN,knickerbocker,0,0
+655,t_knickerbocker_6.txt,KNN,knickerbocker,0,0
+656,t_knickerbocker_7.txt,KNN,knickerbocker,0,0
+657,t_knickerbocker_8.txt,KNN,knickerbocker,0,0
+658,t_knickerbocker_9.txt,KNN,knickerbocker,0,0
+1036,d_knickerbocker_1.txt,KNN,knickerbocker,1,1
+1037,d_knickerbocker_10.txt,KNN,knickerbocker,1,1
+1038,d_knickerbocker_11.txt,KNN,knickerbocker,1,0
+1039,d_knickerbocker_12.txt,KNN,knickerbocker,1,1
+1040,d_knickerbocker_13.txt,KNN,knickerbocker,1,1
+1041,d_knickerbocker_14.txt,KNN,knickerbocker,1,1
+1042,d_knickerbocker_15.txt,KNN,knickerbocker,1,1
+1043,d_knickerbocker_16.txt,KNN,knickerbocker,1,1
+1044,d_knickerbocker_17.txt,KNN,knickerbocker,1,1
+1045,d_knickerbocker_18.txt,KNN,knickerbocker,1,1
+1046,d_knickerbocker_19.txt,KNN,knickerbocker,1,1
+1047,d_knickerbocker_2.txt,KNN,knickerbocker,1,1
+1048,d_knickerbocker_20.txt,KNN,knickerbocker,1,1
+1049,d_knickerbocker_3.txt,KNN,knickerbocker,1,1
+1050,d_knickerbocker_4.txt,KNN,knickerbocker,1,1
+1051,d_knickerbocker_5.txt,KNN,knickerbocker,1,1
+1052,d_knickerbocker_6.txt,KNN,knickerbocker,1,1
+1053,d_knickerbocker_7.txt,KNN,knickerbocker,1,1
+1054,d_knickerbocker_8.txt,KNN,knickerbocker,1,1
+1055,d_knickerbocker_9.txt,KNN,knickerbocker,1,1
+1436,t_knickerbocker_1.txt,KNN,knickerbocker,0,0
+1437,t_knickerbocker_10.txt,KNN,knickerbocker,0,1
+1438,t_knickerbocker_11.txt,KNN,knickerbocker,0,1
+1439,t_knickerbocker_12.txt,KNN,knickerbocker,0,0
+1440,t_knickerbocker_13.txt,KNN,knickerbocker,0,0
+1441,t_knickerbocker_14.txt,KNN,knickerbocker,0,1
+1442,t_knickerbocker_15.txt,KNN,knickerbocker,0,1
+1443,t_knickerbocker_16.txt,KNN,knickerbocker,0,0
+1444,t_knickerbocker_17.txt,KNN,knickerbocker,0,0
+1445,t_knickerbocker_18.txt,KNN,knickerbocker,0,1
+1446,t_knickerbocker_19.txt,KNN,knickerbocker,0,0
+1447,t_knickerbocker_2.txt,KNN,knickerbocker,0,0
+1448,t_knickerbocker_20.txt,KNN,knickerbocker,0,0
+1449,t_knickerbocker_3.txt,KNN,knickerbocker,0,0
+1450,t_knickerbocker_4.txt,KNN,knickerbocker,0,0
+1451,t_knickerbocker_5.txt,KNN,knickerbocker,0,0
+1452,t_knickerbocker_6.txt,KNN,knickerbocker,0,0
+1453,t_knickerbocker_7.txt,KNN,knickerbocker,0,0
+1454,t_knickerbocker_8.txt,KNN,knickerbocker,0,0
+1455,t_knickerbocker_9.txt,KNN,knickerbocker,0,0
+260,d_monaco_1.txt,KNN,monaco,1,1
+261,d_monaco_10.txt,KNN,monaco,1,0
+262,d_monaco_11.txt,KNN,monaco,1,0
+263,d_monaco_12.txt,KNN,monaco,1,1
+264,d_monaco_13.txt,KNN,monaco,1,1
+265,d_monaco_14.txt,KNN,monaco,1,1
+266,d_monaco_15.txt,KNN,monaco,1,1
+267,d_monaco_16.txt,KNN,monaco,1,0
+268,d_monaco_17.txt,KNN,monaco,1,1
+269,d_monaco_18.txt,KNN,monaco,1,1
+270,d_monaco_19.txt,KNN,monaco,1,1
+271,d_monaco_2.txt,KNN,monaco,1,1
+272,d_monaco_20.txt,KNN,monaco,1,1
+273,d_monaco_3.txt,KNN,monaco,1,0
+274,d_monaco_4.txt,KNN,monaco,1,1
+275,d_monaco_5.txt,KNN,monaco,1,1
+276,d_monaco_6.txt,KNN,monaco,1,1
+277,d_monaco_7.txt,KNN,monaco,1,1
+278,d_monaco_8.txt,KNN,monaco,1,1
+279,d_monaco_9.txt,KNN,monaco,1,1
+659,t_monaco_1.txt,KNN,monaco,0,0
+660,t_monaco_10.txt,KNN,monaco,0,0
+661,t_monaco_11.txt,KNN,monaco,0,0
+662,t_monaco_12.txt,KNN,monaco,0,1
+663,t_monaco_13.txt,KNN,monaco,0,0
+664,t_monaco_14.txt,KNN,monaco,0,0
+665,t_monaco_15.txt,KNN,monaco,0,0
+666,t_monaco_16.txt,KNN,monaco,0,1
+667,t_monaco_20.txt,KNN,monaco,0,0
+668,t_monaco_18.txt,KNN,monaco,0,1
+669,t_monaco_19.txt,KNN,monaco,0,1
+670,t_monaco_2.txt,KNN,monaco,0,1
+671,t_monaco_3.txt,KNN,monaco,0,1
+672,t_monaco_4.txt,KNN,monaco,0,0
+673,t_monaco_5.txt,KNN,monaco,0,1
+674,t_monaco_6.txt,KNN,monaco,0,0
+675,t_monaco_7.txt,KNN,monaco,0,1
+676,t_monaco_8.txt,KNN,monaco,0,0
+677,t_monaco_9.txt,KNN,monaco,0,0
+1056,d_monaco_1.txt,KNN,monaco,1,1
+1057,d_monaco_10.txt,KNN,monaco,1,0
+1058,d_monaco_11.txt,KNN,monaco,1,1
+1059,d_monaco_12.txt,KNN,monaco,1,1
+1060,d_monaco_13.txt,KNN,monaco,1,1
+1061,d_monaco_14.txt,KNN,monaco,1,0
+1062,d_monaco_15.txt,KNN,monaco,1,1
+1063,d_monaco_16.txt,KNN,monaco,1,1
+1064,d_monaco_17.txt,KNN,monaco,1,1
+1065,d_monaco_18.txt,KNN,monaco,1,1
+1066,d_monaco_19.txt,KNN,monaco,1,1
+1067,d_monaco_2.txt,KNN,monaco,1,1
+1068,d_monaco_20.txt,KNN,monaco,1,1
+1069,d_monaco_3.txt,KNN,monaco,1,1
+1070,d_monaco_4.txt,KNN,monaco,1,1
+1071,d_monaco_5.txt,KNN,monaco,1,1
+1072,d_monaco_6.txt,KNN,monaco,1,1
+1073,d_monaco_7.txt,KNN,monaco,1,1
+1074,d_monaco_8.txt,KNN,monaco,1,1
+1075,d_monaco_9.txt,KNN,monaco,1,1
+1456,t_monaco_1.txt,KNN,monaco,0,0
+1457,t_monaco_10.txt,KNN,monaco,0,0
+1458,t_monaco_11.txt,KNN,monaco,0,0
+1459,t_monaco_12.txt,KNN,monaco,0,0
+1460,t_monaco_13.txt,KNN,monaco,0,0
+1461,t_monaco_14.txt,KNN,monaco,0,0
+1462,t_monaco_15.txt,KNN,monaco,0,1
+1463,t_monaco_16.txt,KNN,monaco,0,0
+1464,t_monaco_17.txt,KNN,monaco,0,0
+1465,t_monaco_18.txt,KNN,monaco,0,0
+1466,t_monaco_19.txt,KNN,monaco,0,1
+1467,t_monaco_2.txt,KNN,monaco,0,0
+1468,t_monaco_20.txt,KNN,monaco,0,0
+1469,t_monaco_3.txt,KNN,monaco,0,1
+1470,t_monaco_4.txt,KNN,monaco,0,0
+1471,t_monaco_5.txt,KNN,monaco,0,1
+1472,t_monaco_6.txt,KNN,monaco,0,1
+1473,t_monaco_7.txt,KNN,monaco,0,1
+1474,t_monaco_8.txt,KNN,monaco,0,0
+1475,t_monaco_9.txt,KNN,monaco,0,0
+280,d_omni_1.txt,KNN,omni,1,1
+281,d_omni_10.txt,KNN,omni,1,1
+282,d_omni_11.txt,KNN,omni,1,1
+283,d_omni_12.txt,KNN,omni,1,1
+284,d_omni_13.txt,KNN,omni,1,1
+285,d_omni_14.txt,KNN,omni,1,1
+286,d_omni_15.txt,KNN,omni,1,1
+287,d_omni_16.txt,KNN,omni,1,1
+288,d_omni_17.txt,KNN,omni,1,1
+289,d_omni_18.txt,KNN,omni,1,1
+290,d_omni_19.txt,KNN,omni,1,1
+291,d_omni_2.txt,KNN,omni,1,1
+292,d_omni_20.txt,KNN,omni,1,1
+293,d_omni_3.txt,KNN,omni,1,1
+294,d_omni_4.txt,KNN,omni,1,1
+295,d_omni_5.txt,KNN,omni,1,1
+296,d_omni_6.txt,KNN,omni,1,1
+297,d_omni_7.txt,KNN,omni,1,1
+298,d_omni_8.txt,KNN,omni,1,1
+299,d_omni_9.txt,KNN,omni,1,1
+678,t_omni_1.txt,KNN,omni,0,0
+679,t_omni_13.txt,KNN,omni,0,0
+680,t_omni_11.txt,KNN,omni,0,0
+681,t_omni_12.txt,KNN,omni,0,1
+682,t_omni_14.txt,KNN,omni,0,0
+683,t_omni_15.txt,KNN,omni,0,0
+684,t_omni_16.txt,KNN,omni,0,0
+685,t_omni_17.txt,KNN,omni,0,1
+686,t_omni_18.txt,KNN,omni,0,1
+687,t_omni_19.txt,KNN,omni,0,0
+688,t_omni_2.txt,KNN,omni,0,1
+689,t_omni_20.txt,KNN,omni,0,0
+690,t_omni_3.txt,KNN,omni,0,1
+691,t_omni_4.txt,KNN,omni,0,0
+692,t_omni_9.txt,KNN,omni,0,1
+693,t_omni_6.txt,KNN,omni,0,0
+694,t_omni_7.txt,KNN,omni,0,0
+695,t_omni_8.txt,KNN,omni,0,1
+1076,d_omni_1.txt,KNN,omni,1,1
+1077,d_omni_10.txt,KNN,omni,1,1
+1078,d_omni_11.txt,KNN,omni,1,1
+1079,d_omni_12.txt,KNN,omni,1,1
+1080,d_omni_13.txt,KNN,omni,1,1
+1081,d_omni_14.txt,KNN,omni,1,1
+1082,d_omni_15.txt,KNN,omni,1,1
+1083,d_omni_16.txt,KNN,omni,1,1
+1084,d_omni_17.txt,KNN,omni,1,1
+1085,d_omni_18.txt,KNN,omni,1,1
+1086,d_omni_19.txt,KNN,omni,1,1
+1087,d_omni_2.txt,KNN,omni,1,1
+1088,d_omni_20.txt,KNN,omni,1,1
+1089,d_omni_3.txt,KNN,omni,1,1
+1090,d_omni_4.txt,KNN,omni,1,1
+1091,d_omni_5.txt,KNN,omni,1,1
+1092,d_omni_6.txt,KNN,omni,1,0
+1093,d_omni_7.txt,KNN,omni,1,1
+1094,d_omni_8.txt,KNN,omni,1,1
+1095,d_omni_9.txt,KNN,omni,1,1
+1476,t_omni_1.txt,KNN,omni,0,0
+1477,t_omni_10.txt,KNN,omni,0,0
+1478,t_omni_11.txt,KNN,omni,0,1
+1479,t_omni_12.txt,KNN,omni,0,0
+1480,t_omni_13.txt,KNN,omni,0,0
+1481,t_omni_14.txt,KNN,omni,0,1
+1482,t_omni_15.txt,KNN,omni,0,1
+1483,t_omni_16.txt,KNN,omni,0,0
+1484,t_omni_17.txt,KNN,omni,0,0
+1485,t_omni_18.txt,KNN,omni,0,1
+1486,t_omni_19.txt,KNN,omni,0,1
+1487,t_omni_2.txt,KNN,omni,0,1
+1488,t_omni_20.txt,KNN,omni,0,0
+1489,t_omni_3.txt,KNN,omni,0,0
+1490,t_omni_4.txt,KNN,omni,0,0
+1491,t_omni_5.txt,KNN,omni,0,0
+1492,t_omni_6.txt,KNN,omni,0,1
+1493,t_omni_7.txt,KNN,omni,0,1
+1494,t_omni_8.txt,KNN,omni,0,0
+1495,t_omni_9.txt,KNN,omni,0,0
+300,d_palmer_1.txt,KNN,palmer,1,0
+301,d_palmer_10.txt,KNN,palmer,1,1
+302,d_palmer_11.txt,KNN,palmer,1,1
+303,d_palmer_12.txt,KNN,palmer,1,1
+304,d_palmer_13.txt,KNN,palmer,1,1
+305,d_palmer_14.txt,KNN,palmer,1,1
+306,d_palmer_15.txt,KNN,palmer,1,1
+307,d_palmer_16.txt,KNN,palmer,1,1
+308,d_palmer_17.txt,KNN,palmer,1,1
+309,d_palmer_18.txt,KNN,palmer,1,1
+310,d_palmer_19.txt,KNN,palmer,1,1
+311,d_palmer_2.txt,KNN,palmer,1,1
+312,d_palmer_20.txt,KNN,palmer,1,1
+313,d_palmer_3.txt,KNN,palmer,1,1
+314,d_palmer_4.txt,KNN,palmer,1,1
+315,d_palmer_5.txt,KNN,palmer,1,1
+316,d_palmer_6.txt,KNN,palmer,1,1
+317,d_palmer_7.txt,KNN,palmer,1,1
+318,d_palmer_8.txt,KNN,palmer,1,0
+319,d_palmer_9.txt,KNN,palmer,1,1
+696,t_palmer_1.txt,KNN,palmer,0,0
+697,t_palmer_10.txt,KNN,palmer,0,0
+698,t_palmer_11.txt,KNN,palmer,0,0
+699,t_palmer_12.txt,KNN,palmer,0,0
+700,t_palmer_13.txt,KNN,palmer,0,0
+701,t_palmer_14.txt,KNN,palmer,0,1
+702,t_palmer_15.txt,KNN,palmer,0,0
+703,t_palmer_16.txt,KNN,palmer,0,0
+704,t_palmer_17.txt,KNN,palmer,0,0
+705,t_palmer_18.txt,KNN,palmer,0,0
+706,t_palmer_19.txt,KNN,palmer,0,1
+707,t_palmer_2.txt,KNN,palmer,0,0
+708,t_palmer_20.txt,KNN,palmer,0,0
+709,t_palmer_3.txt,KNN,palmer,0,1
+710,t_palmer_4.txt,KNN,palmer,0,0
+711,t_palmer_5.txt,KNN,palmer,0,0
+712,t_palmer_6.txt,KNN,palmer,0,0
+713,t_palmer_7.txt,KNN,palmer,0,0
+714,t_palmer_8.txt,KNN,palmer,0,0
+715,t_palmer_9.txt,KNN,palmer,0,0
+1096,d_palmer_1.txt,KNN,palmer,1,1
+1097,d_palmer_10.txt,KNN,palmer,1,1
+1098,d_palmer_11.txt,KNN,palmer,1,1
+1099,d_palmer_12.txt,KNN,palmer,1,1
+1100,d_palmer_13.txt,KNN,palmer,1,1
+1101,d_palmer_14.txt,KNN,palmer,1,1
+1102,d_palmer_15.txt,KNN,palmer,1,1
+1103,d_palmer_16.txt,KNN,palmer,1,1
+1104,d_palmer_17.txt,KNN,palmer,1,1
+1105,d_palmer_18.txt,KNN,palmer,1,1
+1106,d_palmer_19.txt,KNN,palmer,1,1
+1107,d_palmer_2.txt,KNN,palmer,1,1
+1108,d_palmer_20.txt,KNN,palmer,1,1
+1109,d_palmer_3.txt,KNN,palmer,1,1
+1110,d_palmer_4.txt,KNN,palmer,1,1
+1111,d_palmer_5.txt,KNN,palmer,1,1
+1112,d_palmer_6.txt,KNN,palmer,1,1
+1113,d_palmer_7.txt,KNN,palmer,1,0
+1114,d_palmer_8.txt,KNN,palmer,1,1
+1115,d_palmer_9.txt,KNN,palmer,1,1
+1496,t_palmer_1.txt,KNN,palmer,0,0
+1497,t_palmer_10.txt,KNN,palmer,0,0
+1498,t_palmer_11.txt,KNN,palmer,0,1
+1499,t_palmer_12.txt,KNN,palmer,0,0
+1500,t_palmer_13.txt,KNN,palmer,0,1
+1501,t_palmer_14.txt,KNN,palmer,0,1
+1502,t_palmer_15.txt,KNN,palmer,0,0
+1503,t_palmer_16.txt,KNN,palmer,0,0
+1504,t_palmer_17.txt,KNN,palmer,0,0
+1505,t_palmer_18.txt,KNN,palmer,0,0
+1506,t_palmer_19.txt,KNN,palmer,0,0
+1507,t_palmer_2.txt,KNN,palmer,0,0
+1508,t_palmer_20.txt,KNN,palmer,0,0
+1509,t_palmer_3.txt,KNN,palmer,0,0
+1510,t_palmer_4.txt,KNN,palmer,0,0
+1511,t_palmer_5.txt,KNN,palmer,0,0
+1512,t_palmer_6.txt,KNN,palmer,0,0
+1513,t_palmer_7.txt,KNN,palmer,0,0
+1514,t_palmer_8.txt,KNN,palmer,0,0
+1515,t_palmer_9.txt,KNN,palmer,0,1
+320,d_sheraton_1.txt,KNN,sheraton,1,1
+321,d_sheraton_10.txt,KNN,sheraton,1,1
+322,d_sheraton_11.txt,KNN,sheraton,1,1
+323,d_sheraton_12.txt,KNN,sheraton,1,1
+324,d_sheraton_13.txt,KNN,sheraton,1,1
+325,d_sheraton_14.txt,KNN,sheraton,1,1
+326,d_sheraton_15.txt,KNN,sheraton,1,1
+327,d_sheraton_16.txt,KNN,sheraton,1,1
+328,d_sheraton_17.txt,KNN,sheraton,1,1
+329,d_sheraton_18.txt,KNN,sheraton,1,1
+330,d_sheraton_19.txt,KNN,sheraton,1,1
+331,d_sheraton_2.txt,KNN,sheraton,1,1
+332,d_sheraton_20.txt,KNN,sheraton,1,1
+333,d_sheraton_3.txt,KNN,sheraton,1,1
+334,d_sheraton_4.txt,KNN,sheraton,1,1
+335,d_sheraton_5.txt,KNN,sheraton,1,1
+336,d_sheraton_6.txt,KNN,sheraton,1,0
+337,d_sheraton_7.txt,KNN,sheraton,1,1
+338,d_sheraton_8.txt,KNN,sheraton,1,1
+339,d_sheraton_9.txt,KNN,sheraton,1,1
+716,t_sheraton_1.txt,KNN,sheraton,0,0
+717,t_sheraton_10.txt,KNN,sheraton,0,0
+718,t_sheraton_11.txt,KNN,sheraton,0,0
+719,t_sheraton_12.txt,KNN,sheraton,0,1
+720,t_sheraton_13.txt,KNN,sheraton,0,0
+721,t_sheraton_14.txt,KNN,sheraton,0,1
+722,t_sheraton_15.txt,KNN,sheraton,0,0
+723,t_sheraton_16.txt,KNN,sheraton,0,0
+724,t_sheraton_17.txt,KNN,sheraton,0,0
+725,t_sheraton_18.txt,KNN,sheraton,0,1
+726,t_sheraton_19.txt,KNN,sheraton,0,0
+727,t_sheraton_2.txt,KNN,sheraton,0,1
+728,t_sheraton_20.txt,KNN,sheraton,0,1
+729,t_sheraton_3.txt,KNN,sheraton,0,0
+730,t_sheraton_4.txt,KNN,sheraton,0,1
+731,t_sheraton_5.txt,KNN,sheraton,0,0
+732,t_sheraton_6.txt,KNN,sheraton,0,0
+733,t_sheraton_7.txt,KNN,sheraton,0,0
+734,t_sheraton_8.txt,KNN,sheraton,0,0
+735,t_sheraton_9.txt,KNN,sheraton,0,0
+1116,d_sheraton_1.txt,KNN,sheraton,1,1
+1117,d_sheraton_10.txt,KNN,sheraton,1,1
+1118,d_sheraton_11.txt,KNN,sheraton,1,1
+1119,d_sheraton_12.txt,KNN,sheraton,1,1
+1120,d_sheraton_13.txt,KNN,sheraton,1,1
+1121,d_sheraton_14.txt,KNN,sheraton,1,1
+1122,d_sheraton_15.txt,KNN,sheraton,1,1
+1123,d_sheraton_16.txt,KNN,sheraton,1,1
+1124,d_sheraton_17.txt,KNN,sheraton,1,1
+1125,d_sheraton_18.txt,KNN,sheraton,1,0
+1126,d_sheraton_19.txt,KNN,sheraton,1,1
+1127,d_sheraton_2.txt,KNN,sheraton,1,1
+1128,d_sheraton_20.txt,KNN,sheraton,1,1
+1129,d_sheraton_3.txt,KNN,sheraton,1,1
+1130,d_sheraton_4.txt,KNN,sheraton,1,1
+1131,d_sheraton_5.txt,KNN,sheraton,1,1
+1132,d_sheraton_6.txt,KNN,sheraton,1,1
+1133,d_sheraton_7.txt,KNN,sheraton,1,1
+1134,d_sheraton_8.txt,KNN,sheraton,1,1
+1135,d_sheraton_9.txt,KNN,sheraton,1,1
+1516,t_sheraton_1.txt,KNN,sheraton,0,0
+1517,t_sheraton_10.txt,KNN,sheraton,0,1
+1518,t_sheraton_11.txt,KNN,sheraton,0,0
+1519,t_sheraton_12.txt,KNN,sheraton,0,0
+1520,t_sheraton_13.txt,KNN,sheraton,0,0
+1521,t_sheraton_14.txt,KNN,sheraton,0,1
+1522,t_sheraton_15.txt,KNN,sheraton,0,0
+1523,t_sheraton_16.txt,KNN,sheraton,0,0
+1524,t_sheraton_17.txt,KNN,sheraton,0,0
+1525,t_sheraton_18.txt,KNN,sheraton,0,1
+1526,t_sheraton_19.txt,KNN,sheraton,0,0
+1527,t_sheraton_2.txt,KNN,sheraton,0,0
+1528,t_sheraton_20.txt,KNN,sheraton,0,0
+1529,t_sheraton_3.txt,KNN,sheraton,0,0
+1530,t_sheraton_4.txt,KNN,sheraton,0,0
+1531,t_sheraton_5.txt,KNN,sheraton,0,0
+1532,t_sheraton_6.txt,KNN,sheraton,0,1
+1533,t_sheraton_7.txt,KNN,sheraton,0,0
+1534,t_sheraton_8.txt,KNN,sheraton,0,1
+1535,t_sheraton_9.txt,KNN,sheraton,0,0
+340,d_sofitel_1.txt,KNN,sofitel,1,1
+341,d_sofitel_10.txt,KNN,sofitel,1,0
+342,d_sofitel_11.txt,KNN,sofitel,1,1
+343,d_sofitel_12.txt,KNN,sofitel,1,1
+344,d_sofitel_13.txt,KNN,sofitel,1,1
+345,d_sofitel_14.txt,KNN,sofitel,1,1
+346,d_sofitel_15.txt,KNN,sofitel,1,0
+347,d_sofitel_16.txt,KNN,sofitel,1,0
+348,d_sofitel_17.txt,KNN,sofitel,1,1
+349,d_sofitel_18.txt,KNN,sofitel,1,1
+350,d_sofitel_19.txt,KNN,sofitel,1,1
+351,d_sofitel_2.txt,KNN,sofitel,1,1
+352,d_sofitel_20.txt,KNN,sofitel,1,1
+353,d_sofitel_3.txt,KNN,sofitel,1,1
+354,d_sofitel_4.txt,KNN,sofitel,1,0
+355,d_sofitel_5.txt,KNN,sofitel,1,1
+356,d_sofitel_6.txt,KNN,sofitel,1,1
+357,d_sofitel_7.txt,KNN,sofitel,1,1
+358,d_sofitel_8.txt,KNN,sofitel,1,1
+359,d_sofitel_9.txt,KNN,sofitel,1,1
+736,t_sofitel_1.txt,KNN,sofitel,0,0
+737,t_sofitel_10.txt,KNN,sofitel,0,0
+738,t_sofitel_11.txt,KNN,sofitel,0,0
+739,t_sofitel_12.txt,KNN,sofitel,0,1
+740,t_sofitel_13.txt,KNN,sofitel,0,1
+741,t_sofitel_14.txt,KNN,sofitel,0,0
+742,t_sofitel_15.txt,KNN,sofitel,0,0
+743,t_sofitel_16.txt,KNN,sofitel,0,1
+744,t_sofitel_17.txt,KNN,sofitel,0,0
+745,t_sofitel_18.txt,KNN,sofitel,0,1
+746,t_sofitel_19.txt,KNN,sofitel,0,0
+747,t_sofitel_2.txt,KNN,sofitel,0,1
+748,t_sofitel_20.txt,KNN,sofitel,0,0
+749,t_sofitel_3.txt,KNN,sofitel,0,1
+750,t_sofitel_4.txt,KNN,sofitel,0,0
+751,t_sofitel_5.txt,KNN,sofitel,0,0
+752,t_sofitel_6.txt,KNN,sofitel,0,1
+753,t_sofitel_7.txt,KNN,sofitel,0,0
+754,t_sofitel_8.txt,KNN,sofitel,0,0
+755,t_sofitel_9.txt,KNN,sofitel,0,0
+1136,d_sofitel_1.txt,KNN,sofitel,1,1
+1137,d_sofitel_10.txt,KNN,sofitel,1,1
+1138,d_sofitel_11.txt,KNN,sofitel,1,1
+1139,d_sofitel_12.txt,KNN,sofitel,1,1
+1140,d_sofitel_13.txt,KNN,sofitel,1,1
+1141,d_sofitel_14.txt,KNN,sofitel,1,0
+1142,d_sofitel_15.txt,KNN,sofitel,1,1
+1143,d_sofitel_16.txt,KNN,sofitel,1,1
+1144,d_sofitel_17.txt,KNN,sofitel,1,1
+1145,d_sofitel_18.txt,KNN,sofitel,1,1
+1146,d_sofitel_19.txt,KNN,sofitel,1,1
+1147,d_sofitel_2.txt,KNN,sofitel,1,1
+1148,d_sofitel_20.txt,KNN,sofitel,1,1
+1149,d_sofitel_3.txt,KNN,sofitel,1,1
+1150,d_sofitel_4.txt,KNN,sofitel,1,1
+1151,d_sofitel_5.txt,KNN,sofitel,1,1
+1152,d_sofitel_6.txt,KNN,sofitel,1,1
+1153,d_sofitel_7.txt,KNN,sofitel,1,1
+1154,d_sofitel_8.txt,KNN,sofitel,1,1
+1155,d_sofitel_9.txt,KNN,sofitel,1,1
+1536,t_sofitel_1.txt,KNN,sofitel,0,1
+1537,t_sofitel_10.txt,KNN,sofitel,0,0
+1538,t_sofitel_11.txt,KNN,sofitel,0,0
+1539,t_sofitel_12.txt,KNN,sofitel,0,0
+1540,t_sofitel_13.txt,KNN,sofitel,0,0
+1541,t_sofitel_14.txt,KNN,sofitel,0,0
+1542,t_sofitel_15.txt,KNN,sofitel,0,1
+1543,t_sofitel_16.txt,KNN,sofitel,0,0
+1544,t_sofitel_17.txt,KNN,sofitel,0,1
+1545,t_sofitel_18.txt,KNN,sofitel,0,1
+1546,t_sofitel_19.txt,KNN,sofitel,0,1
+1547,t_sofitel_2.txt,KNN,sofitel,0,0
+1548,t_sofitel_20.txt,KNN,sofitel,0,0
+1549,t_sofitel_3.txt,KNN,sofitel,0,0
+1550,t_sofitel_4.txt,KNN,sofitel,0,0
+1551,t_sofitel_5.txt,KNN,sofitel,0,0
+1552,t_sofitel_6.txt,KNN,sofitel,0,0
+1553,t_sofitel_7.txt,KNN,sofitel,0,0
+1554,t_sofitel_8.txt,KNN,sofitel,0,1
+1555,t_sofitel_9.txt,KNN,sofitel,0,1
+360,d_swissotel_1.txt,KNN,swissotel,1,1
+361,d_swissotel_10.txt,KNN,swissotel,1,1
+362,d_swissotel_11.txt,KNN,swissotel,1,1
+363,d_swissotel_12.txt,KNN,swissotel,1,0
+364,d_swissotel_13.txt,KNN,swissotel,1,1
+365,d_swissotel_14.txt,KNN,swissotel,1,1
+366,d_swissotel_15.txt,KNN,swissotel,1,1
+367,d_swissotel_16.txt,KNN,swissotel,1,1
+368,d_swissotel_17.txt,KNN,swissotel,1,1
+369,d_swissotel_18.txt,KNN,swissotel,1,1
+370,d_swissotel_19.txt,KNN,swissotel,1,1
+371,d_swissotel_2.txt,KNN,swissotel,1,1
+372,d_swissotel_20.txt,KNN,swissotel,1,0
+373,d_swissotel_3.txt,KNN,swissotel,1,1
+374,d_swissotel_4.txt,KNN,swissotel,1,1
+375,d_swissotel_5.txt,KNN,swissotel,1,1
+376,d_swissotel_6.txt,KNN,swissotel,1,1
+377,d_swissotel_7.txt,KNN,swissotel,1,1
+378,d_swissotel_8.txt,KNN,swissotel,1,1
+379,d_swissotel_9.txt,KNN,swissotel,1,1
+756,t_swissotel_1.txt,KNN,swissotel,0,0
+757,t_swissotel_10.txt,KNN,swissotel,0,0
+758,t_swissotel_11.txt,KNN,swissotel,0,1
+759,t_swissotel_12.txt,KNN,swissotel,0,0
+760,t_swissotel_13.txt,KNN,swissotel,0,1
+761,t_swissotel_14.txt,KNN,swissotel,0,1
+762,t_swissotel_15.txt,KNN,swissotel,0,0
+763,t_swissotel_16.txt,KNN,swissotel,0,0
+764,t_swissotel_17.txt,KNN,swissotel,0,0
+765,t_swissotel_18.txt,KNN,swissotel,0,0
+766,t_swissotel_19.txt,KNN,swissotel,0,1
+767,t_swissotel_2.txt,KNN,swissotel,0,1
+768,t_swissotel_20.txt,KNN,swissotel,0,0
+769,t_swissotel_3.txt,KNN,swissotel,0,1
+770,t_swissotel_4.txt,KNN,swissotel,0,1
+771,t_swissotel_5.txt,KNN,swissotel,0,1
+772,t_swissotel_6.txt,KNN,swissotel,0,0
+773,t_swissotel_7.txt,KNN,swissotel,0,0
+774,t_swissotel_8.txt,KNN,swissotel,0,0
+775,t_swissotel_9.txt,KNN,swissotel,0,1
+1156,d_swissotel_1.txt,KNN,swissotel,1,1
+1157,d_swissotel_10.txt,KNN,swissotel,1,1
+1158,d_swissotel_11.txt,KNN,swissotel,1,1
+1159,d_swissotel_12.txt,KNN,swissotel,1,1
+1160,d_swissotel_13.txt,KNN,swissotel,1,1
+1161,d_swissotel_14.txt,KNN,swissotel,1,1
+1162,d_swissotel_15.txt,KNN,swissotel,1,1
+1163,d_swissotel_16.txt,KNN,swissotel,1,0
+1164,d_swissotel_17.txt,KNN,swissotel,1,1
+1165,d_swissotel_18.txt,KNN,swissotel,1,1
+1166,d_swissotel_19.txt,KNN,swissotel,1,1
+1167,d_swissotel_2.txt,KNN,swissotel,1,1
+1168,d_swissotel_20.txt,KNN,swissotel,1,1
+1169,d_swissotel_3.txt,KNN,swissotel,1,1
+1170,d_swissotel_4.txt,KNN,swissotel,1,1
+1171,d_swissotel_5.txt,KNN,swissotel,1,1
+1172,d_swissotel_6.txt,KNN,swissotel,1,0
+1173,d_swissotel_7.txt,KNN,swissotel,1,1
+1174,d_swissotel_8.txt,KNN,swissotel,1,1
+1175,d_swissotel_9.txt,KNN,swissotel,1,1
+1556,t_swissotel_1.txt,KNN,swissotel,0,0
+1557,t_swissotel_10.txt,KNN,swissotel,0,0
+1558,t_swissotel_11.txt,KNN,swissotel,0,0
+1559,t_swissotel_12.txt,KNN,swissotel,0,0
+1560,t_swissotel_13.txt,KNN,swissotel,0,0
+1561,t_swissotel_14.txt,KNN,swissotel,0,0
+1562,t_swissotel_15.txt,KNN,swissotel,0,0
+1563,t_swissotel_16.txt,KNN,swissotel,0,0
+1564,t_swissotel_17.txt,KNN,swissotel,0,0
+1565,t_swissotel_18.txt,KNN,swissotel,0,0
+1566,t_swissotel_19.txt,KNN,swissotel,0,0
+1567,t_swissotel_2.txt,KNN,swissotel,0,0
+1568,t_swissotel_20.txt,KNN,swissotel,0,0
+1569,t_swissotel_3.txt,KNN,swissotel,0,0
+1570,t_swissotel_4.txt,KNN,swissotel,0,0
+1571,t_swissotel_5.txt,KNN,swissotel,0,0
+1572,t_swissotel_6.txt,KNN,swissotel,0,0
+1573,t_swissotel_7.txt,KNN,swissotel,0,0
+1574,t_swissotel_8.txt,KNN,swissotel,0,0
+1575,t_swissotel_9.txt,KNN,swissotel,0,0
+380,d_talbott_1.txt,KNN,talbott,1,1
+381,d_talbott_10.txt,KNN,talbott,1,1
+382,d_talbott_11.txt,KNN,talbott,1,1
+383,d_talbott_12.txt,KNN,talbott,1,1
+384,d_talbott_13.txt,KNN,talbott,1,1
+385,d_talbott_14.txt,KNN,talbott,1,0
+386,d_talbott_15.txt,KNN,talbott,1,1
+387,d_talbott_16.txt,KNN,talbott,1,1
+388,d_talbott_17.txt,KNN,talbott,1,1
+389,d_talbott_18.txt,KNN,talbott,1,1
+390,d_talbott_19.txt,KNN,talbott,1,1
+391,d_talbott_2.txt,KNN,talbott,1,1
+392,d_talbott_20.txt,KNN,talbott,1,1
+393,d_talbott_3.txt,KNN,talbott,1,1
+394,d_talbott_4.txt,KNN,talbott,1,1
+395,d_talbott_5.txt,KNN,talbott,1,1
+396,d_talbott_6.txt,KNN,talbott,1,1
+397,d_talbott_7.txt,KNN,talbott,1,1
+398,d_talbott_8.txt,KNN,talbott,1,1
+399,d_talbott_9.txt,KNN,talbott,1,1
+776,t_talbott_1.txt,KNN,talbott,0,0
+777,t_talbott_10.txt,KNN,talbott,0,1
+778,t_talbott_11.txt,KNN,talbott,0,0
+779,t_talbott_12.txt,KNN,talbott,0,0
+780,t_talbott_13.txt,KNN,talbott,0,0
+781,t_talbott_14.txt,KNN,talbott,0,1
+782,t_talbott_15.txt,KNN,talbott,0,0
+783,t_talbott_16.txt,KNN,talbott,0,0
+784,t_talbott_17.txt,KNN,talbott,0,1
+785,t_talbott_18.txt,KNN,talbott,0,0
+786,t_talbott_19.txt,KNN,talbott,0,1
+787,t_talbott_2.txt,KNN,talbott,0,0
+788,t_talbott_20.txt,KNN,talbott,0,0
+789,t_talbott_3.txt,KNN,talbott,0,0
+790,t_talbott_4.txt,KNN,talbott,0,1
+791,t_talbott_5.txt,KNN,talbott,0,0
+792,t_talbott_6.txt,KNN,talbott,0,0
+793,t_talbott_7.txt,KNN,talbott,0,1
+794,t_talbott_8.txt,KNN,talbott,0,1
+795,t_talbott_9.txt,KNN,talbott,0,1
+1176,d_talbott_1.txt,KNN,talbott,1,1
+1177,d_talbott_10.txt,KNN,talbott,1,1
+1178,d_talbott_11.txt,KNN,talbott,1,1
+1179,d_talbott_12.txt,KNN,talbott,1,1
+1180,d_talbott_13.txt,KNN,talbott,1,1
+1181,d_talbott_14.txt,KNN,talbott,1,1
+1182,d_talbott_15.txt,KNN,talbott,1,1
+1183,d_talbott_16.txt,KNN,talbott,1,1
+1184,d_talbott_17.txt,KNN,talbott,1,1
+1185,d_talbott_18.txt,KNN,talbott,1,1
+1186,d_talbott_19.txt,KNN,talbott,1,1
+1187,d_talbott_2.txt,KNN,talbott,1,1
+1188,d_talbott_20.txt,KNN,talbott,1,1
+1189,d_talbott_3.txt,KNN,talbott,1,1
+1190,d_talbott_4.txt,KNN,talbott,1,1
+1191,d_talbott_5.txt,KNN,talbott,1,1
+1192,d_talbott_6.txt,KNN,talbott,1,0
+1193,d_talbott_7.txt,KNN,talbott,1,1
+1194,d_talbott_8.txt,KNN,talbott,1,1
+1195,d_talbott_9.txt,KNN,talbott,1,1
+1576,t_talbott_1.txt,KNN,talbott,0,0
+1577,t_talbott_10.txt,KNN,talbott,0,1
+1578,t_talbott_11.txt,KNN,talbott,0,0
+1579,t_talbott_12.txt,KNN,talbott,0,0
+1580,t_talbott_13.txt,KNN,talbott,0,1
+1581,t_talbott_14.txt,KNN,talbott,0,1
+1582,t_talbott_15.txt,KNN,talbott,0,0
+1583,t_talbott_16.txt,KNN,talbott,0,0
+1584,t_talbott_17.txt,KNN,talbott,0,0
+1585,t_talbott_18.txt,KNN,talbott,0,1
+1586,t_talbott_19.txt,KNN,talbott,0,0
+1587,t_talbott_2.txt,KNN,talbott,0,0
+1588,t_talbott_20.txt,KNN,talbott,0,0
+1589,t_talbott_3.txt,KNN,talbott,0,0
+1590,t_talbott_4.txt,KNN,talbott,0,0
+1591,t_talbott_5.txt,KNN,talbott,0,0
+1592,t_talbott_6.txt,KNN,talbott,0,0
+1593,t_talbott_7.txt,KNN,talbott,0,0
+1594,t_talbott_8.txt,KNN,talbott,0,0
+1595,t_talbott_9.txt,KNN,talbott,0,0
+0,d_affinia_1.txt,SVM,affinia,1,1
+1,d_affinia_10.txt,SVM,affinia,1,1
+2,d_affinia_11.txt,SVM,affinia,1,1
+3,d_affinia_12.txt,SVM,affinia,1,1
+4,d_affinia_13.txt,SVM,affinia,1,1
+5,d_affinia_14.txt,SVM,affinia,1,1
+6,d_affinia_15.txt,SVM,affinia,1,1
+7,d_affinia_16.txt,SVM,affinia,1,0
+8,d_affinia_17.txt,SVM,affinia,1,0
+9,d_affinia_18.txt,SVM,affinia,1,1
+10,d_affinia_19.txt,SVM,affinia,1,1
+11,d_affinia_2.txt,SVM,affinia,1,0
+12,d_affinia_20.txt,SVM,affinia,1,1
+13,d_affinia_3.txt,SVM,affinia,1,0
+14,d_affinia_4.txt,SVM,affinia,1,1
+15,d_affinia_5.txt,SVM,affinia,1,0
+16,d_affinia_6.txt,SVM,affinia,1,1
+17,d_affinia_7.txt,SVM,affinia,1,1
+18,d_affinia_8.txt,SVM,affinia,1,0
+19,d_affinia_9.txt,SVM,affinia,1,1
+400,t_affinia_1.txt,SVM,affinia,0,0
+401,t_affinia_10.txt,SVM,affinia,0,0
+402,t_affinia_11.txt,SVM,affinia,0,0
+403,t_affinia_12.txt,SVM,affinia,0,0
+404,t_affinia_13.txt,SVM,affinia,0,0
+405,t_affinia_19.txt,SVM,affinia,0,0
+406,t_affinia_15.txt,SVM,affinia,0,0
+407,t_affinia_16.txt,SVM,affinia,0,0
+408,t_affinia_17.txt,SVM,affinia,0,0
+409,t_affinia_18.txt,SVM,affinia,0,0
+410,t_affinia_2.txt,SVM,affinia,0,0
+411,t_affinia_20.txt,SVM,affinia,0,0
+412,t_affinia_3.txt,SVM,affinia,0,0
+413,t_affinia_4.txt,SVM,affinia,0,0
+414,t_affinia_5.txt,SVM,affinia,0,0
+415,t_affinia_6.txt,SVM,affinia,0,0
+416,t_affinia_7.txt,SVM,affinia,0,0
+417,t_affinia_8.txt,SVM,affinia,0,0
+418,t_affinia_9.txt,SVM,affinia,0,0
+796,d_affinia_1.txt,SVM,affinia,1,1
+797,d_affinia_10.txt,SVM,affinia,1,1
+798,d_affinia_11.txt,SVM,affinia,1,1
+799,d_affinia_12.txt,SVM,affinia,1,0
+800,d_affinia_13.txt,SVM,affinia,1,1
+801,d_affinia_14.txt,SVM,affinia,1,1
+802,d_affinia_15.txt,SVM,affinia,1,1
+803,d_affinia_16.txt,SVM,affinia,1,1
+804,d_affinia_17.txt,SVM,affinia,1,0
+805,d_affinia_18.txt,SVM,affinia,1,1
+806,d_affinia_19.txt,SVM,affinia,1,1
+807,d_affinia_2.txt,SVM,affinia,1,1
+808,d_affinia_20.txt,SVM,affinia,1,0
+809,d_affinia_3.txt,SVM,affinia,1,1
+810,d_affinia_4.txt,SVM,affinia,1,1
+811,d_affinia_5.txt,SVM,affinia,1,1
+812,d_affinia_6.txt,SVM,affinia,1,1
+813,d_affinia_7.txt,SVM,affinia,1,1
+814,d_affinia_8.txt,SVM,affinia,1,0
+815,d_affinia_9.txt,SVM,affinia,1,1
+1196,t_affinia_1.txt,SVM,affinia,0,0
+1197,t_affinia_10.txt,SVM,affinia,0,0
+1198,t_affinia_11.txt,SVM,affinia,0,0
+1199,t_affinia_12.txt,SVM,affinia,0,1
+1200,t_affinia_13.txt,SVM,affinia,0,0
+1201,t_affinia_14.txt,SVM,affinia,0,0
+1202,t_affinia_15.txt,SVM,affinia,0,1
+1203,t_affinia_16.txt,SVM,affinia,0,0
+1204,t_affinia_17.txt,SVM,affinia,0,0
+1205,t_affinia_18.txt,SVM,affinia,0,0
+1206,t_affinia_19.txt,SVM,affinia,0,0
+1207,t_affinia_2.txt,SVM,affinia,0,0
+1208,t_affinia_20.txt,SVM,affinia,0,0
+1209,t_affinia_3.txt,SVM,affinia,0,0
+1210,t_affinia_4.txt,SVM,affinia,0,0
+1211,t_affinia_5.txt,SVM,affinia,0,1
+1212,t_affinia_6.txt,SVM,affinia,0,0
+1213,t_affinia_7.txt,SVM,affinia,0,0
+1214,t_affinia_8.txt,SVM,affinia,0,0
+1215,t_affinia_9.txt,SVM,affinia,0,0
+20,d_allegro_1.txt,SVM,allegro,1,1
+21,d_allegro_10.txt,SVM,allegro,1,1
+22,d_allegro_11.txt,SVM,allegro,1,1
+23,d_allegro_12.txt,SVM,allegro,1,1
+24,d_allegro_13.txt,SVM,allegro,1,0
+25,d_allegro_14.txt,SVM,allegro,1,1
+26,d_allegro_15.txt,SVM,allegro,1,1
+27,d_allegro_16.txt,SVM,allegro,1,1
+28,d_allegro_17.txt,SVM,allegro,1,0
+29,d_allegro_18.txt,SVM,allegro,1,1
+30,d_allegro_19.txt,SVM,allegro,1,1
+31,d_allegro_2.txt,SVM,allegro,1,1
+32,d_allegro_20.txt,SVM,allegro,1,1
+33,d_allegro_3.txt,SVM,allegro,1,1
+34,d_allegro_4.txt,SVM,allegro,1,1
+35,d_allegro_5.txt,SVM,allegro,1,1
+36,d_allegro_6.txt,SVM,allegro,1,1
+37,d_allegro_7.txt,SVM,allegro,1,1
+38,d_allegro_8.txt,SVM,allegro,1,0
+39,d_allegro_9.txt,SVM,allegro,1,1
+419,t_allegro_1.txt,SVM,allegro,0,0
+420,t_allegro_10.txt,SVM,allegro,0,0
+421,t_allegro_11.txt,SVM,allegro,0,0
+422,t_allegro_12.txt,SVM,allegro,0,0
+423,t_allegro_13.txt,SVM,allegro,0,0
+424,t_allegro_14.txt,SVM,allegro,0,1
+425,t_allegro_15.txt,SVM,allegro,0,0
+426,t_allegro_16.txt,SVM,allegro,0,0
+427,t_allegro_17.txt,SVM,allegro,0,0
+428,t_allegro_18.txt,SVM,allegro,0,0
+429,t_allegro_19.txt,SVM,allegro,0,0
+430,t_allegro_2.txt,SVM,allegro,0,0
+431,t_allegro_20.txt,SVM,allegro,0,0
+432,t_allegro_3.txt,SVM,allegro,0,0
+433,t_allegro_4.txt,SVM,allegro,0,0
+434,t_allegro_5.txt,SVM,allegro,0,0
+435,t_allegro_6.txt,SVM,allegro,0,0
+436,t_allegro_7.txt,SVM,allegro,0,0
+437,t_allegro_8.txt,SVM,allegro,0,1
+438,t_allegro_9.txt,SVM,allegro,0,0
+816,d_allegro_1.txt,SVM,allegro,1,1
+817,d_allegro_10.txt,SVM,allegro,1,1
+818,d_allegro_11.txt,SVM,allegro,1,1
+819,d_allegro_12.txt,SVM,allegro,1,1
+820,d_allegro_13.txt,SVM,allegro,1,0
+821,d_allegro_14.txt,SVM,allegro,1,1
+822,d_allegro_15.txt,SVM,allegro,1,1
+823,d_allegro_16.txt,SVM,allegro,1,1
+824,d_allegro_17.txt,SVM,allegro,1,1
+825,d_allegro_18.txt,SVM,allegro,1,1
+826,d_allegro_19.txt,SVM,allegro,1,1
+827,d_allegro_2.txt,SVM,allegro,1,1
+828,d_allegro_20.txt,SVM,allegro,1,1
+829,d_allegro_3.txt,SVM,allegro,1,1
+830,d_allegro_4.txt,SVM,allegro,1,1
+831,d_allegro_5.txt,SVM,allegro,1,1
+832,d_allegro_6.txt,SVM,allegro,1,1
+833,d_allegro_7.txt,SVM,allegro,1,0
+834,d_allegro_8.txt,SVM,allegro,1,1
+835,d_allegro_9.txt,SVM,allegro,1,1
+1216,t_allegro_1.txt,SVM,allegro,0,0
+1217,t_allegro_10.txt,SVM,allegro,0,1
+1218,t_allegro_11.txt,SVM,allegro,0,0
+1219,t_allegro_12.txt,SVM,allegro,0,0
+1220,t_allegro_13.txt,SVM,allegro,0,0
+1221,t_allegro_14.txt,SVM,allegro,0,0
+1222,t_allegro_15.txt,SVM,allegro,0,0
+1223,t_allegro_16.txt,SVM,allegro,0,0
+1224,t_allegro_17.txt,SVM,allegro,0,0
+1225,t_allegro_18.txt,SVM,allegro,0,0
+1226,t_allegro_19.txt,SVM,allegro,0,0
+1227,t_allegro_2.txt,SVM,allegro,0,0
+1228,t_allegro_20.txt,SVM,allegro,0,0
+1229,t_allegro_3.txt,SVM,allegro,0,0
+1230,t_allegro_4.txt,SVM,allegro,0,0
+1231,t_allegro_5.txt,SVM,allegro,0,0
+1232,t_allegro_6.txt,SVM,allegro,0,0
+1233,t_allegro_7.txt,SVM,allegro,0,0
+1234,t_allegro_8.txt,SVM,allegro,0,1
+1235,t_allegro_9.txt,SVM,allegro,0,0
+40,d_amalfi_1.txt,SVM,amalfi,1,1
+41,d_amalfi_10.txt,SVM,amalfi,1,1
+42,d_amalfi_11.txt,SVM,amalfi,1,1
+43,d_amalfi_12.txt,SVM,amalfi,1,1
+44,d_amalfi_13.txt,SVM,amalfi,1,1
+45,d_amalfi_14.txt,SVM,amalfi,1,1
+46,d_amalfi_15.txt,SVM,amalfi,1,1
+47,d_amalfi_16.txt,SVM,amalfi,1,1
+48,d_amalfi_17.txt,SVM,amalfi,1,1
+49,d_amalfi_18.txt,SVM,amalfi,1,1
+50,d_amalfi_19.txt,SVM,amalfi,1,1
+51,d_amalfi_2.txt,SVM,amalfi,1,1
+52,d_amalfi_20.txt,SVM,amalfi,1,1
+53,d_amalfi_3.txt,SVM,amalfi,1,0
+54,d_amalfi_4.txt,SVM,amalfi,1,1
+55,d_amalfi_5.txt,SVM,amalfi,1,1
+56,d_amalfi_6.txt,SVM,amalfi,1,1
+57,d_amalfi_7.txt,SVM,amalfi,1,1
+58,d_amalfi_8.txt,SVM,amalfi,1,1
+59,d_amalfi_9.txt,SVM,amalfi,1,1
+439,t_amalfi_1.txt,SVM,amalfi,0,0
+440,t_amalfi_10.txt,SVM,amalfi,0,0
+441,t_amalfi_11.txt,SVM,amalfi,0,0
+442,t_amalfi_12.txt,SVM,amalfi,0,0
+443,t_amalfi_13.txt,SVM,amalfi,0,0
+444,t_amalfi_14.txt,SVM,amalfi,0,0
+445,t_amalfi_15.txt,SVM,amalfi,0,0
+446,t_amalfi_16.txt,SVM,amalfi,0,0
+447,t_amalfi_17.txt,SVM,amalfi,0,0
+448,t_amalfi_18.txt,SVM,amalfi,0,0
+449,t_amalfi_19.txt,SVM,amalfi,0,0
+450,t_amalfi_2.txt,SVM,amalfi,0,0
+451,t_amalfi_20.txt,SVM,amalfi,0,1
+452,t_amalfi_3.txt,SVM,amalfi,0,0
+453,t_amalfi_4.txt,SVM,amalfi,0,0
+454,t_amalfi_5.txt,SVM,amalfi,0,0
+455,t_amalfi_6.txt,SVM,amalfi,0,0
+456,t_amalfi_7.txt,SVM,amalfi,0,1
+457,t_amalfi_8.txt,SVM,amalfi,0,0
+458,t_amalfi_9.txt,SVM,amalfi,0,0
+836,d_amalfi_1.txt,SVM,amalfi,1,1
+837,d_amalfi_10.txt,SVM,amalfi,1,1
+838,d_amalfi_11.txt,SVM,amalfi,1,1
+839,d_amalfi_12.txt,SVM,amalfi,1,1
+840,d_amalfi_13.txt,SVM,amalfi,1,1
+841,d_amalfi_14.txt,SVM,amalfi,1,1
+842,d_amalfi_15.txt,SVM,amalfi,1,1
+843,d_amalfi_16.txt,SVM,amalfi,1,1
+844,d_amalfi_17.txt,SVM,amalfi,1,1
+845,d_amalfi_18.txt,SVM,amalfi,1,1
+846,d_amalfi_19.txt,SVM,amalfi,1,1
+847,d_amalfi_2.txt,SVM,amalfi,1,1
+848,d_amalfi_20.txt,SVM,amalfi,1,1
+849,d_amalfi_3.txt,SVM,amalfi,1,1
+850,d_amalfi_4.txt,SVM,amalfi,1,1
+851,d_amalfi_5.txt,SVM,amalfi,1,1
+852,d_amalfi_6.txt,SVM,amalfi,1,1
+853,d_amalfi_7.txt,SVM,amalfi,1,1
+854,d_amalfi_8.txt,SVM,amalfi,1,1
+855,d_amalfi_9.txt,SVM,amalfi,1,1
+1236,t_amalfi_1.txt,SVM,amalfi,0,0
+1237,t_amalfi_10.txt,SVM,amalfi,0,0
+1238,t_amalfi_11.txt,SVM,amalfi,0,0
+1239,t_amalfi_12.txt,SVM,amalfi,0,0
+1240,t_amalfi_13.txt,SVM,amalfi,0,1
+1241,t_amalfi_14.txt,SVM,amalfi,0,0
+1242,t_amalfi_15.txt,SVM,amalfi,0,1
+1243,t_amalfi_16.txt,SVM,amalfi,0,0
+1244,t_amalfi_17.txt,SVM,amalfi,0,0
+1245,t_amalfi_18.txt,SVM,amalfi,0,0
+1246,t_amalfi_19.txt,SVM,amalfi,0,0
+1247,t_amalfi_2.txt,SVM,amalfi,0,0
+1248,t_amalfi_20.txt,SVM,amalfi,0,0
+1249,t_amalfi_3.txt,SVM,amalfi,0,0
+1250,t_amalfi_4.txt,SVM,amalfi,0,0
+1251,t_amalfi_5.txt,SVM,amalfi,0,0
+1252,t_amalfi_6.txt,SVM,amalfi,0,0
+1253,t_amalfi_7.txt,SVM,amalfi,0,0
+1254,t_amalfi_8.txt,SVM,amalfi,0,0
+1255,t_amalfi_9.txt,SVM,amalfi,0,0
+60,d_ambassador_1.txt,SVM,ambassador,1,0
+61,d_ambassador_10.txt,SVM,ambassador,1,0
+62,d_ambassador_11.txt,SVM,ambassador,1,1
+63,d_ambassador_12.txt,SVM,ambassador,1,1
+64,d_ambassador_13.txt,SVM,ambassador,1,1
+65,d_ambassador_14.txt,SVM,ambassador,1,1
+66,d_ambassador_15.txt,SVM,ambassador,1,1
+67,d_ambassador_16.txt,SVM,ambassador,1,1
+68,d_ambassador_17.txt,SVM,ambassador,1,1
+69,d_ambassador_18.txt,SVM,ambassador,1,1
+70,d_ambassador_19.txt,SVM,ambassador,1,1
+71,d_ambassador_2.txt,SVM,ambassador,1,1
+72,d_ambassador_20.txt,SVM,ambassador,1,0
+73,d_ambassador_3.txt,SVM,ambassador,1,1
+74,d_ambassador_4.txt,SVM,ambassador,1,1
+75,d_ambassador_5.txt,SVM,ambassador,1,1
+76,d_ambassador_6.txt,SVM,ambassador,1,1
+77,d_ambassador_7.txt,SVM,ambassador,1,1
+78,d_ambassador_8.txt,SVM,ambassador,1,1
+79,d_ambassador_9.txt,SVM,ambassador,1,1
+459,t_ambassador_1.txt,SVM,ambassador,0,0
+460,t_ambassador_10.txt,SVM,ambassador,0,0
+461,t_ambassador_11.txt,SVM,ambassador,0,0
+462,t_ambassador_12.txt,SVM,ambassador,0,0
+463,t_ambassador_13.txt,SVM,ambassador,0,0
+464,t_ambassador_14.txt,SVM,ambassador,0,0
+465,t_ambassador_15.txt,SVM,ambassador,0,0
+466,t_ambassador_16.txt,SVM,ambassador,0,0
+467,t_ambassador_17.txt,SVM,ambassador,0,1
+468,t_ambassador_18.txt,SVM,ambassador,0,0
+469,t_ambassador_19.txt,SVM,ambassador,0,0
+470,t_ambassador_2.txt,SVM,ambassador,0,1
+471,t_ambassador_20.txt,SVM,ambassador,0,0
+472,t_ambassador_3.txt,SVM,ambassador,0,0
+473,t_ambassador_4.txt,SVM,ambassador,0,0
+474,t_ambassador_5.txt,SVM,ambassador,0,0
+475,t_ambassador_6.txt,SVM,ambassador,0,0
+476,t_ambassador_7.txt,SVM,ambassador,0,0
+477,t_ambassador_8.txt,SVM,ambassador,0,0
+478,t_ambassador_9.txt,SVM,ambassador,0,0
+856,d_ambassador_1.txt,SVM,ambassador,1,1
+857,d_ambassador_10.txt,SVM,ambassador,1,1
+858,d_ambassador_11.txt,SVM,ambassador,1,0
+859,d_ambassador_12.txt,SVM,ambassador,1,1
+860,d_ambassador_13.txt,SVM,ambassador,1,0
+861,d_ambassador_14.txt,SVM,ambassador,1,1
+862,d_ambassador_15.txt,SVM,ambassador,1,1
+863,d_ambassador_16.txt,SVM,ambassador,1,1
+864,d_ambassador_17.txt,SVM,ambassador,1,0
+865,d_ambassador_18.txt,SVM,ambassador,1,1
+866,d_ambassador_19.txt,SVM,ambassador,1,1
+867,d_ambassador_2.txt,SVM,ambassador,1,1
+868,d_ambassador_20.txt,SVM,ambassador,1,1
+869,d_ambassador_3.txt,SVM,ambassador,1,1
+870,d_ambassador_4.txt,SVM,ambassador,1,1
+871,d_ambassador_5.txt,SVM,ambassador,1,0
+872,d_ambassador_6.txt,SVM,ambassador,1,1
+873,d_ambassador_7.txt,SVM,ambassador,1,1
+874,d_ambassador_8.txt,SVM,ambassador,1,1
+875,d_ambassador_9.txt,SVM,ambassador,1,1
+1256,t_ambassador_1.txt,SVM,ambassador,0,0
+1257,t_ambassador_10.txt,SVM,ambassador,0,0
+1258,t_ambassador_11.txt,SVM,ambassador,0,0
+1259,t_ambassador_12.txt,SVM,ambassador,0,0
+1260,t_ambassador_13.txt,SVM,ambassador,0,1
+1261,t_ambassador_14.txt,SVM,ambassador,0,0
+1262,t_ambassador_15.txt,SVM,ambassador,0,0
+1263,t_ambassador_16.txt,SVM,ambassador,0,0
+1264,t_ambassador_17.txt,SVM,ambassador,0,0
+1265,t_ambassador_18.txt,SVM,ambassador,0,0
+1266,t_ambassador_19.txt,SVM,ambassador,0,0
+1267,t_ambassador_2.txt,SVM,ambassador,0,0
+1268,t_ambassador_20.txt,SVM,ambassador,0,0
+1269,t_ambassador_3.txt,SVM,ambassador,0,1
+1270,t_ambassador_4.txt,SVM,ambassador,0,0
+1271,t_ambassador_5.txt,SVM,ambassador,0,0
+1272,t_ambassador_6.txt,SVM,ambassador,0,0
+1273,t_ambassador_7.txt,SVM,ambassador,0,0
+1274,t_ambassador_8.txt,SVM,ambassador,0,0
+1275,t_ambassador_9.txt,SVM,ambassador,0,0
+80,d_conrad_1.txt,SVM,conrad,1,1
+81,d_conrad_10.txt,SVM,conrad,1,1
+82,d_conrad_11.txt,SVM,conrad,1,1
+83,d_conrad_12.txt,SVM,conrad,1,1
+84,d_conrad_13.txt,SVM,conrad,1,1
+85,d_conrad_14.txt,SVM,conrad,1,1
+86,d_conrad_15.txt,SVM,conrad,1,1
+87,d_conrad_16.txt,SVM,conrad,1,1
+88,d_conrad_17.txt,SVM,conrad,1,1
+89,d_conrad_18.txt,SVM,conrad,1,1
+90,d_conrad_19.txt,SVM,conrad,1,1
+91,d_conrad_2.txt,SVM,conrad,1,1
+92,d_conrad_20.txt,SVM,conrad,1,1
+93,d_conrad_3.txt,SVM,conrad,1,1
+94,d_conrad_4.txt,SVM,conrad,1,1
+95,d_conrad_5.txt,SVM,conrad,1,1
+96,d_conrad_6.txt,SVM,conrad,1,1
+97,d_conrad_7.txt,SVM,conrad,1,1
+98,d_conrad_8.txt,SVM,conrad,1,1
+99,d_conrad_9.txt,SVM,conrad,1,1
+479,t_conrad_1.txt,SVM,conrad,0,0
+480,t_conrad_10.txt,SVM,conrad,0,0
+481,t_conrad_11.txt,SVM,conrad,0,0
+482,t_conrad_12.txt,SVM,conrad,0,0
+483,t_conrad_13.txt,SVM,conrad,0,0
+484,t_conrad_14.txt,SVM,conrad,0,0
+485,t_conrad_15.txt,SVM,conrad,0,1
+486,t_conrad_16.txt,SVM,conrad,0,0
+487,t_conrad_17.txt,SVM,conrad,0,0
+488,t_conrad_18.txt,SVM,conrad,0,0
+489,t_conrad_19.txt,SVM,conrad,0,1
+490,t_conrad_2.txt,SVM,conrad,0,0
+491,t_conrad_20.txt,SVM,conrad,0,0
+492,t_conrad_3.txt,SVM,conrad,0,0
+493,t_conrad_4.txt,SVM,conrad,0,1
+494,t_conrad_5.txt,SVM,conrad,0,0
+495,t_conrad_6.txt,SVM,conrad,0,1
+496,t_conrad_7.txt,SVM,conrad,0,0
+497,t_conrad_8.txt,SVM,conrad,0,0
+498,t_conrad_9.txt,SVM,conrad,0,0
+876,d_conrad_1.txt,SVM,conrad,1,1
+877,d_conrad_10.txt,SVM,conrad,1,1
+878,d_conrad_11.txt,SVM,conrad,1,1
+879,d_conrad_12.txt,SVM,conrad,1,0
+880,d_conrad_13.txt,SVM,conrad,1,1
+881,d_conrad_14.txt,SVM,conrad,1,1
+882,d_conrad_15.txt,SVM,conrad,1,1
+883,d_conrad_16.txt,SVM,conrad,1,1
+884,d_conrad_17.txt,SVM,conrad,1,1
+885,d_conrad_18.txt,SVM,conrad,1,1
+886,d_conrad_19.txt,SVM,conrad,1,1
+887,d_conrad_2.txt,SVM,conrad,1,1
+888,d_conrad_20.txt,SVM,conrad,1,0
+889,d_conrad_3.txt,SVM,conrad,1,1
+890,d_conrad_4.txt,SVM,conrad,1,1
+891,d_conrad_5.txt,SVM,conrad,1,1
+892,d_conrad_6.txt,SVM,conrad,1,1
+893,d_conrad_7.txt,SVM,conrad,1,1
+894,d_conrad_8.txt,SVM,conrad,1,1
+895,d_conrad_9.txt,SVM,conrad,1,1
+1276,t_conrad_1.txt,SVM,conrad,0,0
+1277,t_conrad_10.txt,SVM,conrad,0,0
+1278,t_conrad_11.txt,SVM,conrad,0,0
+1279,t_conrad_12.txt,SVM,conrad,0,0
+1280,t_conrad_13.txt,SVM,conrad,0,0
+1281,t_conrad_14.txt,SVM,conrad,0,0
+1282,t_conrad_15.txt,SVM,conrad,0,0
+1283,t_conrad_16.txt,SVM,conrad,0,0
+1284,t_conrad_17.txt,SVM,conrad,0,0
+1285,t_conrad_18.txt,SVM,conrad,0,0
+1286,t_conrad_19.txt,SVM,conrad,0,0
+1287,t_conrad_2.txt,SVM,conrad,0,0
+1288,t_conrad_20.txt,SVM,conrad,0,0
+1289,t_conrad_3.txt,SVM,conrad,0,0
+1290,t_conrad_4.txt,SVM,conrad,0,0
+1291,t_conrad_5.txt,SVM,conrad,0,0
+1292,t_conrad_6.txt,SVM,conrad,0,0
+1293,t_conrad_7.txt,SVM,conrad,0,0
+1294,t_conrad_8.txt,SVM,conrad,0,0
+1295,t_conrad_9.txt,SVM,conrad,0,0
+100,d_fairmont_1.txt,SVM,fairmont,1,0
+101,d_fairmont_10.txt,SVM,fairmont,1,1
+102,d_fairmont_11.txt,SVM,fairmont,1,1
+103,d_fairmont_12.txt,SVM,fairmont,1,1
+104,d_fairmont_13.txt,SVM,fairmont,1,1
+105,d_fairmont_14.txt,SVM,fairmont,1,1
+106,d_fairmont_15.txt,SVM,fairmont,1,1
+107,d_fairmont_16.txt,SVM,fairmont,1,1
+108,d_fairmont_17.txt,SVM,fairmont,1,1
+109,d_fairmont_18.txt,SVM,fairmont,1,1
+110,d_fairmont_19.txt,SVM,fairmont,1,1
+111,d_fairmont_2.txt,SVM,fairmont,1,1
+112,d_fairmont_20.txt,SVM,fairmont,1,1
+113,d_fairmont_3.txt,SVM,fairmont,1,1
+114,d_fairmont_4.txt,SVM,fairmont,1,1
+115,d_fairmont_5.txt,SVM,fairmont,1,1
+116,d_fairmont_6.txt,SVM,fairmont,1,1
+117,d_fairmont_7.txt,SVM,fairmont,1,1
+118,d_fairmont_8.txt,SVM,fairmont,1,1
+119,d_fairmont_9.txt,SVM,fairmont,1,1
+499,t_fairmont_1.txt,SVM,fairmont,0,0
+500,t_fairmont_10.txt,SVM,fairmont,0,0
+501,t_fairmont_11.txt,SVM,fairmont,0,0
+502,t_fairmont_12.txt,SVM,fairmont,0,0
+503,t_fairmont_13.txt,SVM,fairmont,0,1
+504,t_fairmont_14.txt,SVM,fairmont,0,0
+505,t_fairmont_15.txt,SVM,fairmont,0,0
+506,t_fairmont_16.txt,SVM,fairmont,0,0
+507,t_fairmont_17.txt,SVM,fairmont,0,0
+508,t_fairmont_18.txt,SVM,fairmont,0,0
+509,t_fairmont_19.txt,SVM,fairmont,0,0
+510,t_fairmont_2.txt,SVM,fairmont,0,0
+511,t_fairmont_20.txt,SVM,fairmont,0,0
+512,t_fairmont_3.txt,SVM,fairmont,0,0
+513,t_fairmont_4.txt,SVM,fairmont,0,1
+514,t_fairmont_5.txt,SVM,fairmont,0,0
+515,t_fairmont_6.txt,SVM,fairmont,0,0
+516,t_fairmont_7.txt,SVM,fairmont,0,0
+517,t_fairmont_8.txt,SVM,fairmont,0,0
+518,t_fairmont_9.txt,SVM,fairmont,0,0
+896,d_fairmont_1.txt,SVM,fairmont,1,1
+897,d_fairmont_10.txt,SVM,fairmont,1,1
+898,d_fairmont_11.txt,SVM,fairmont,1,1
+899,d_fairmont_12.txt,SVM,fairmont,1,1
+900,d_fairmont_13.txt,SVM,fairmont,1,1
+901,d_fairmont_14.txt,SVM,fairmont,1,1
+902,d_fairmont_15.txt,SVM,fairmont,1,1
+903,d_fairmont_16.txt,SVM,fairmont,1,1
+904,d_fairmont_17.txt,SVM,fairmont,1,1
+905,d_fairmont_18.txt,SVM,fairmont,1,1
+906,d_fairmont_19.txt,SVM,fairmont,1,1
+907,d_fairmont_2.txt,SVM,fairmont,1,1
+908,d_fairmont_20.txt,SVM,fairmont,1,1
+909,d_fairmont_3.txt,SVM,fairmont,1,1
+910,d_fairmont_4.txt,SVM,fairmont,1,1
+911,d_fairmont_5.txt,SVM,fairmont,1,1
+912,d_fairmont_6.txt,SVM,fairmont,1,1
+913,d_fairmont_7.txt,SVM,fairmont,1,1
+914,d_fairmont_8.txt,SVM,fairmont,1,1
+915,d_fairmont_9.txt,SVM,fairmont,1,1
+1296,t_fairmont_1.txt,SVM,fairmont,0,0
+1297,t_fairmont_10.txt,SVM,fairmont,0,0
+1298,t_fairmont_11.txt,SVM,fairmont,0,0
+1299,t_fairmont_12.txt,SVM,fairmont,0,0
+1300,t_fairmont_13.txt,SVM,fairmont,0,0
+1301,t_fairmont_14.txt,SVM,fairmont,0,0
+1302,t_fairmont_15.txt,SVM,fairmont,0,0
+1303,t_fairmont_16.txt,SVM,fairmont,0,0
+1304,t_fairmont_17.txt,SVM,fairmont,0,0
+1305,t_fairmont_18.txt,SVM,fairmont,0,0
+1306,t_fairmont_19.txt,SVM,fairmont,0,0
+1307,t_fairmont_2.txt,SVM,fairmont,0,0
+1308,t_fairmont_20.txt,SVM,fairmont,0,0
+1309,t_fairmont_3.txt,SVM,fairmont,0,1
+1310,t_fairmont_4.txt,SVM,fairmont,0,0
+1311,t_fairmont_5.txt,SVM,fairmont,0,0
+1312,t_fairmont_6.txt,SVM,fairmont,0,0
+1313,t_fairmont_7.txt,SVM,fairmont,0,0
+1314,t_fairmont_8.txt,SVM,fairmont,0,0
+1315,t_fairmont_9.txt,SVM,fairmont,0,0
+120,d_hardrock_1.txt,SVM,hardrock,1,1
+121,d_hardrock_10.txt,SVM,hardrock,1,1
+122,d_hardrock_11.txt,SVM,hardrock,1,1
+123,d_hardrock_12.txt,SVM,hardrock,1,1
+124,d_hardrock_13.txt,SVM,hardrock,1,1
+125,d_hardrock_14.txt,SVM,hardrock,1,1
+126,d_hardrock_15.txt,SVM,hardrock,1,0
+127,d_hardrock_16.txt,SVM,hardrock,1,1
+128,d_hardrock_17.txt,SVM,hardrock,1,1
+129,d_hardrock_18.txt,SVM,hardrock,1,1
+130,d_hardrock_19.txt,SVM,hardrock,1,1
+131,d_hardrock_2.txt,SVM,hardrock,1,1
+132,d_hardrock_20.txt,SVM,hardrock,1,1
+133,d_hardrock_3.txt,SVM,hardrock,1,0
+134,d_hardrock_4.txt,SVM,hardrock,1,1
+135,d_hardrock_5.txt,SVM,hardrock,1,1
+136,d_hardrock_6.txt,SVM,hardrock,1,1
+137,d_hardrock_7.txt,SVM,hardrock,1,1
+138,d_hardrock_8.txt,SVM,hardrock,1,1
+139,d_hardrock_9.txt,SVM,hardrock,1,1
+519,t_hardrock_1.txt,SVM,hardrock,0,0
+520,t_hardrock_10.txt,SVM,hardrock,0,0
+521,t_hardrock_11.txt,SVM,hardrock,0,0
+522,t_hardrock_12.txt,SVM,hardrock,0,0
+523,t_hardrock_13.txt,SVM,hardrock,0,0
+524,t_hardrock_14.txt,SVM,hardrock,0,0
+525,t_hardrock_15.txt,SVM,hardrock,0,0
+526,t_hardrock_16.txt,SVM,hardrock,0,0
+527,t_hardrock_17.txt,SVM,hardrock,0,0
+528,t_hardrock_18.txt,SVM,hardrock,0,0
+529,t_hardrock_19.txt,SVM,hardrock,0,0
+530,t_hardrock_2.txt,SVM,hardrock,0,0
+531,t_hardrock_20.txt,SVM,hardrock,0,0
+532,t_hardrock_3.txt,SVM,hardrock,0,1
+533,t_hardrock_4.txt,SVM,hardrock,0,0
+534,t_hardrock_5.txt,SVM,hardrock,0,0
+535,t_hardrock_6.txt,SVM,hardrock,0,0
+536,t_hardrock_7.txt,SVM,hardrock,0,0
+537,t_hardrock_8.txt,SVM,hardrock,0,0
+538,t_hardrock_9.txt,SVM,hardrock,0,0
+916,d_hardrock_1.txt,SVM,hardrock,1,1
+917,d_hardrock_10.txt,SVM,hardrock,1,1
+918,d_hardrock_11.txt,SVM,hardrock,1,1
+919,d_hardrock_12.txt,SVM,hardrock,1,1
+920,d_hardrock_13.txt,SVM,hardrock,1,1
+921,d_hardrock_14.txt,SVM,hardrock,1,1
+922,d_hardrock_15.txt,SVM,hardrock,1,1
+923,d_hardrock_16.txt,SVM,hardrock,1,1
+924,d_hardrock_17.txt,SVM,hardrock,1,1
+925,d_hardrock_18.txt,SVM,hardrock,1,1
+926,d_hardrock_19.txt,SVM,hardrock,1,1
+927,d_hardrock_2.txt,SVM,hardrock,1,0
+928,d_hardrock_20.txt,SVM,hardrock,1,1
+929,d_hardrock_3.txt,SVM,hardrock,1,1
+930,d_hardrock_4.txt,SVM,hardrock,1,1
+931,d_hardrock_5.txt,SVM,hardrock,1,1
+932,d_hardrock_6.txt,SVM,hardrock,1,1
+933,d_hardrock_7.txt,SVM,hardrock,1,1
+934,d_hardrock_8.txt,SVM,hardrock,1,1
+935,d_hardrock_9.txt,SVM,hardrock,1,1
+1316,t_hardrock_1.txt,SVM,hardrock,0,0
+1317,t_hardrock_10.txt,SVM,hardrock,0,0
+1318,t_hardrock_11.txt,SVM,hardrock,0,0
+1319,t_hardrock_12.txt,SVM,hardrock,0,0
+1320,t_hardrock_13.txt,SVM,hardrock,0,0
+1321,t_hardrock_14.txt,SVM,hardrock,0,0
+1322,t_hardrock_15.txt,SVM,hardrock,0,0
+1323,t_hardrock_16.txt,SVM,hardrock,0,0
+1324,t_hardrock_17.txt,SVM,hardrock,0,0
+1325,t_hardrock_18.txt,SVM,hardrock,0,0
+1326,t_hardrock_19.txt,SVM,hardrock,0,0
+1327,t_hardrock_2.txt,SVM,hardrock,0,0
+1328,t_hardrock_20.txt,SVM,hardrock,0,0
+1329,t_hardrock_3.txt,SVM,hardrock,0,0
+1330,t_hardrock_4.txt,SVM,hardrock,0,0
+1331,t_hardrock_5.txt,SVM,hardrock,0,0
+1332,t_hardrock_6.txt,SVM,hardrock,0,0
+1333,t_hardrock_7.txt,SVM,hardrock,0,0
+1334,t_hardrock_8.txt,SVM,hardrock,0,0
+1335,t_hardrock_9.txt,SVM,hardrock,0,0
+140,d_hilton_1.txt,SVM,hilton,1,1
+141,d_hilton_10.txt,SVM,hilton,1,0
+142,d_hilton_11.txt,SVM,hilton,1,1
+143,d_hilton_12.txt,SVM,hilton,1,1
+144,d_hilton_13.txt,SVM,hilton,1,1
+145,d_hilton_14.txt,SVM,hilton,1,1
+146,d_hilton_15.txt,SVM,hilton,1,1
+147,d_hilton_16.txt,SVM,hilton,1,1
+148,d_hilton_17.txt,SVM,hilton,1,1
+149,d_hilton_18.txt,SVM,hilton,1,1
+150,d_hilton_19.txt,SVM,hilton,1,1
+151,d_hilton_2.txt,SVM,hilton,1,1
+152,d_hilton_20.txt,SVM,hilton,1,1
+153,d_hilton_3.txt,SVM,hilton,1,1
+154,d_hilton_4.txt,SVM,hilton,1,1
+155,d_hilton_5.txt,SVM,hilton,1,1
+156,d_hilton_6.txt,SVM,hilton,1,1
+157,d_hilton_7.txt,SVM,hilton,1,1
+158,d_hilton_8.txt,SVM,hilton,1,1
+159,d_hilton_9.txt,SVM,hilton,1,1
+539,t_hilton_1.txt,SVM,hilton,0,0
+540,t_hilton_10.txt,SVM,hilton,0,1
+541,t_hilton_11.txt,SVM,hilton,0,0
+542,t_hilton_12.txt,SVM,hilton,0,0
+543,t_hilton_13.txt,SVM,hilton,0,0
+544,t_hilton_14.txt,SVM,hilton,0,0
+545,t_hilton_15.txt,SVM,hilton,0,1
+546,t_hilton_16.txt,SVM,hilton,0,0
+547,t_hilton_17.txt,SVM,hilton,0,0
+548,t_hilton_18.txt,SVM,hilton,0,0
+549,t_hilton_19.txt,SVM,hilton,0,0
+550,t_hilton_2.txt,SVM,hilton,0,0
+551,t_hilton_20.txt,SVM,hilton,0,0
+552,t_hilton_3.txt,SVM,hilton,0,0
+553,t_hilton_4.txt,SVM,hilton,0,0
+554,t_hilton_5.txt,SVM,hilton,0,0
+555,t_hilton_6.txt,SVM,hilton,0,0
+556,t_hilton_7.txt,SVM,hilton,0,1
+557,t_hilton_8.txt,SVM,hilton,0,0
+558,t_hilton_9.txt,SVM,hilton,0,0
+936,d_hilton_1.txt,SVM,hilton,1,1
+937,d_hilton_10.txt,SVM,hilton,1,1
+938,d_hilton_11.txt,SVM,hilton,1,1
+939,d_hilton_12.txt,SVM,hilton,1,1
+940,d_hilton_13.txt,SVM,hilton,1,1
+941,d_hilton_14.txt,SVM,hilton,1,1
+942,d_hilton_15.txt,SVM,hilton,1,1
+943,d_hilton_16.txt,SVM,hilton,1,1
+944,d_hilton_17.txt,SVM,hilton,1,1
+945,d_hilton_18.txt,SVM,hilton,1,1
+946,d_hilton_19.txt,SVM,hilton,1,1
+947,d_hilton_2.txt,SVM,hilton,1,1
+948,d_hilton_20.txt,SVM,hilton,1,1
+949,d_hilton_3.txt,SVM,hilton,1,1
+950,d_hilton_4.txt,SVM,hilton,1,1
+951,d_hilton_5.txt,SVM,hilton,1,0
+952,d_hilton_6.txt,SVM,hilton,1,1
+953,d_hilton_7.txt,SVM,hilton,1,1
+954,d_hilton_8.txt,SVM,hilton,1,1
+955,d_hilton_9.txt,SVM,hilton,1,1
+1336,t_hilton_1.txt,SVM,hilton,0,0
+1337,t_hilton_10.txt,SVM,hilton,0,0
+1338,t_hilton_11.txt,SVM,hilton,0,0
+1339,t_hilton_12.txt,SVM,hilton,0,0
+1340,t_hilton_13.txt,SVM,hilton,0,0
+1341,t_hilton_14.txt,SVM,hilton,0,0
+1342,t_hilton_15.txt,SVM,hilton,0,0
+1343,t_hilton_16.txt,SVM,hilton,0,0
+1344,t_hilton_17.txt,SVM,hilton,0,0
+1345,t_hilton_18.txt,SVM,hilton,0,0
+1346,t_hilton_19.txt,SVM,hilton,0,0
+1347,t_hilton_2.txt,SVM,hilton,0,0
+1348,t_hilton_20.txt,SVM,hilton,0,0
+1349,t_hilton_3.txt,SVM,hilton,0,0
+1350,t_hilton_4.txt,SVM,hilton,0,0
+1351,t_hilton_5.txt,SVM,hilton,0,0
+1352,t_hilton_6.txt,SVM,hilton,0,0
+1353,t_hilton_7.txt,SVM,hilton,0,0
+1354,t_hilton_8.txt,SVM,hilton,0,0
+1355,t_hilton_9.txt,SVM,hilton,0,0
+160,d_homewood_1.txt,SVM,homewood,1,1
+161,d_homewood_10.txt,SVM,homewood,1,1
+162,d_homewood_11.txt,SVM,homewood,1,1
+163,d_homewood_12.txt,SVM,homewood,1,0
+164,d_homewood_13.txt,SVM,homewood,1,1
+165,d_homewood_14.txt,SVM,homewood,1,1
+166,d_homewood_15.txt,SVM,homewood,1,1
+167,d_homewood_16.txt,SVM,homewood,1,0
+168,d_homewood_17.txt,SVM,homewood,1,1
+169,d_homewood_18.txt,SVM,homewood,1,0
+170,d_homewood_19.txt,SVM,homewood,1,1
+171,d_homewood_2.txt,SVM,homewood,1,1
+172,d_homewood_20.txt,SVM,homewood,1,1
+173,d_homewood_3.txt,SVM,homewood,1,0
+174,d_homewood_4.txt,SVM,homewood,1,1
+175,d_homewood_5.txt,SVM,homewood,1,1
+176,d_homewood_6.txt,SVM,homewood,1,1
+177,d_homewood_7.txt,SVM,homewood,1,0
+178,d_homewood_8.txt,SVM,homewood,1,1
+179,d_homewood_9.txt,SVM,homewood,1,1
+559,t_homewood_1.txt,SVM,homewood,0,0
+560,t_homewood_10.txt,SVM,homewood,0,0
+561,t_homewood_11.txt,SVM,homewood,0,0
+562,t_homewood_12.txt,SVM,homewood,0,0
+563,t_homewood_13.txt,SVM,homewood,0,1
+564,t_homewood_14.txt,SVM,homewood,0,0
+565,t_homewood_15.txt,SVM,homewood,0,0
+566,t_homewood_16.txt,SVM,homewood,0,0
+567,t_homewood_17.txt,SVM,homewood,0,0
+568,t_homewood_18.txt,SVM,homewood,0,0
+569,t_homewood_19.txt,SVM,homewood,0,0
+570,t_homewood_2.txt,SVM,homewood,0,0
+571,t_homewood_20.txt,SVM,homewood,0,0
+572,t_homewood_3.txt,SVM,homewood,0,0
+573,t_homewood_4.txt,SVM,homewood,0,1
+574,t_homewood_5.txt,SVM,homewood,0,0
+575,t_homewood_6.txt,SVM,homewood,0,0
+576,t_homewood_7.txt,SVM,homewood,0,0
+577,t_homewood_8.txt,SVM,homewood,0,0
+578,t_homewood_9.txt,SVM,homewood,0,0
+956,d_homewood_1.txt,SVM,homewood,1,1
+957,d_homewood_10.txt,SVM,homewood,1,1
+958,d_homewood_11.txt,SVM,homewood,1,1
+959,d_homewood_12.txt,SVM,homewood,1,1
+960,d_homewood_13.txt,SVM,homewood,1,1
+961,d_homewood_14.txt,SVM,homewood,1,1
+962,d_homewood_15.txt,SVM,homewood,1,1
+963,d_homewood_16.txt,SVM,homewood,1,1
+964,d_homewood_17.txt,SVM,homewood,1,0
+965,d_homewood_18.txt,SVM,homewood,1,1
+966,d_homewood_19.txt,SVM,homewood,1,0
+967,d_homewood_2.txt,SVM,homewood,1,1
+968,d_homewood_20.txt,SVM,homewood,1,1
+969,d_homewood_3.txt,SVM,homewood,1,1
+970,d_homewood_4.txt,SVM,homewood,1,1
+971,d_homewood_5.txt,SVM,homewood,1,1
+972,d_homewood_6.txt,SVM,homewood,1,1
+973,d_homewood_7.txt,SVM,homewood,1,0
+974,d_homewood_8.txt,SVM,homewood,1,1
+975,d_homewood_9.txt,SVM,homewood,1,1
+1356,t_homewood_1.txt,SVM,homewood,0,0
+1357,t_homewood_10.txt,SVM,homewood,0,0
+1358,t_homewood_11.txt,SVM,homewood,0,0
+1359,t_homewood_12.txt,SVM,homewood,0,0
+1360,t_homewood_13.txt,SVM,homewood,0,0
+1361,t_homewood_14.txt,SVM,homewood,0,0
+1362,t_homewood_15.txt,SVM,homewood,0,0
+1363,t_homewood_16.txt,SVM,homewood,0,0
+1364,t_homewood_17.txt,SVM,homewood,0,0
+1365,t_homewood_18.txt,SVM,homewood,0,1
+1366,t_homewood_19.txt,SVM,homewood,0,0
+1367,t_homewood_2.txt,SVM,homewood,0,1
+1368,t_homewood_20.txt,SVM,homewood,0,0
+1369,t_homewood_3.txt,SVM,homewood,0,0
+1370,t_homewood_4.txt,SVM,homewood,0,0
+1371,t_homewood_5.txt,SVM,homewood,0,0
+1372,t_homewood_6.txt,SVM,homewood,0,0
+1373,t_homewood_7.txt,SVM,homewood,0,0
+1374,t_homewood_8.txt,SVM,homewood,0,0
+1375,t_homewood_9.txt,SVM,homewood,0,0
+180,d_hyatt_1.txt,SVM,hyatt,1,1
+181,d_hyatt_10.txt,SVM,hyatt,1,1
+182,d_hyatt_11.txt,SVM,hyatt,1,0
+183,d_hyatt_12.txt,SVM,hyatt,1,0
+184,d_hyatt_13.txt,SVM,hyatt,1,1
+185,d_hyatt_14.txt,SVM,hyatt,1,1
+186,d_hyatt_15.txt,SVM,hyatt,1,1
+187,d_hyatt_16.txt,SVM,hyatt,1,1
+188,d_hyatt_17.txt,SVM,hyatt,1,1
+189,d_hyatt_18.txt,SVM,hyatt,1,0
+190,d_hyatt_19.txt,SVM,hyatt,1,1
+191,d_hyatt_2.txt,SVM,hyatt,1,0
+192,d_hyatt_20.txt,SVM,hyatt,1,1
+193,d_hyatt_3.txt,SVM,hyatt,1,0
+194,d_hyatt_4.txt,SVM,hyatt,1,1
+195,d_hyatt_5.txt,SVM,hyatt,1,0
+196,d_hyatt_6.txt,SVM,hyatt,1,0
+197,d_hyatt_7.txt,SVM,hyatt,1,0
+198,d_hyatt_8.txt,SVM,hyatt,1,1
+199,d_hyatt_9.txt,SVM,hyatt,1,1
+579,t_hyatt_1.txt,SVM,hyatt,0,0
+580,t_hyatt_10.txt,SVM,hyatt,0,0
+581,t_hyatt_11.txt,SVM,hyatt,0,0
+582,t_hyatt_12.txt,SVM,hyatt,0,0
+583,t_hyatt_13.txt,SVM,hyatt,0,0
+584,t_hyatt_14.txt,SVM,hyatt,0,1
+585,t_hyatt_15.txt,SVM,hyatt,0,0
+586,t_hyatt_16.txt,SVM,hyatt,0,0
+587,t_hyatt_17.txt,SVM,hyatt,0,0
+588,t_hyatt_18.txt,SVM,hyatt,0,0
+589,t_hyatt_19.txt,SVM,hyatt,0,0
+590,t_hyatt_2.txt,SVM,hyatt,0,0
+591,t_hyatt_20.txt,SVM,hyatt,0,0
+592,t_hyatt_3.txt,SVM,hyatt,0,0
+593,t_hyatt_4.txt,SVM,hyatt,0,0
+594,t_hyatt_5.txt,SVM,hyatt,0,0
+595,t_hyatt_6.txt,SVM,hyatt,0,0
+596,t_hyatt_7.txt,SVM,hyatt,0,0
+597,t_hyatt_8.txt,SVM,hyatt,0,0
+598,t_hyatt_9.txt,SVM,hyatt,0,0
+976,d_hyatt_1.txt,SVM,hyatt,1,1
+977,d_hyatt_10.txt,SVM,hyatt,1,1
+978,d_hyatt_11.txt,SVM,hyatt,1,1
+979,d_hyatt_12.txt,SVM,hyatt,1,0
+980,d_hyatt_13.txt,SVM,hyatt,1,1
+981,d_hyatt_14.txt,SVM,hyatt,1,1
+982,d_hyatt_15.txt,SVM,hyatt,1,1
+983,d_hyatt_16.txt,SVM,hyatt,1,0
+984,d_hyatt_17.txt,SVM,hyatt,1,1
+985,d_hyatt_18.txt,SVM,hyatt,1,1
+986,d_hyatt_19.txt,SVM,hyatt,1,1
+987,d_hyatt_2.txt,SVM,hyatt,1,1
+988,d_hyatt_20.txt,SVM,hyatt,1,1
+989,d_hyatt_3.txt,SVM,hyatt,1,1
+990,d_hyatt_4.txt,SVM,hyatt,1,0
+991,d_hyatt_5.txt,SVM,hyatt,1,1
+992,d_hyatt_6.txt,SVM,hyatt,1,1
+993,d_hyatt_7.txt,SVM,hyatt,1,1
+994,d_hyatt_8.txt,SVM,hyatt,1,1
+995,d_hyatt_9.txt,SVM,hyatt,1,0
+1376,t_hyatt_1.txt,SVM,hyatt,0,0
+1377,t_hyatt_10.txt,SVM,hyatt,0,0
+1378,t_hyatt_11.txt,SVM,hyatt,0,0
+1379,t_hyatt_12.txt,SVM,hyatt,0,0
+1380,t_hyatt_13.txt,SVM,hyatt,0,0
+1381,t_hyatt_14.txt,SVM,hyatt,0,0
+1382,t_hyatt_15.txt,SVM,hyatt,0,0
+1383,t_hyatt_16.txt,SVM,hyatt,0,0
+1384,t_hyatt_17.txt,SVM,hyatt,0,0
+1385,t_hyatt_18.txt,SVM,hyatt,0,0
+1386,t_hyatt_19.txt,SVM,hyatt,0,0
+1387,t_hyatt_2.txt,SVM,hyatt,0,0
+1388,t_hyatt_20.txt,SVM,hyatt,0,0
+1389,t_hyatt_3.txt,SVM,hyatt,0,0
+1390,t_hyatt_4.txt,SVM,hyatt,0,0
+1391,t_hyatt_5.txt,SVM,hyatt,0,0
+1392,t_hyatt_6.txt,SVM,hyatt,0,0
+1393,t_hyatt_7.txt,SVM,hyatt,0,0
+1394,t_hyatt_8.txt,SVM,hyatt,0,0
+1395,t_hyatt_9.txt,SVM,hyatt,0,0
+200,d_intercontinental_1.txt,SVM,intercontinental,1,1
+201,d_intercontinental_10.txt,SVM,intercontinental,1,1
+202,d_intercontinental_11.txt,SVM,intercontinental,1,1
+203,d_intercontinental_12.txt,SVM,intercontinental,1,1
+204,d_intercontinental_13.txt,SVM,intercontinental,1,0
+205,d_intercontinental_14.txt,SVM,intercontinental,1,1
+206,d_intercontinental_15.txt,SVM,intercontinental,1,1
+207,d_intercontinental_16.txt,SVM,intercontinental,1,1
+208,d_intercontinental_17.txt,SVM,intercontinental,1,1
+209,d_intercontinental_18.txt,SVM,intercontinental,1,1
+210,d_intercontinental_19.txt,SVM,intercontinental,1,1
+211,d_intercontinental_2.txt,SVM,intercontinental,1,1
+212,d_intercontinental_20.txt,SVM,intercontinental,1,1
+213,d_intercontinental_3.txt,SVM,intercontinental,1,0
+214,d_intercontinental_4.txt,SVM,intercontinental,1,1
+215,d_intercontinental_5.txt,SVM,intercontinental,1,0
+216,d_intercontinental_6.txt,SVM,intercontinental,1,0
+217,d_intercontinental_7.txt,SVM,intercontinental,1,1
+218,d_intercontinental_8.txt,SVM,intercontinental,1,0
+219,d_intercontinental_9.txt,SVM,intercontinental,1,1
+599,t_intercontinental_1.txt,SVM,intercontinental,0,0
+600,t_intercontinental_10.txt,SVM,intercontinental,0,0
+601,t_intercontinental_11.txt,SVM,intercontinental,0,0
+602,t_intercontinental_12.txt,SVM,intercontinental,0,0
+603,t_intercontinental_13.txt,SVM,intercontinental,0,0
+604,t_intercontinental_14.txt,SVM,intercontinental,0,0
+605,t_intercontinental_15.txt,SVM,intercontinental,0,0
+606,t_intercontinental_16.txt,SVM,intercontinental,0,0
+607,t_intercontinental_17.txt,SVM,intercontinental,0,0
+608,t_intercontinental_18.txt,SVM,intercontinental,0,0
+609,t_intercontinental_19.txt,SVM,intercontinental,0,1
+610,t_intercontinental_2.txt,SVM,intercontinental,0,0
+611,t_intercontinental_20.txt,SVM,intercontinental,0,0
+612,t_intercontinental_3.txt,SVM,intercontinental,0,0
+613,t_intercontinental_4.txt,SVM,intercontinental,0,0
+614,t_intercontinental_5.txt,SVM,intercontinental,0,0
+615,t_intercontinental_6.txt,SVM,intercontinental,0,0
+616,t_intercontinental_7.txt,SVM,intercontinental,0,0
+617,t_intercontinental_8.txt,SVM,intercontinental,0,0
+618,t_intercontinental_9.txt,SVM,intercontinental,0,1
+996,d_intercontinental_1.txt,SVM,intercontinental,1,1
+997,d_intercontinental_10.txt,SVM,intercontinental,1,1
+998,d_intercontinental_11.txt,SVM,intercontinental,1,1
+999,d_intercontinental_12.txt,SVM,intercontinental,1,1
+1000,d_intercontinental_13.txt,SVM,intercontinental,1,1
+1001,d_intercontinental_14.txt,SVM,intercontinental,1,0
+1002,d_intercontinental_15.txt,SVM,intercontinental,1,1
+1003,d_intercontinental_16.txt,SVM,intercontinental,1,1
+1004,d_intercontinental_17.txt,SVM,intercontinental,1,1
+1005,d_intercontinental_18.txt,SVM,intercontinental,1,1
+1006,d_intercontinental_19.txt,SVM,intercontinental,1,1
+1007,d_intercontinental_2.txt,SVM,intercontinental,1,1
+1008,d_intercontinental_20.txt,SVM,intercontinental,1,1
+1009,d_intercontinental_3.txt,SVM,intercontinental,1,1
+1010,d_intercontinental_4.txt,SVM,intercontinental,1,1
+1011,d_intercontinental_5.txt,SVM,intercontinental,1,1
+1012,d_intercontinental_6.txt,SVM,intercontinental,1,1
+1013,d_intercontinental_7.txt,SVM,intercontinental,1,1
+1014,d_intercontinental_8.txt,SVM,intercontinental,1,1
+1015,d_intercontinental_9.txt,SVM,intercontinental,1,1
+1396,t_intercontinental_1.txt,SVM,intercontinental,0,0
+1397,t_intercontinental_10.txt,SVM,intercontinental,0,0
+1398,t_intercontinental_11.txt,SVM,intercontinental,0,0
+1399,t_intercontinental_12.txt,SVM,intercontinental,0,0
+1400,t_intercontinental_13.txt,SVM,intercontinental,0,0
+1401,t_intercontinental_14.txt,SVM,intercontinental,0,0
+1402,t_intercontinental_15.txt,SVM,intercontinental,0,0
+1403,t_intercontinental_16.txt,SVM,intercontinental,0,0
+1404,t_intercontinental_17.txt,SVM,intercontinental,0,0
+1405,t_intercontinental_18.txt,SVM,intercontinental,0,0
+1406,t_intercontinental_19.txt,SVM,intercontinental,0,0
+1407,t_intercontinental_2.txt,SVM,intercontinental,0,0
+1408,t_intercontinental_20.txt,SVM,intercontinental,0,0
+1409,t_intercontinental_3.txt,SVM,intercontinental,0,0
+1410,t_intercontinental_4.txt,SVM,intercontinental,0,1
+1411,t_intercontinental_5.txt,SVM,intercontinental,0,0
+1412,t_intercontinental_6.txt,SVM,intercontinental,0,0
+1413,t_intercontinental_7.txt,SVM,intercontinental,0,0
+1414,t_intercontinental_8.txt,SVM,intercontinental,0,0
+1415,t_intercontinental_9.txt,SVM,intercontinental,0,0
+220,d_james_1.txt,SVM,james,1,1
+221,d_james_10.txt,SVM,james,1,1
+222,d_james_11.txt,SVM,james,1,1
+223,d_james_12.txt,SVM,james,1,1
+224,d_james_13.txt,SVM,james,1,1
+225,d_james_14.txt,SVM,james,1,1
+226,d_james_15.txt,SVM,james,1,1
+227,d_james_16.txt,SVM,james,1,1
+228,d_james_17.txt,SVM,james,1,1
+229,d_james_18.txt,SVM,james,1,1
+230,d_james_19.txt,SVM,james,1,1
+231,d_james_2.txt,SVM,james,1,1
+232,d_james_20.txt,SVM,james,1,1
+233,d_james_3.txt,SVM,james,1,1
+234,d_james_4.txt,SVM,james,1,1
+235,d_james_5.txt,SVM,james,1,1
+236,d_james_6.txt,SVM,james,1,1
+237,d_james_7.txt,SVM,james,1,1
+238,d_james_8.txt,SVM,james,1,1
+239,d_james_9.txt,SVM,james,1,1
+619,t_james_1.txt,SVM,james,0,0
+620,t_james_10.txt,SVM,james,0,0
+621,t_james_11.txt,SVM,james,0,0
+622,t_james_12.txt,SVM,james,0,0
+623,t_james_13.txt,SVM,james,0,0
+624,t_james_14.txt,SVM,james,0,0
+625,t_james_15.txt,SVM,james,0,0
+626,t_james_16.txt,SVM,james,0,0
+627,t_james_17.txt,SVM,james,0,1
+628,t_james_18.txt,SVM,james,0,0
+629,t_james_19.txt,SVM,james,0,0
+630,t_james_2.txt,SVM,james,0,0
+631,t_james_20.txt,SVM,james,0,0
+632,t_james_3.txt,SVM,james,0,0
+633,t_james_4.txt,SVM,james,0,0
+634,t_james_5.txt,SVM,james,0,0
+635,t_james_6.txt,SVM,james,0,0
+636,t_james_7.txt,SVM,james,0,0
+637,t_james_8.txt,SVM,james,0,0
+638,t_james_9.txt,SVM,james,0,0
+1016,d_james_1.txt,SVM,james,1,1
+1017,d_james_10.txt,SVM,james,1,1
+1018,d_james_11.txt,SVM,james,1,1
+1019,d_james_12.txt,SVM,james,1,1
+1020,d_james_13.txt,SVM,james,1,1
+1021,d_james_14.txt,SVM,james,1,1
+1022,d_james_15.txt,SVM,james,1,1
+1023,d_james_16.txt,SVM,james,1,1
+1024,d_james_17.txt,SVM,james,1,1
+1025,d_james_18.txt,SVM,james,1,1
+1026,d_james_19.txt,SVM,james,1,1
+1027,d_james_2.txt,SVM,james,1,1
+1028,d_james_20.txt,SVM,james,1,1
+1029,d_james_3.txt,SVM,james,1,1
+1030,d_james_4.txt,SVM,james,1,0
+1031,d_james_5.txt,SVM,james,1,1
+1032,d_james_6.txt,SVM,james,1,1
+1033,d_james_7.txt,SVM,james,1,1
+1034,d_james_8.txt,SVM,james,1,1
+1035,d_james_9.txt,SVM,james,1,1
+1416,t_james_1.txt,SVM,james,0,1
+1417,t_james_10.txt,SVM,james,0,0
+1418,t_james_11.txt,SVM,james,0,1
+1419,t_james_12.txt,SVM,james,0,0
+1420,t_james_13.txt,SVM,james,0,1
+1421,t_james_14.txt,SVM,james,0,0
+1422,t_james_15.txt,SVM,james,0,0
+1423,t_james_16.txt,SVM,james,0,0
+1424,t_james_17.txt,SVM,james,0,0
+1425,t_james_18.txt,SVM,james,0,0
+1426,t_james_19.txt,SVM,james,0,0
+1427,t_james_2.txt,SVM,james,0,1
+1428,t_james_20.txt,SVM,james,0,0
+1429,t_james_3.txt,SVM,james,0,0
+1430,t_james_4.txt,SVM,james,0,0
+1431,t_james_5.txt,SVM,james,0,0
+1432,t_james_6.txt,SVM,james,0,0
+1433,t_james_7.txt,SVM,james,0,0
+1434,t_james_8.txt,SVM,james,0,0
+1435,t_james_9.txt,SVM,james,0,0
+240,d_knickerbocker_1.txt,SVM,knickerbocker,1,1
+241,d_knickerbocker_10.txt,SVM,knickerbocker,1,1
+242,d_knickerbocker_11.txt,SVM,knickerbocker,1,1
+243,d_knickerbocker_12.txt,SVM,knickerbocker,1,1
+244,d_knickerbocker_13.txt,SVM,knickerbocker,1,0
+245,d_knickerbocker_14.txt,SVM,knickerbocker,1,1
+246,d_knickerbocker_15.txt,SVM,knickerbocker,1,1
+247,d_knickerbocker_16.txt,SVM,knickerbocker,1,1
+248,d_knickerbocker_17.txt,SVM,knickerbocker,1,1
+249,d_knickerbocker_18.txt,SVM,knickerbocker,1,1
+250,d_knickerbocker_19.txt,SVM,knickerbocker,1,1
+251,d_knickerbocker_2.txt,SVM,knickerbocker,1,1
+252,d_knickerbocker_20.txt,SVM,knickerbocker,1,1
+253,d_knickerbocker_3.txt,SVM,knickerbocker,1,1
+254,d_knickerbocker_4.txt,SVM,knickerbocker,1,1
+255,d_knickerbocker_5.txt,SVM,knickerbocker,1,1
+256,d_knickerbocker_6.txt,SVM,knickerbocker,1,1
+257,d_knickerbocker_7.txt,SVM,knickerbocker,1,1
+258,d_knickerbocker_8.txt,SVM,knickerbocker,1,1
+259,d_knickerbocker_9.txt,SVM,knickerbocker,1,0
+639,t_knickerbocker_1.txt,SVM,knickerbocker,0,0
+640,t_knickerbocker_10.txt,SVM,knickerbocker,0,0
+641,t_knickerbocker_11.txt,SVM,knickerbocker,0,0
+642,t_knickerbocker_12.txt,SVM,knickerbocker,0,0
+643,t_knickerbocker_13.txt,SVM,knickerbocker,0,0
+644,t_knickerbocker_14.txt,SVM,knickerbocker,0,0
+645,t_knickerbocker_15.txt,SVM,knickerbocker,0,0
+646,t_knickerbocker_16.txt,SVM,knickerbocker,0,0
+647,t_knickerbocker_17.txt,SVM,knickerbocker,0,1
+648,t_knickerbocker_18.txt,SVM,knickerbocker,0,0
+649,t_knickerbocker_19.txt,SVM,knickerbocker,0,0
+650,t_knickerbocker_2.txt,SVM,knickerbocker,0,0
+651,t_knickerbocker_20.txt,SVM,knickerbocker,0,0
+652,t_knickerbocker_3.txt,SVM,knickerbocker,0,0
+653,t_knickerbocker_4.txt,SVM,knickerbocker,0,0
+654,t_knickerbocker_5.txt,SVM,knickerbocker,0,0
+655,t_knickerbocker_6.txt,SVM,knickerbocker,0,0
+656,t_knickerbocker_7.txt,SVM,knickerbocker,0,0
+657,t_knickerbocker_8.txt,SVM,knickerbocker,0,0
+658,t_knickerbocker_9.txt,SVM,knickerbocker,0,0
+1036,d_knickerbocker_1.txt,SVM,knickerbocker,1,1
+1037,d_knickerbocker_10.txt,SVM,knickerbocker,1,1
+1038,d_knickerbocker_11.txt,SVM,knickerbocker,1,0
+1039,d_knickerbocker_12.txt,SVM,knickerbocker,1,1
+1040,d_knickerbocker_13.txt,SVM,knickerbocker,1,1
+1041,d_knickerbocker_14.txt,SVM,knickerbocker,1,1
+1042,d_knickerbocker_15.txt,SVM,knickerbocker,1,1
+1043,d_knickerbocker_16.txt,SVM,knickerbocker,1,1
+1044,d_knickerbocker_17.txt,SVM,knickerbocker,1,1
+1045,d_knickerbocker_18.txt,SVM,knickerbocker,1,1
+1046,d_knickerbocker_19.txt,SVM,knickerbocker,1,1
+1047,d_knickerbocker_2.txt,SVM,knickerbocker,1,1
+1048,d_knickerbocker_20.txt,SVM,knickerbocker,1,1
+1049,d_knickerbocker_3.txt,SVM,knickerbocker,1,1
+1050,d_knickerbocker_4.txt,SVM,knickerbocker,1,1
+1051,d_knickerbocker_5.txt,SVM,knickerbocker,1,1
+1052,d_knickerbocker_6.txt,SVM,knickerbocker,1,1
+1053,d_knickerbocker_7.txt,SVM,knickerbocker,1,1
+1054,d_knickerbocker_8.txt,SVM,knickerbocker,1,1
+1055,d_knickerbocker_9.txt,SVM,knickerbocker,1,0
+1436,t_knickerbocker_1.txt,SVM,knickerbocker,0,0
+1437,t_knickerbocker_10.txt,SVM,knickerbocker,0,0
+1438,t_knickerbocker_11.txt,SVM,knickerbocker,0,1
+1439,t_knickerbocker_12.txt,SVM,knickerbocker,0,0
+1440,t_knickerbocker_13.txt,SVM,knickerbocker,0,0
+1441,t_knickerbocker_14.txt,SVM,knickerbocker,0,0
+1442,t_knickerbocker_15.txt,SVM,knickerbocker,0,0
+1443,t_knickerbocker_16.txt,SVM,knickerbocker,0,0
+1444,t_knickerbocker_17.txt,SVM,knickerbocker,0,0
+1445,t_knickerbocker_18.txt,SVM,knickerbocker,0,0
+1446,t_knickerbocker_19.txt,SVM,knickerbocker,0,0
+1447,t_knickerbocker_2.txt,SVM,knickerbocker,0,0
+1448,t_knickerbocker_20.txt,SVM,knickerbocker,0,0
+1449,t_knickerbocker_3.txt,SVM,knickerbocker,0,0
+1450,t_knickerbocker_4.txt,SVM,knickerbocker,0,0
+1451,t_knickerbocker_5.txt,SVM,knickerbocker,0,0
+1452,t_knickerbocker_6.txt,SVM,knickerbocker,0,0
+1453,t_knickerbocker_7.txt,SVM,knickerbocker,0,0
+1454,t_knickerbocker_8.txt,SVM,knickerbocker,0,0
+1455,t_knickerbocker_9.txt,SVM,knickerbocker,0,0
+260,d_monaco_1.txt,SVM,monaco,1,1
+261,d_monaco_10.txt,SVM,monaco,1,1
+262,d_monaco_11.txt,SVM,monaco,1,0
+263,d_monaco_12.txt,SVM,monaco,1,1
+264,d_monaco_13.txt,SVM,monaco,1,1
+265,d_monaco_14.txt,SVM,monaco,1,1
+266,d_monaco_15.txt,SVM,monaco,1,1
+267,d_monaco_16.txt,SVM,monaco,1,1
+268,d_monaco_17.txt,SVM,monaco,1,1
+269,d_monaco_18.txt,SVM,monaco,1,1
+270,d_monaco_19.txt,SVM,monaco,1,1
+271,d_monaco_2.txt,SVM,monaco,1,0
+272,d_monaco_20.txt,SVM,monaco,1,1
+273,d_monaco_3.txt,SVM,monaco,1,0
+274,d_monaco_4.txt,SVM,monaco,1,1
+275,d_monaco_5.txt,SVM,monaco,1,1
+276,d_monaco_6.txt,SVM,monaco,1,1
+277,d_monaco_7.txt,SVM,monaco,1,1
+278,d_monaco_8.txt,SVM,monaco,1,1
+279,d_monaco_9.txt,SVM,monaco,1,1
+659,t_monaco_1.txt,SVM,monaco,0,0
+660,t_monaco_10.txt,SVM,monaco,0,0
+661,t_monaco_11.txt,SVM,monaco,0,0
+662,t_monaco_12.txt,SVM,monaco,0,0
+663,t_monaco_13.txt,SVM,monaco,0,0
+664,t_monaco_14.txt,SVM,monaco,0,0
+665,t_monaco_15.txt,SVM,monaco,0,0
+666,t_monaco_16.txt,SVM,monaco,0,1
+667,t_monaco_20.txt,SVM,monaco,0,0
+668,t_monaco_18.txt,SVM,monaco,0,0
+669,t_monaco_19.txt,SVM,monaco,0,1
+670,t_monaco_2.txt,SVM,monaco,0,0
+671,t_monaco_3.txt,SVM,monaco,0,0
+672,t_monaco_4.txt,SVM,monaco,0,0
+673,t_monaco_5.txt,SVM,monaco,0,0
+674,t_monaco_6.txt,SVM,monaco,0,1
+675,t_monaco_7.txt,SVM,monaco,0,0
+676,t_monaco_8.txt,SVM,monaco,0,0
+677,t_monaco_9.txt,SVM,monaco,0,0
+1056,d_monaco_1.txt,SVM,monaco,1,1
+1057,d_monaco_10.txt,SVM,monaco,1,0
+1058,d_monaco_11.txt,SVM,monaco,1,0
+1059,d_monaco_12.txt,SVM,monaco,1,1
+1060,d_monaco_13.txt,SVM,monaco,1,1
+1061,d_monaco_14.txt,SVM,monaco,1,1
+1062,d_monaco_15.txt,SVM,monaco,1,1
+1063,d_monaco_16.txt,SVM,monaco,1,1
+1064,d_monaco_17.txt,SVM,monaco,1,1
+1065,d_monaco_18.txt,SVM,monaco,1,0
+1066,d_monaco_19.txt,SVM,monaco,1,1
+1067,d_monaco_2.txt,SVM,monaco,1,1
+1068,d_monaco_20.txt,SVM,monaco,1,1
+1069,d_monaco_3.txt,SVM,monaco,1,1
+1070,d_monaco_4.txt,SVM,monaco,1,1
+1071,d_monaco_5.txt,SVM,monaco,1,1
+1072,d_monaco_6.txt,SVM,monaco,1,1
+1073,d_monaco_7.txt,SVM,monaco,1,1
+1074,d_monaco_8.txt,SVM,monaco,1,1
+1075,d_monaco_9.txt,SVM,monaco,1,0
+1456,t_monaco_1.txt,SVM,monaco,0,0
+1457,t_monaco_10.txt,SVM,monaco,0,0
+1458,t_monaco_11.txt,SVM,monaco,0,0
+1459,t_monaco_12.txt,SVM,monaco,0,0
+1460,t_monaco_13.txt,SVM,monaco,0,0
+1461,t_monaco_14.txt,SVM,monaco,0,0
+1462,t_monaco_15.txt,SVM,monaco,0,0
+1463,t_monaco_16.txt,SVM,monaco,0,0
+1464,t_monaco_17.txt,SVM,monaco,0,0
+1465,t_monaco_18.txt,SVM,monaco,0,0
+1466,t_monaco_19.txt,SVM,monaco,0,0
+1467,t_monaco_2.txt,SVM,monaco,0,0
+1468,t_monaco_20.txt,SVM,monaco,0,0
+1469,t_monaco_3.txt,SVM,monaco,0,0
+1470,t_monaco_4.txt,SVM,monaco,0,0
+1471,t_monaco_5.txt,SVM,monaco,0,1
+1472,t_monaco_6.txt,SVM,monaco,0,0
+1473,t_monaco_7.txt,SVM,monaco,0,1
+1474,t_monaco_8.txt,SVM,monaco,0,0
+1475,t_monaco_9.txt,SVM,monaco,0,0
+280,d_omni_1.txt,SVM,omni,1,1
+281,d_omni_10.txt,SVM,omni,1,1
+282,d_omni_11.txt,SVM,omni,1,1
+283,d_omni_12.txt,SVM,omni,1,1
+284,d_omni_13.txt,SVM,omni,1,1
+285,d_omni_14.txt,SVM,omni,1,1
+286,d_omni_15.txt,SVM,omni,1,1
+287,d_omni_16.txt,SVM,omni,1,1
+288,d_omni_17.txt,SVM,omni,1,1
+289,d_omni_18.txt,SVM,omni,1,1
+290,d_omni_19.txt,SVM,omni,1,0
+291,d_omni_2.txt,SVM,omni,1,1
+292,d_omni_20.txt,SVM,omni,1,1
+293,d_omni_3.txt,SVM,omni,1,1
+294,d_omni_4.txt,SVM,omni,1,1
+295,d_omni_5.txt,SVM,omni,1,1
+296,d_omni_6.txt,SVM,omni,1,1
+297,d_omni_7.txt,SVM,omni,1,1
+298,d_omni_8.txt,SVM,omni,1,1
+299,d_omni_9.txt,SVM,omni,1,1
+678,t_omni_1.txt,SVM,omni,0,0
+679,t_omni_13.txt,SVM,omni,0,0
+680,t_omni_11.txt,SVM,omni,0,0
+681,t_omni_12.txt,SVM,omni,0,1
+682,t_omni_14.txt,SVM,omni,0,1
+683,t_omni_15.txt,SVM,omni,0,0
+684,t_omni_16.txt,SVM,omni,0,0
+685,t_omni_17.txt,SVM,omni,0,0
+686,t_omni_18.txt,SVM,omni,0,1
+687,t_omni_19.txt,SVM,omni,0,0
+688,t_omni_2.txt,SVM,omni,0,0
+689,t_omni_20.txt,SVM,omni,0,0
+690,t_omni_3.txt,SVM,omni,0,0
+691,t_omni_4.txt,SVM,omni,0,0
+692,t_omni_9.txt,SVM,omni,0,0
+693,t_omni_6.txt,SVM,omni,0,0
+694,t_omni_7.txt,SVM,omni,0,0
+695,t_omni_8.txt,SVM,omni,0,0
+1076,d_omni_1.txt,SVM,omni,1,1
+1077,d_omni_10.txt,SVM,omni,1,1
+1078,d_omni_11.txt,SVM,omni,1,1
+1079,d_omni_12.txt,SVM,omni,1,1
+1080,d_omni_13.txt,SVM,omni,1,1
+1081,d_omni_14.txt,SVM,omni,1,1
+1082,d_omni_15.txt,SVM,omni,1,1
+1083,d_omni_16.txt,SVM,omni,1,1
+1084,d_omni_17.txt,SVM,omni,1,1
+1085,d_omni_18.txt,SVM,omni,1,1
+1086,d_omni_19.txt,SVM,omni,1,1
+1087,d_omni_2.txt,SVM,omni,1,1
+1088,d_omni_20.txt,SVM,omni,1,1
+1089,d_omni_3.txt,SVM,omni,1,1
+1090,d_omni_4.txt,SVM,omni,1,1
+1091,d_omni_5.txt,SVM,omni,1,1
+1092,d_omni_6.txt,SVM,omni,1,0
+1093,d_omni_7.txt,SVM,omni,1,1
+1094,d_omni_8.txt,SVM,omni,1,1
+1095,d_omni_9.txt,SVM,omni,1,1
+1476,t_omni_1.txt,SVM,omni,0,0
+1477,t_omni_10.txt,SVM,omni,0,0
+1478,t_omni_11.txt,SVM,omni,0,0
+1479,t_omni_12.txt,SVM,omni,0,0
+1480,t_omni_13.txt,SVM,omni,0,0
+1481,t_omni_14.txt,SVM,omni,0,0
+1482,t_omni_15.txt,SVM,omni,0,1
+1483,t_omni_16.txt,SVM,omni,0,0
+1484,t_omni_17.txt,SVM,omni,0,0
+1485,t_omni_18.txt,SVM,omni,0,0
+1486,t_omni_19.txt,SVM,omni,0,0
+1487,t_omni_2.txt,SVM,omni,0,1
+1488,t_omni_20.txt,SVM,omni,0,0
+1489,t_omni_3.txt,SVM,omni,0,0
+1490,t_omni_4.txt,SVM,omni,0,0
+1491,t_omni_5.txt,SVM,omni,0,0
+1492,t_omni_6.txt,SVM,omni,0,0
+1493,t_omni_7.txt,SVM,omni,0,0
+1494,t_omni_8.txt,SVM,omni,0,0
+1495,t_omni_9.txt,SVM,omni,0,0
+300,d_palmer_1.txt,SVM,palmer,1,1
+301,d_palmer_10.txt,SVM,palmer,1,1
+302,d_palmer_11.txt,SVM,palmer,1,1
+303,d_palmer_12.txt,SVM,palmer,1,1
+304,d_palmer_13.txt,SVM,palmer,1,1
+305,d_palmer_14.txt,SVM,palmer,1,1
+306,d_palmer_15.txt,SVM,palmer,1,1
+307,d_palmer_16.txt,SVM,palmer,1,1
+308,d_palmer_17.txt,SVM,palmer,1,1
+309,d_palmer_18.txt,SVM,palmer,1,1
+310,d_palmer_19.txt,SVM,palmer,1,1
+311,d_palmer_2.txt,SVM,palmer,1,1
+312,d_palmer_20.txt,SVM,palmer,1,1
+313,d_palmer_3.txt,SVM,palmer,1,1
+314,d_palmer_4.txt,SVM,palmer,1,1
+315,d_palmer_5.txt,SVM,palmer,1,1
+316,d_palmer_6.txt,SVM,palmer,1,1
+317,d_palmer_7.txt,SVM,palmer,1,1
+318,d_palmer_8.txt,SVM,palmer,1,0
+319,d_palmer_9.txt,SVM,palmer,1,1
+696,t_palmer_1.txt,SVM,palmer,0,0
+697,t_palmer_10.txt,SVM,palmer,0,0
+698,t_palmer_11.txt,SVM,palmer,0,0
+699,t_palmer_12.txt,SVM,palmer,0,0
+700,t_palmer_13.txt,SVM,palmer,0,0
+701,t_palmer_14.txt,SVM,palmer,0,0
+702,t_palmer_15.txt,SVM,palmer,0,0
+703,t_palmer_16.txt,SVM,palmer,0,0
+704,t_palmer_17.txt,SVM,palmer,0,0
+705,t_palmer_18.txt,SVM,palmer,0,0
+706,t_palmer_19.txt,SVM,palmer,0,0
+707,t_palmer_2.txt,SVM,palmer,0,0
+708,t_palmer_20.txt,SVM,palmer,0,0
+709,t_palmer_3.txt,SVM,palmer,0,0
+710,t_palmer_4.txt,SVM,palmer,0,0
+711,t_palmer_5.txt,SVM,palmer,0,0
+712,t_palmer_6.txt,SVM,palmer,0,0
+713,t_palmer_7.txt,SVM,palmer,0,0
+714,t_palmer_8.txt,SVM,palmer,0,0
+715,t_palmer_9.txt,SVM,palmer,0,0
+1096,d_palmer_1.txt,SVM,palmer,1,1
+1097,d_palmer_10.txt,SVM,palmer,1,1
+1098,d_palmer_11.txt,SVM,palmer,1,1
+1099,d_palmer_12.txt,SVM,palmer,1,1
+1100,d_palmer_13.txt,SVM,palmer,1,1
+1101,d_palmer_14.txt,SVM,palmer,1,1
+1102,d_palmer_15.txt,SVM,palmer,1,1
+1103,d_palmer_16.txt,SVM,palmer,1,0
+1104,d_palmer_17.txt,SVM,palmer,1,1
+1105,d_palmer_18.txt,SVM,palmer,1,1
+1106,d_palmer_19.txt,SVM,palmer,1,1
+1107,d_palmer_2.txt,SVM,palmer,1,1
+1108,d_palmer_20.txt,SVM,palmer,1,1
+1109,d_palmer_3.txt,SVM,palmer,1,1
+1110,d_palmer_4.txt,SVM,palmer,1,0
+1111,d_palmer_5.txt,SVM,palmer,1,1
+1112,d_palmer_6.txt,SVM,palmer,1,0
+1113,d_palmer_7.txt,SVM,palmer,1,1
+1114,d_palmer_8.txt,SVM,palmer,1,1
+1115,d_palmer_9.txt,SVM,palmer,1,1
+1496,t_palmer_1.txt,SVM,palmer,0,0
+1497,t_palmer_10.txt,SVM,palmer,0,0
+1498,t_palmer_11.txt,SVM,palmer,0,0
+1499,t_palmer_12.txt,SVM,palmer,0,0
+1500,t_palmer_13.txt,SVM,palmer,0,0
+1501,t_palmer_14.txt,SVM,palmer,0,0
+1502,t_palmer_15.txt,SVM,palmer,0,0
+1503,t_palmer_16.txt,SVM,palmer,0,0
+1504,t_palmer_17.txt,SVM,palmer,0,0
+1505,t_palmer_18.txt,SVM,palmer,0,0
+1506,t_palmer_19.txt,SVM,palmer,0,0
+1507,t_palmer_2.txt,SVM,palmer,0,0
+1508,t_palmer_20.txt,SVM,palmer,0,0
+1509,t_palmer_3.txt,SVM,palmer,0,0
+1510,t_palmer_4.txt,SVM,palmer,0,0
+1511,t_palmer_5.txt,SVM,palmer,0,0
+1512,t_palmer_6.txt,SVM,palmer,0,0
+1513,t_palmer_7.txt,SVM,palmer,0,0
+1514,t_palmer_8.txt,SVM,palmer,0,0
+1515,t_palmer_9.txt,SVM,palmer,0,0
+320,d_sheraton_1.txt,SVM,sheraton,1,1
+321,d_sheraton_10.txt,SVM,sheraton,1,1
+322,d_sheraton_11.txt,SVM,sheraton,1,1
+323,d_sheraton_12.txt,SVM,sheraton,1,1
+324,d_sheraton_13.txt,SVM,sheraton,1,1
+325,d_sheraton_14.txt,SVM,sheraton,1,1
+326,d_sheraton_15.txt,SVM,sheraton,1,0
+327,d_sheraton_16.txt,SVM,sheraton,1,1
+328,d_sheraton_17.txt,SVM,sheraton,1,1
+329,d_sheraton_18.txt,SVM,sheraton,1,1
+330,d_sheraton_19.txt,SVM,sheraton,1,1
+331,d_sheraton_2.txt,SVM,sheraton,1,1
+332,d_sheraton_20.txt,SVM,sheraton,1,1
+333,d_sheraton_3.txt,SVM,sheraton,1,1
+334,d_sheraton_4.txt,SVM,sheraton,1,1
+335,d_sheraton_5.txt,SVM,sheraton,1,1
+336,d_sheraton_6.txt,SVM,sheraton,1,0
+337,d_sheraton_7.txt,SVM,sheraton,1,1
+338,d_sheraton_8.txt,SVM,sheraton,1,1
+339,d_sheraton_9.txt,SVM,sheraton,1,1
+716,t_sheraton_1.txt,SVM,sheraton,0,0
+717,t_sheraton_10.txt,SVM,sheraton,0,0
+718,t_sheraton_11.txt,SVM,sheraton,0,0
+719,t_sheraton_12.txt,SVM,sheraton,0,1
+720,t_sheraton_13.txt,SVM,sheraton,0,0
+721,t_sheraton_14.txt,SVM,sheraton,0,1
+722,t_sheraton_15.txt,SVM,sheraton,0,0
+723,t_sheraton_16.txt,SVM,sheraton,0,0
+724,t_sheraton_17.txt,SVM,sheraton,0,1
+725,t_sheraton_18.txt,SVM,sheraton,0,0
+726,t_sheraton_19.txt,SVM,sheraton,0,0
+727,t_sheraton_2.txt,SVM,sheraton,0,0
+728,t_sheraton_20.txt,SVM,sheraton,0,0
+729,t_sheraton_3.txt,SVM,sheraton,0,0
+730,t_sheraton_4.txt,SVM,sheraton,0,0
+731,t_sheraton_5.txt,SVM,sheraton,0,0
+732,t_sheraton_6.txt,SVM,sheraton,0,0
+733,t_sheraton_7.txt,SVM,sheraton,0,0
+734,t_sheraton_8.txt,SVM,sheraton,0,0
+735,t_sheraton_9.txt,SVM,sheraton,0,0
+1116,d_sheraton_1.txt,SVM,sheraton,1,1
+1117,d_sheraton_10.txt,SVM,sheraton,1,1
+1118,d_sheraton_11.txt,SVM,sheraton,1,1
+1119,d_sheraton_12.txt,SVM,sheraton,1,1
+1120,d_sheraton_13.txt,SVM,sheraton,1,1
+1121,d_sheraton_14.txt,SVM,sheraton,1,1
+1122,d_sheraton_15.txt,SVM,sheraton,1,1
+1123,d_sheraton_16.txt,SVM,sheraton,1,1
+1124,d_sheraton_17.txt,SVM,sheraton,1,1
+1125,d_sheraton_18.txt,SVM,sheraton,1,0
+1126,d_sheraton_19.txt,SVM,sheraton,1,0
+1127,d_sheraton_2.txt,SVM,sheraton,1,1
+1128,d_sheraton_20.txt,SVM,sheraton,1,1
+1129,d_sheraton_3.txt,SVM,sheraton,1,1
+1130,d_sheraton_4.txt,SVM,sheraton,1,1
+1131,d_sheraton_5.txt,SVM,sheraton,1,1
+1132,d_sheraton_6.txt,SVM,sheraton,1,1
+1133,d_sheraton_7.txt,SVM,sheraton,1,1
+1134,d_sheraton_8.txt,SVM,sheraton,1,1
+1135,d_sheraton_9.txt,SVM,sheraton,1,1
+1516,t_sheraton_1.txt,SVM,sheraton,0,0
+1517,t_sheraton_10.txt,SVM,sheraton,0,0
+1518,t_sheraton_11.txt,SVM,sheraton,0,0
+1519,t_sheraton_12.txt,SVM,sheraton,0,0
+1520,t_sheraton_13.txt,SVM,sheraton,0,0
+1521,t_sheraton_14.txt,SVM,sheraton,0,1
+1522,t_sheraton_15.txt,SVM,sheraton,0,0
+1523,t_sheraton_16.txt,SVM,sheraton,0,0
+1524,t_sheraton_17.txt,SVM,sheraton,0,0
+1525,t_sheraton_18.txt,SVM,sheraton,0,0
+1526,t_sheraton_19.txt,SVM,sheraton,0,0
+1527,t_sheraton_2.txt,SVM,sheraton,0,1
+1528,t_sheraton_20.txt,SVM,sheraton,0,0
+1529,t_sheraton_3.txt,SVM,sheraton,0,0
+1530,t_sheraton_4.txt,SVM,sheraton,0,0
+1531,t_sheraton_5.txt,SVM,sheraton,0,0
+1532,t_sheraton_6.txt,SVM,sheraton,0,0
+1533,t_sheraton_7.txt,SVM,sheraton,0,0
+1534,t_sheraton_8.txt,SVM,sheraton,0,0
+1535,t_sheraton_9.txt,SVM,sheraton,0,0
+340,d_sofitel_1.txt,SVM,sofitel,1,1
+341,d_sofitel_10.txt,SVM,sofitel,1,1
+342,d_sofitel_11.txt,SVM,sofitel,1,1
+343,d_sofitel_12.txt,SVM,sofitel,1,1
+344,d_sofitel_13.txt,SVM,sofitel,1,1
+345,d_sofitel_14.txt,SVM,sofitel,1,1
+346,d_sofitel_15.txt,SVM,sofitel,1,1
+347,d_sofitel_16.txt,SVM,sofitel,1,0
+348,d_sofitel_17.txt,SVM,sofitel,1,0
+349,d_sofitel_18.txt,SVM,sofitel,1,1
+350,d_sofitel_19.txt,SVM,sofitel,1,1
+351,d_sofitel_2.txt,SVM,sofitel,1,1
+352,d_sofitel_20.txt,SVM,sofitel,1,1
+353,d_sofitel_3.txt,SVM,sofitel,1,1
+354,d_sofitel_4.txt,SVM,sofitel,1,1
+355,d_sofitel_5.txt,SVM,sofitel,1,1
+356,d_sofitel_6.txt,SVM,sofitel,1,1
+357,d_sofitel_7.txt,SVM,sofitel,1,1
+358,d_sofitel_8.txt,SVM,sofitel,1,1
+359,d_sofitel_9.txt,SVM,sofitel,1,0
+736,t_sofitel_1.txt,SVM,sofitel,0,0
+737,t_sofitel_10.txt,SVM,sofitel,0,0
+738,t_sofitel_11.txt,SVM,sofitel,0,0
+739,t_sofitel_12.txt,SVM,sofitel,0,1
+740,t_sofitel_13.txt,SVM,sofitel,0,1
+741,t_sofitel_14.txt,SVM,sofitel,0,0
+742,t_sofitel_15.txt,SVM,sofitel,0,0
+743,t_sofitel_16.txt,SVM,sofitel,0,0
+744,t_sofitel_17.txt,SVM,sofitel,0,1
+745,t_sofitel_18.txt,SVM,sofitel,0,1
+746,t_sofitel_19.txt,SVM,sofitel,0,0
+747,t_sofitel_2.txt,SVM,sofitel,0,0
+748,t_sofitel_20.txt,SVM,sofitel,0,0
+749,t_sofitel_3.txt,SVM,sofitel,0,0
+750,t_sofitel_4.txt,SVM,sofitel,0,0
+751,t_sofitel_5.txt,SVM,sofitel,0,0
+752,t_sofitel_6.txt,SVM,sofitel,0,1
+753,t_sofitel_7.txt,SVM,sofitel,0,0
+754,t_sofitel_8.txt,SVM,sofitel,0,0
+755,t_sofitel_9.txt,SVM,sofitel,0,0
+1136,d_sofitel_1.txt,SVM,sofitel,1,1
+1137,d_sofitel_10.txt,SVM,sofitel,1,1
+1138,d_sofitel_11.txt,SVM,sofitel,1,1
+1139,d_sofitel_12.txt,SVM,sofitel,1,1
+1140,d_sofitel_13.txt,SVM,sofitel,1,1
+1141,d_sofitel_14.txt,SVM,sofitel,1,1
+1142,d_sofitel_15.txt,SVM,sofitel,1,1
+1143,d_sofitel_16.txt,SVM,sofitel,1,1
+1144,d_sofitel_17.txt,SVM,sofitel,1,1
+1145,d_sofitel_18.txt,SVM,sofitel,1,0
+1146,d_sofitel_19.txt,SVM,sofitel,1,1
+1147,d_sofitel_2.txt,SVM,sofitel,1,0
+1148,d_sofitel_20.txt,SVM,sofitel,1,0
+1149,d_sofitel_3.txt,SVM,sofitel,1,1
+1150,d_sofitel_4.txt,SVM,sofitel,1,1
+1151,d_sofitel_5.txt,SVM,sofitel,1,1
+1152,d_sofitel_6.txt,SVM,sofitel,1,1
+1153,d_sofitel_7.txt,SVM,sofitel,1,1
+1154,d_sofitel_8.txt,SVM,sofitel,1,1
+1155,d_sofitel_9.txt,SVM,sofitel,1,1
+1536,t_sofitel_1.txt,SVM,sofitel,0,1
+1537,t_sofitel_10.txt,SVM,sofitel,0,0
+1538,t_sofitel_11.txt,SVM,sofitel,0,0
+1539,t_sofitel_12.txt,SVM,sofitel,0,0
+1540,t_sofitel_13.txt,SVM,sofitel,0,0
+1541,t_sofitel_14.txt,SVM,sofitel,0,0
+1542,t_sofitel_15.txt,SVM,sofitel,0,0
+1543,t_sofitel_16.txt,SVM,sofitel,0,0
+1544,t_sofitel_17.txt,SVM,sofitel,0,0
+1545,t_sofitel_18.txt,SVM,sofitel,0,0
+1546,t_sofitel_19.txt,SVM,sofitel,0,1
+1547,t_sofitel_2.txt,SVM,sofitel,0,0
+1548,t_sofitel_20.txt,SVM,sofitel,0,0
+1549,t_sofitel_3.txt,SVM,sofitel,0,0
+1550,t_sofitel_4.txt,SVM,sofitel,0,0
+1551,t_sofitel_5.txt,SVM,sofitel,0,0
+1552,t_sofitel_6.txt,SVM,sofitel,0,0
+1553,t_sofitel_7.txt,SVM,sofitel,0,0
+1554,t_sofitel_8.txt,SVM,sofitel,0,0
+1555,t_sofitel_9.txt,SVM,sofitel,0,1
+360,d_swissotel_1.txt,SVM,swissotel,1,1
+361,d_swissotel_10.txt,SVM,swissotel,1,1
+362,d_swissotel_11.txt,SVM,swissotel,1,1
+363,d_swissotel_12.txt,SVM,swissotel,1,1
+364,d_swissotel_13.txt,SVM,swissotel,1,1
+365,d_swissotel_14.txt,SVM,swissotel,1,1
+366,d_swissotel_15.txt,SVM,swissotel,1,1
+367,d_swissotel_16.txt,SVM,swissotel,1,1
+368,d_swissotel_17.txt,SVM,swissotel,1,1
+369,d_swissotel_18.txt,SVM,swissotel,1,1
+370,d_swissotel_19.txt,SVM,swissotel,1,1
+371,d_swissotel_2.txt,SVM,swissotel,1,1
+372,d_swissotel_20.txt,SVM,swissotel,1,0
+373,d_swissotel_3.txt,SVM,swissotel,1,1
+374,d_swissotel_4.txt,SVM,swissotel,1,1
+375,d_swissotel_5.txt,SVM,swissotel,1,1
+376,d_swissotel_6.txt,SVM,swissotel,1,1
+377,d_swissotel_7.txt,SVM,swissotel,1,1
+378,d_swissotel_8.txt,SVM,swissotel,1,1
+379,d_swissotel_9.txt,SVM,swissotel,1,1
+756,t_swissotel_1.txt,SVM,swissotel,0,0
+757,t_swissotel_10.txt,SVM,swissotel,0,0
+758,t_swissotel_11.txt,SVM,swissotel,0,1
+759,t_swissotel_12.txt,SVM,swissotel,0,0
+760,t_swissotel_13.txt,SVM,swissotel,0,0
+761,t_swissotel_14.txt,SVM,swissotel,0,1
+762,t_swissotel_15.txt,SVM,swissotel,0,0
+763,t_swissotel_16.txt,SVM,swissotel,0,0
+764,t_swissotel_17.txt,SVM,swissotel,0,0
+765,t_swissotel_18.txt,SVM,swissotel,0,0
+766,t_swissotel_19.txt,SVM,swissotel,0,1
+767,t_swissotel_2.txt,SVM,swissotel,0,0
+768,t_swissotel_20.txt,SVM,swissotel,0,0
+769,t_swissotel_3.txt,SVM,swissotel,0,0
+770,t_swissotel_4.txt,SVM,swissotel,0,0
+771,t_swissotel_5.txt,SVM,swissotel,0,0
+772,t_swissotel_6.txt,SVM,swissotel,0,0
+773,t_swissotel_7.txt,SVM,swissotel,0,0
+774,t_swissotel_8.txt,SVM,swissotel,0,0
+775,t_swissotel_9.txt,SVM,swissotel,0,1
+1156,d_swissotel_1.txt,SVM,swissotel,1,1
+1157,d_swissotel_10.txt,SVM,swissotel,1,1
+1158,d_swissotel_11.txt,SVM,swissotel,1,1
+1159,d_swissotel_12.txt,SVM,swissotel,1,1
+1160,d_swissotel_13.txt,SVM,swissotel,1,1
+1161,d_swissotel_14.txt,SVM,swissotel,1,1
+1162,d_swissotel_15.txt,SVM,swissotel,1,1
+1163,d_swissotel_16.txt,SVM,swissotel,1,0
+1164,d_swissotel_17.txt,SVM,swissotel,1,1
+1165,d_swissotel_18.txt,SVM,swissotel,1,1
+1166,d_swissotel_19.txt,SVM,swissotel,1,1
+1167,d_swissotel_2.txt,SVM,swissotel,1,1
+1168,d_swissotel_20.txt,SVM,swissotel,1,1
+1169,d_swissotel_3.txt,SVM,swissotel,1,1
+1170,d_swissotel_4.txt,SVM,swissotel,1,1
+1171,d_swissotel_5.txt,SVM,swissotel,1,1
+1172,d_swissotel_6.txt,SVM,swissotel,1,1
+1173,d_swissotel_7.txt,SVM,swissotel,1,1
+1174,d_swissotel_8.txt,SVM,swissotel,1,1
+1175,d_swissotel_9.txt,SVM,swissotel,1,1
+1556,t_swissotel_1.txt,SVM,swissotel,0,0
+1557,t_swissotel_10.txt,SVM,swissotel,0,0
+1558,t_swissotel_11.txt,SVM,swissotel,0,0
+1559,t_swissotel_12.txt,SVM,swissotel,0,0
+1560,t_swissotel_13.txt,SVM,swissotel,0,0
+1561,t_swissotel_14.txt,SVM,swissotel,0,0
+1562,t_swissotel_15.txt,SVM,swissotel,0,0
+1563,t_swissotel_16.txt,SVM,swissotel,0,0
+1564,t_swissotel_17.txt,SVM,swissotel,0,0
+1565,t_swissotel_18.txt,SVM,swissotel,0,0
+1566,t_swissotel_19.txt,SVM,swissotel,0,0
+1567,t_swissotel_2.txt,SVM,swissotel,0,0
+1568,t_swissotel_20.txt,SVM,swissotel,0,0
+1569,t_swissotel_3.txt,SVM,swissotel,0,0
+1570,t_swissotel_4.txt,SVM,swissotel,0,0
+1571,t_swissotel_5.txt,SVM,swissotel,0,0
+1572,t_swissotel_6.txt,SVM,swissotel,0,0
+1573,t_swissotel_7.txt,SVM,swissotel,0,0
+1574,t_swissotel_8.txt,SVM,swissotel,0,0
+1575,t_swissotel_9.txt,SVM,swissotel,0,0
+380,d_talbott_1.txt,SVM,talbott,1,1
+381,d_talbott_10.txt,SVM,talbott,1,1
+382,d_talbott_11.txt,SVM,talbott,1,1
+383,d_talbott_12.txt,SVM,talbott,1,1
+384,d_talbott_13.txt,SVM,talbott,1,1
+385,d_talbott_14.txt,SVM,talbott,1,1
+386,d_talbott_15.txt,SVM,talbott,1,1
+387,d_talbott_16.txt,SVM,talbott,1,1
+388,d_talbott_17.txt,SVM,talbott,1,1
+389,d_talbott_18.txt,SVM,talbott,1,1
+390,d_talbott_19.txt,SVM,talbott,1,1
+391,d_talbott_2.txt,SVM,talbott,1,1
+392,d_talbott_20.txt,SVM,talbott,1,1
+393,d_talbott_3.txt,SVM,talbott,1,1
+394,d_talbott_4.txt,SVM,talbott,1,1
+395,d_talbott_5.txt,SVM,talbott,1,1
+396,d_talbott_6.txt,SVM,talbott,1,1
+397,d_talbott_7.txt,SVM,talbott,1,1
+398,d_talbott_8.txt,SVM,talbott,1,1
+399,d_talbott_9.txt,SVM,talbott,1,1
+776,t_talbott_1.txt,SVM,talbott,0,0
+777,t_talbott_10.txt,SVM,talbott,0,0
+778,t_talbott_11.txt,SVM,talbott,0,0
+779,t_talbott_12.txt,SVM,talbott,0,0
+780,t_talbott_13.txt,SVM,talbott,0,0
+781,t_talbott_14.txt,SVM,talbott,0,0
+782,t_talbott_15.txt,SVM,talbott,0,0
+783,t_talbott_16.txt,SVM,talbott,0,0
+784,t_talbott_17.txt,SVM,talbott,0,1
+785,t_talbott_18.txt,SVM,talbott,0,0
+786,t_talbott_19.txt,SVM,talbott,0,0
+787,t_talbott_2.txt,SVM,talbott,0,0
+788,t_talbott_20.txt,SVM,talbott,0,0
+789,t_talbott_3.txt,SVM,talbott,0,0
+790,t_talbott_4.txt,SVM,talbott,0,1
+791,t_talbott_5.txt,SVM,talbott,0,0
+792,t_talbott_6.txt,SVM,talbott,0,0
+793,t_talbott_7.txt,SVM,talbott,0,0
+794,t_talbott_8.txt,SVM,talbott,0,0
+795,t_talbott_9.txt,SVM,talbott,0,0
+1176,d_talbott_1.txt,SVM,talbott,1,1
+1177,d_talbott_10.txt,SVM,talbott,1,1
+1178,d_talbott_11.txt,SVM,talbott,1,1
+1179,d_talbott_12.txt,SVM,talbott,1,1
+1180,d_talbott_13.txt,SVM,talbott,1,1
+1181,d_talbott_14.txt,SVM,talbott,1,1
+1182,d_talbott_15.txt,SVM,talbott,1,1
+1183,d_talbott_16.txt,SVM,talbott,1,0
+1184,d_talbott_17.txt,SVM,talbott,1,0
+1185,d_talbott_18.txt,SVM,talbott,1,1
+1186,d_talbott_19.txt,SVM,talbott,1,0
+1187,d_talbott_2.txt,SVM,talbott,1,1
+1188,d_talbott_20.txt,SVM,talbott,1,1
+1189,d_talbott_3.txt,SVM,talbott,1,1
+1190,d_talbott_4.txt,SVM,talbott,1,1
+1191,d_talbott_5.txt,SVM,talbott,1,1
+1192,d_talbott_6.txt,SVM,talbott,1,0
+1193,d_talbott_7.txt,SVM,talbott,1,0
+1194,d_talbott_8.txt,SVM,talbott,1,1
+1195,d_talbott_9.txt,SVM,talbott,1,1
+1576,t_talbott_1.txt,SVM,talbott,0,0
+1577,t_talbott_10.txt,SVM,talbott,0,0
+1578,t_talbott_11.txt,SVM,talbott,0,0
+1579,t_talbott_12.txt,SVM,talbott,0,0
+1580,t_talbott_13.txt,SVM,talbott,0,0
+1581,t_talbott_14.txt,SVM,talbott,0,0
+1582,t_talbott_15.txt,SVM,talbott,0,0
+1583,t_talbott_16.txt,SVM,talbott,0,0
+1584,t_talbott_17.txt,SVM,talbott,0,0
+1585,t_talbott_18.txt,SVM,talbott,0,0
+1586,t_talbott_19.txt,SVM,talbott,0,0
+1587,t_talbott_2.txt,SVM,talbott,0,0
+1588,t_talbott_20.txt,SVM,talbott,0,0
+1589,t_talbott_3.txt,SVM,talbott,0,0
+1590,t_talbott_4.txt,SVM,talbott,0,0
+1591,t_talbott_5.txt,SVM,talbott,0,0
+1592,t_talbott_6.txt,SVM,talbott,0,0
+1593,t_talbott_7.txt,SVM,talbott,0,0
+1594,t_talbott_8.txt,SVM,talbott,0,0
+1595,t_talbott_9.txt,SVM,talbott,0,0
+0,d_affinia_1.txt,Naive Bayes,affinia,1,1
+1,d_affinia_10.txt,Naive Bayes,affinia,1,1
+2,d_affinia_11.txt,Naive Bayes,affinia,1,1
+3,d_affinia_12.txt,Naive Bayes,affinia,1,0
+4,d_affinia_13.txt,Naive Bayes,affinia,1,1
+5,d_affinia_14.txt,Naive Bayes,affinia,1,0
+6,d_affinia_15.txt,Naive Bayes,affinia,1,1
+7,d_affinia_16.txt,Naive Bayes,affinia,1,0
+8,d_affinia_17.txt,Naive Bayes,affinia,1,1
+9,d_affinia_18.txt,Naive Bayes,affinia,1,1
+10,d_affinia_19.txt,Naive Bayes,affinia,1,1
+11,d_affinia_2.txt,Naive Bayes,affinia,1,0
+12,d_affinia_20.txt,Naive Bayes,affinia,1,1
+13,d_affinia_3.txt,Naive Bayes,affinia,1,1
+14,d_affinia_4.txt,Naive Bayes,affinia,1,1
+15,d_affinia_5.txt,Naive Bayes,affinia,1,0
+16,d_affinia_6.txt,Naive Bayes,affinia,1,1
+17,d_affinia_7.txt,Naive Bayes,affinia,1,1
+18,d_affinia_8.txt,Naive Bayes,affinia,1,0
+19,d_affinia_9.txt,Naive Bayes,affinia,1,1
+400,t_affinia_1.txt,Naive Bayes,affinia,0,0
+401,t_affinia_10.txt,Naive Bayes,affinia,0,0
+402,t_affinia_11.txt,Naive Bayes,affinia,0,0
+403,t_affinia_12.txt,Naive Bayes,affinia,0,0
+404,t_affinia_13.txt,Naive Bayes,affinia,0,0
+405,t_affinia_19.txt,Naive Bayes,affinia,0,0
+406,t_affinia_15.txt,Naive Bayes,affinia,0,0
+407,t_affinia_16.txt,Naive Bayes,affinia,0,0
+408,t_affinia_17.txt,Naive Bayes,affinia,0,0
+409,t_affinia_18.txt,Naive Bayes,affinia,0,0
+410,t_affinia_2.txt,Naive Bayes,affinia,0,0
+411,t_affinia_20.txt,Naive Bayes,affinia,0,0
+412,t_affinia_3.txt,Naive Bayes,affinia,0,0
+413,t_affinia_4.txt,Naive Bayes,affinia,0,0
+414,t_affinia_5.txt,Naive Bayes,affinia,0,0
+415,t_affinia_6.txt,Naive Bayes,affinia,0,0
+416,t_affinia_7.txt,Naive Bayes,affinia,0,0
+417,t_affinia_8.txt,Naive Bayes,affinia,0,0
+418,t_affinia_9.txt,Naive Bayes,affinia,0,0
+796,d_affinia_1.txt,Naive Bayes,affinia,1,1
+797,d_affinia_10.txt,Naive Bayes,affinia,1,1
+798,d_affinia_11.txt,Naive Bayes,affinia,1,1
+799,d_affinia_12.txt,Naive Bayes,affinia,1,1
+800,d_affinia_13.txt,Naive Bayes,affinia,1,1
+801,d_affinia_14.txt,Naive Bayes,affinia,1,1
+802,d_affinia_15.txt,Naive Bayes,affinia,1,1
+803,d_affinia_16.txt,Naive Bayes,affinia,1,1
+804,d_affinia_17.txt,Naive Bayes,affinia,1,0
+805,d_affinia_18.txt,Naive Bayes,affinia,1,1
+806,d_affinia_19.txt,Naive Bayes,affinia,1,1
+807,d_affinia_2.txt,Naive Bayes,affinia,1,1
+808,d_affinia_20.txt,Naive Bayes,affinia,1,1
+809,d_affinia_3.txt,Naive Bayes,affinia,1,1
+810,d_affinia_4.txt,Naive Bayes,affinia,1,1
+811,d_affinia_5.txt,Naive Bayes,affinia,1,1
+812,d_affinia_6.txt,Naive Bayes,affinia,1,1
+813,d_affinia_7.txt,Naive Bayes,affinia,1,0
+814,d_affinia_8.txt,Naive Bayes,affinia,1,0
+815,d_affinia_9.txt,Naive Bayes,affinia,1,1
+1196,t_affinia_1.txt,Naive Bayes,affinia,0,0
+1197,t_affinia_10.txt,Naive Bayes,affinia,0,0
+1198,t_affinia_11.txt,Naive Bayes,affinia,0,0
+1199,t_affinia_12.txt,Naive Bayes,affinia,0,0
+1200,t_affinia_13.txt,Naive Bayes,affinia,0,0
+1201,t_affinia_14.txt,Naive Bayes,affinia,0,0
+1202,t_affinia_15.txt,Naive Bayes,affinia,0,1
+1203,t_affinia_16.txt,Naive Bayes,affinia,0,0
+1204,t_affinia_17.txt,Naive Bayes,affinia,0,0
+1205,t_affinia_18.txt,Naive Bayes,affinia,0,0
+1206,t_affinia_19.txt,Naive Bayes,affinia,0,0
+1207,t_affinia_2.txt,Naive Bayes,affinia,0,0
+1208,t_affinia_20.txt,Naive Bayes,affinia,0,0
+1209,t_affinia_3.txt,Naive Bayes,affinia,0,0
+1210,t_affinia_4.txt,Naive Bayes,affinia,0,0
+1211,t_affinia_5.txt,Naive Bayes,affinia,0,1
+1212,t_affinia_6.txt,Naive Bayes,affinia,0,0
+1213,t_affinia_7.txt,Naive Bayes,affinia,0,0
+1214,t_affinia_8.txt,Naive Bayes,affinia,0,0
+1215,t_affinia_9.txt,Naive Bayes,affinia,0,0
+20,d_allegro_1.txt,Naive Bayes,allegro,1,1
+21,d_allegro_10.txt,Naive Bayes,allegro,1,1
+22,d_allegro_11.txt,Naive Bayes,allegro,1,1
+23,d_allegro_12.txt,Naive Bayes,allegro,1,1
+24,d_allegro_13.txt,Naive Bayes,allegro,1,1
+25,d_allegro_14.txt,Naive Bayes,allegro,1,1
+26,d_allegro_15.txt,Naive Bayes,allegro,1,1
+27,d_allegro_16.txt,Naive Bayes,allegro,1,0
+28,d_allegro_17.txt,Naive Bayes,allegro,1,0
+29,d_allegro_18.txt,Naive Bayes,allegro,1,1
+30,d_allegro_19.txt,Naive Bayes,allegro,1,1
+31,d_allegro_2.txt,Naive Bayes,allegro,1,1
+32,d_allegro_20.txt,Naive Bayes,allegro,1,1
+33,d_allegro_3.txt,Naive Bayes,allegro,1,1
+34,d_allegro_4.txt,Naive Bayes,allegro,1,1
+35,d_allegro_5.txt,Naive Bayes,allegro,1,1
+36,d_allegro_6.txt,Naive Bayes,allegro,1,1
+37,d_allegro_7.txt,Naive Bayes,allegro,1,1
+38,d_allegro_8.txt,Naive Bayes,allegro,1,1
+39,d_allegro_9.txt,Naive Bayes,allegro,1,1
+419,t_allegro_1.txt,Naive Bayes,allegro,0,0
+420,t_allegro_10.txt,Naive Bayes,allegro,0,0
+421,t_allegro_11.txt,Naive Bayes,allegro,0,0
+422,t_allegro_12.txt,Naive Bayes,allegro,0,0
+423,t_allegro_13.txt,Naive Bayes,allegro,0,0
+424,t_allegro_14.txt,Naive Bayes,allegro,0,0
+425,t_allegro_15.txt,Naive Bayes,allegro,0,0
+426,t_allegro_16.txt,Naive Bayes,allegro,0,0
+427,t_allegro_17.txt,Naive Bayes,allegro,0,0
+428,t_allegro_18.txt,Naive Bayes,allegro,0,0
+429,t_allegro_19.txt,Naive Bayes,allegro,0,0
+430,t_allegro_2.txt,Naive Bayes,allegro,0,0
+431,t_allegro_20.txt,Naive Bayes,allegro,0,0
+432,t_allegro_3.txt,Naive Bayes,allegro,0,0
+433,t_allegro_4.txt,Naive Bayes,allegro,0,0
+434,t_allegro_5.txt,Naive Bayes,allegro,0,0
+435,t_allegro_6.txt,Naive Bayes,allegro,0,0
+436,t_allegro_7.txt,Naive Bayes,allegro,0,0
+437,t_allegro_8.txt,Naive Bayes,allegro,0,0
+438,t_allegro_9.txt,Naive Bayes,allegro,0,0
+816,d_allegro_1.txt,Naive Bayes,allegro,1,1
+817,d_allegro_10.txt,Naive Bayes,allegro,1,1
+818,d_allegro_11.txt,Naive Bayes,allegro,1,1
+819,d_allegro_12.txt,Naive Bayes,allegro,1,1
+820,d_allegro_13.txt,Naive Bayes,allegro,1,1
+821,d_allegro_14.txt,Naive Bayes,allegro,1,1
+822,d_allegro_15.txt,Naive Bayes,allegro,1,1
+823,d_allegro_16.txt,Naive Bayes,allegro,1,1
+824,d_allegro_17.txt,Naive Bayes,allegro,1,1
+825,d_allegro_18.txt,Naive Bayes,allegro,1,1
+826,d_allegro_19.txt,Naive Bayes,allegro,1,1
+827,d_allegro_2.txt,Naive Bayes,allegro,1,1
+828,d_allegro_20.txt,Naive Bayes,allegro,1,1
+829,d_allegro_3.txt,Naive Bayes,allegro,1,1
+830,d_allegro_4.txt,Naive Bayes,allegro,1,1
+831,d_allegro_5.txt,Naive Bayes,allegro,1,1
+832,d_allegro_6.txt,Naive Bayes,allegro,1,1
+833,d_allegro_7.txt,Naive Bayes,allegro,1,1
+834,d_allegro_8.txt,Naive Bayes,allegro,1,1
+835,d_allegro_9.txt,Naive Bayes,allegro,1,1
+1216,t_allegro_1.txt,Naive Bayes,allegro,0,0
+1217,t_allegro_10.txt,Naive Bayes,allegro,0,1
+1218,t_allegro_11.txt,Naive Bayes,allegro,0,1
+1219,t_allegro_12.txt,Naive Bayes,allegro,0,0
+1220,t_allegro_13.txt,Naive Bayes,allegro,0,0
+1221,t_allegro_14.txt,Naive Bayes,allegro,0,0
+1222,t_allegro_15.txt,Naive Bayes,allegro,0,0
+1223,t_allegro_16.txt,Naive Bayes,allegro,0,0
+1224,t_allegro_17.txt,Naive Bayes,allegro,0,0
+1225,t_allegro_18.txt,Naive Bayes,allegro,0,0
+1226,t_allegro_19.txt,Naive Bayes,allegro,0,0
+1227,t_allegro_2.txt,Naive Bayes,allegro,0,0
+1228,t_allegro_20.txt,Naive Bayes,allegro,0,0
+1229,t_allegro_3.txt,Naive Bayes,allegro,0,0
+1230,t_allegro_4.txt,Naive Bayes,allegro,0,0
+1231,t_allegro_5.txt,Naive Bayes,allegro,0,0
+1232,t_allegro_6.txt,Naive Bayes,allegro,0,0
+1233,t_allegro_7.txt,Naive Bayes,allegro,0,0
+1234,t_allegro_8.txt,Naive Bayes,allegro,0,1
+1235,t_allegro_9.txt,Naive Bayes,allegro,0,0
+40,d_amalfi_1.txt,Naive Bayes,amalfi,1,1
+41,d_amalfi_10.txt,Naive Bayes,amalfi,1,1
+42,d_amalfi_11.txt,Naive Bayes,amalfi,1,1
+43,d_amalfi_12.txt,Naive Bayes,amalfi,1,1
+44,d_amalfi_13.txt,Naive Bayes,amalfi,1,1
+45,d_amalfi_14.txt,Naive Bayes,amalfi,1,1
+46,d_amalfi_15.txt,Naive Bayes,amalfi,1,1
+47,d_amalfi_16.txt,Naive Bayes,amalfi,1,1
+48,d_amalfi_17.txt,Naive Bayes,amalfi,1,1
+49,d_amalfi_18.txt,Naive Bayes,amalfi,1,1
+50,d_amalfi_19.txt,Naive Bayes,amalfi,1,1
+51,d_amalfi_2.txt,Naive Bayes,amalfi,1,1
+52,d_amalfi_20.txt,Naive Bayes,amalfi,1,1
+53,d_amalfi_3.txt,Naive Bayes,amalfi,1,1
+54,d_amalfi_4.txt,Naive Bayes,amalfi,1,1
+55,d_amalfi_5.txt,Naive Bayes,amalfi,1,1
+56,d_amalfi_6.txt,Naive Bayes,amalfi,1,1
+57,d_amalfi_7.txt,Naive Bayes,amalfi,1,1
+58,d_amalfi_8.txt,Naive Bayes,amalfi,1,1
+59,d_amalfi_9.txt,Naive Bayes,amalfi,1,1
+439,t_amalfi_1.txt,Naive Bayes,amalfi,0,0
+440,t_amalfi_10.txt,Naive Bayes,amalfi,0,0
+441,t_amalfi_11.txt,Naive Bayes,amalfi,0,0
+442,t_amalfi_12.txt,Naive Bayes,amalfi,0,1
+443,t_amalfi_13.txt,Naive Bayes,amalfi,0,0
+444,t_amalfi_14.txt,Naive Bayes,amalfi,0,0
+445,t_amalfi_15.txt,Naive Bayes,amalfi,0,0
+446,t_amalfi_16.txt,Naive Bayes,amalfi,0,0
+447,t_amalfi_17.txt,Naive Bayes,amalfi,0,0
+448,t_amalfi_18.txt,Naive Bayes,amalfi,0,0
+449,t_amalfi_19.txt,Naive Bayes,amalfi,0,0
+450,t_amalfi_2.txt,Naive Bayes,amalfi,0,0
+451,t_amalfi_20.txt,Naive Bayes,amalfi,0,1
+452,t_amalfi_3.txt,Naive Bayes,amalfi,0,0
+453,t_amalfi_4.txt,Naive Bayes,amalfi,0,0
+454,t_amalfi_5.txt,Naive Bayes,amalfi,0,0
+455,t_amalfi_6.txt,Naive Bayes,amalfi,0,0
+456,t_amalfi_7.txt,Naive Bayes,amalfi,0,0
+457,t_amalfi_8.txt,Naive Bayes,amalfi,0,0
+458,t_amalfi_9.txt,Naive Bayes,amalfi,0,0
+836,d_amalfi_1.txt,Naive Bayes,amalfi,1,1
+837,d_amalfi_10.txt,Naive Bayes,amalfi,1,1
+838,d_amalfi_11.txt,Naive Bayes,amalfi,1,1
+839,d_amalfi_12.txt,Naive Bayes,amalfi,1,1
+840,d_amalfi_13.txt,Naive Bayes,amalfi,1,1
+841,d_amalfi_14.txt,Naive Bayes,amalfi,1,1
+842,d_amalfi_15.txt,Naive Bayes,amalfi,1,1
+843,d_amalfi_16.txt,Naive Bayes,amalfi,1,1
+844,d_amalfi_17.txt,Naive Bayes,amalfi,1,1
+845,d_amalfi_18.txt,Naive Bayes,amalfi,1,1
+846,d_amalfi_19.txt,Naive Bayes,amalfi,1,1
+847,d_amalfi_2.txt,Naive Bayes,amalfi,1,1
+848,d_amalfi_20.txt,Naive Bayes,amalfi,1,1
+849,d_amalfi_3.txt,Naive Bayes,amalfi,1,1
+850,d_amalfi_4.txt,Naive Bayes,amalfi,1,1
+851,d_amalfi_5.txt,Naive Bayes,amalfi,1,0
+852,d_amalfi_6.txt,Naive Bayes,amalfi,1,1
+853,d_amalfi_7.txt,Naive Bayes,amalfi,1,1
+854,d_amalfi_8.txt,Naive Bayes,amalfi,1,1
+855,d_amalfi_9.txt,Naive Bayes,amalfi,1,1
+1236,t_amalfi_1.txt,Naive Bayes,amalfi,0,0
+1237,t_amalfi_10.txt,Naive Bayes,amalfi,0,0
+1238,t_amalfi_11.txt,Naive Bayes,amalfi,0,0
+1239,t_amalfi_12.txt,Naive Bayes,amalfi,0,0
+1240,t_amalfi_13.txt,Naive Bayes,amalfi,0,1
+1241,t_amalfi_14.txt,Naive Bayes,amalfi,0,0
+1242,t_amalfi_15.txt,Naive Bayes,amalfi,0,1
+1243,t_amalfi_16.txt,Naive Bayes,amalfi,0,0
+1244,t_amalfi_17.txt,Naive Bayes,amalfi,0,0
+1245,t_amalfi_18.txt,Naive Bayes,amalfi,0,0
+1246,t_amalfi_19.txt,Naive Bayes,amalfi,0,0
+1247,t_amalfi_2.txt,Naive Bayes,amalfi,0,0
+1248,t_amalfi_20.txt,Naive Bayes,amalfi,0,0
+1249,t_amalfi_3.txt,Naive Bayes,amalfi,0,0
+1250,t_amalfi_4.txt,Naive Bayes,amalfi,0,0
+1251,t_amalfi_5.txt,Naive Bayes,amalfi,0,0
+1252,t_amalfi_6.txt,Naive Bayes,amalfi,0,1
+1253,t_amalfi_7.txt,Naive Bayes,amalfi,0,0
+1254,t_amalfi_8.txt,Naive Bayes,amalfi,0,0
+1255,t_amalfi_9.txt,Naive Bayes,amalfi,0,0
+60,d_ambassador_1.txt,Naive Bayes,ambassador,1,0
+61,d_ambassador_10.txt,Naive Bayes,ambassador,1,0
+62,d_ambassador_11.txt,Naive Bayes,ambassador,1,1
+63,d_ambassador_12.txt,Naive Bayes,ambassador,1,1
+64,d_ambassador_13.txt,Naive Bayes,ambassador,1,1
+65,d_ambassador_14.txt,Naive Bayes,ambassador,1,1
+66,d_ambassador_15.txt,Naive Bayes,ambassador,1,1
+67,d_ambassador_16.txt,Naive Bayes,ambassador,1,1
+68,d_ambassador_17.txt,Naive Bayes,ambassador,1,1
+69,d_ambassador_18.txt,Naive Bayes,ambassador,1,1
+70,d_ambassador_19.txt,Naive Bayes,ambassador,1,1
+71,d_ambassador_2.txt,Naive Bayes,ambassador,1,0
+72,d_ambassador_20.txt,Naive Bayes,ambassador,1,0
+73,d_ambassador_3.txt,Naive Bayes,ambassador,1,1
+74,d_ambassador_4.txt,Naive Bayes,ambassador,1,1
+75,d_ambassador_5.txt,Naive Bayes,ambassador,1,1
+76,d_ambassador_6.txt,Naive Bayes,ambassador,1,1
+77,d_ambassador_7.txt,Naive Bayes,ambassador,1,1
+78,d_ambassador_8.txt,Naive Bayes,ambassador,1,1
+79,d_ambassador_9.txt,Naive Bayes,ambassador,1,1
+459,t_ambassador_1.txt,Naive Bayes,ambassador,0,0
+460,t_ambassador_10.txt,Naive Bayes,ambassador,0,0
+461,t_ambassador_11.txt,Naive Bayes,ambassador,0,0
+462,t_ambassador_12.txt,Naive Bayes,ambassador,0,0
+463,t_ambassador_13.txt,Naive Bayes,ambassador,0,0
+464,t_ambassador_14.txt,Naive Bayes,ambassador,0,0
+465,t_ambassador_15.txt,Naive Bayes,ambassador,0,0
+466,t_ambassador_16.txt,Naive Bayes,ambassador,0,0
+467,t_ambassador_17.txt,Naive Bayes,ambassador,0,1
+468,t_ambassador_18.txt,Naive Bayes,ambassador,0,0
+469,t_ambassador_19.txt,Naive Bayes,ambassador,0,1
+470,t_ambassador_2.txt,Naive Bayes,ambassador,0,1
+471,t_ambassador_20.txt,Naive Bayes,ambassador,0,0
+472,t_ambassador_3.txt,Naive Bayes,ambassador,0,0
+473,t_ambassador_4.txt,Naive Bayes,ambassador,0,0
+474,t_ambassador_5.txt,Naive Bayes,ambassador,0,0
+475,t_ambassador_6.txt,Naive Bayes,ambassador,0,1
+476,t_ambassador_7.txt,Naive Bayes,ambassador,0,0
+477,t_ambassador_8.txt,Naive Bayes,ambassador,0,0
+478,t_ambassador_9.txt,Naive Bayes,ambassador,0,0
+856,d_ambassador_1.txt,Naive Bayes,ambassador,1,1
+857,d_ambassador_10.txt,Naive Bayes,ambassador,1,0
+858,d_ambassador_11.txt,Naive Bayes,ambassador,1,0
+859,d_ambassador_12.txt,Naive Bayes,ambassador,1,1
+860,d_ambassador_13.txt,Naive Bayes,ambassador,1,1
+861,d_ambassador_14.txt,Naive Bayes,ambassador,1,1
+862,d_ambassador_15.txt,Naive Bayes,ambassador,1,1
+863,d_ambassador_16.txt,Naive Bayes,ambassador,1,1
+864,d_ambassador_17.txt,Naive Bayes,ambassador,1,0
+865,d_ambassador_18.txt,Naive Bayes,ambassador,1,1
+866,d_ambassador_19.txt,Naive Bayes,ambassador,1,1
+867,d_ambassador_2.txt,Naive Bayes,ambassador,1,1
+868,d_ambassador_20.txt,Naive Bayes,ambassador,1,0
+869,d_ambassador_3.txt,Naive Bayes,ambassador,1,1
+870,d_ambassador_4.txt,Naive Bayes,ambassador,1,1
+871,d_ambassador_5.txt,Naive Bayes,ambassador,1,1
+872,d_ambassador_6.txt,Naive Bayes,ambassador,1,1
+873,d_ambassador_7.txt,Naive Bayes,ambassador,1,1
+874,d_ambassador_8.txt,Naive Bayes,ambassador,1,1
+875,d_ambassador_9.txt,Naive Bayes,ambassador,1,1
+1256,t_ambassador_1.txt,Naive Bayes,ambassador,0,0
+1257,t_ambassador_10.txt,Naive Bayes,ambassador,0,0
+1258,t_ambassador_11.txt,Naive Bayes,ambassador,0,0
+1259,t_ambassador_12.txt,Naive Bayes,ambassador,0,0
+1260,t_ambassador_13.txt,Naive Bayes,ambassador,0,1
+1261,t_ambassador_14.txt,Naive Bayes,ambassador,0,1
+1262,t_ambassador_15.txt,Naive Bayes,ambassador,0,0
+1263,t_ambassador_16.txt,Naive Bayes,ambassador,0,0
+1264,t_ambassador_17.txt,Naive Bayes,ambassador,0,0
+1265,t_ambassador_18.txt,Naive Bayes,ambassador,0,0
+1266,t_ambassador_19.txt,Naive Bayes,ambassador,0,0
+1267,t_ambassador_2.txt,Naive Bayes,ambassador,0,0
+1268,t_ambassador_20.txt,Naive Bayes,ambassador,0,0
+1269,t_ambassador_3.txt,Naive Bayes,ambassador,0,1
+1270,t_ambassador_4.txt,Naive Bayes,ambassador,0,1
+1271,t_ambassador_5.txt,Naive Bayes,ambassador,0,0
+1272,t_ambassador_6.txt,Naive Bayes,ambassador,0,0
+1273,t_ambassador_7.txt,Naive Bayes,ambassador,0,0
+1274,t_ambassador_8.txt,Naive Bayes,ambassador,0,0
+1275,t_ambassador_9.txt,Naive Bayes,ambassador,0,0
+80,d_conrad_1.txt,Naive Bayes,conrad,1,1
+81,d_conrad_10.txt,Naive Bayes,conrad,1,1
+82,d_conrad_11.txt,Naive Bayes,conrad,1,0
+83,d_conrad_12.txt,Naive Bayes,conrad,1,0
+84,d_conrad_13.txt,Naive Bayes,conrad,1,1
+85,d_conrad_14.txt,Naive Bayes,conrad,1,1
+86,d_conrad_15.txt,Naive Bayes,conrad,1,1
+87,d_conrad_16.txt,Naive Bayes,conrad,1,1
+88,d_conrad_17.txt,Naive Bayes,conrad,1,1
+89,d_conrad_18.txt,Naive Bayes,conrad,1,1
+90,d_conrad_19.txt,Naive Bayes,conrad,1,1
+91,d_conrad_2.txt,Naive Bayes,conrad,1,1
+92,d_conrad_20.txt,Naive Bayes,conrad,1,1
+93,d_conrad_3.txt,Naive Bayes,conrad,1,0
+94,d_conrad_4.txt,Naive Bayes,conrad,1,1
+95,d_conrad_5.txt,Naive Bayes,conrad,1,1
+96,d_conrad_6.txt,Naive Bayes,conrad,1,1
+97,d_conrad_7.txt,Naive Bayes,conrad,1,1
+98,d_conrad_8.txt,Naive Bayes,conrad,1,1
+99,d_conrad_9.txt,Naive Bayes,conrad,1,1
+479,t_conrad_1.txt,Naive Bayes,conrad,0,0
+480,t_conrad_10.txt,Naive Bayes,conrad,0,0
+481,t_conrad_11.txt,Naive Bayes,conrad,0,0
+482,t_conrad_12.txt,Naive Bayes,conrad,0,0
+483,t_conrad_13.txt,Naive Bayes,conrad,0,0
+484,t_conrad_14.txt,Naive Bayes,conrad,0,0
+485,t_conrad_15.txt,Naive Bayes,conrad,0,1
+486,t_conrad_16.txt,Naive Bayes,conrad,0,0
+487,t_conrad_17.txt,Naive Bayes,conrad,0,0
+488,t_conrad_18.txt,Naive Bayes,conrad,0,0
+489,t_conrad_19.txt,Naive Bayes,conrad,0,0
+490,t_conrad_2.txt,Naive Bayes,conrad,0,0
+491,t_conrad_20.txt,Naive Bayes,conrad,0,0
+492,t_conrad_3.txt,Naive Bayes,conrad,0,0
+493,t_conrad_4.txt,Naive Bayes,conrad,0,0
+494,t_conrad_5.txt,Naive Bayes,conrad,0,0
+495,t_conrad_6.txt,Naive Bayes,conrad,0,0
+496,t_conrad_7.txt,Naive Bayes,conrad,0,0
+497,t_conrad_8.txt,Naive Bayes,conrad,0,0
+498,t_conrad_9.txt,Naive Bayes,conrad,0,0
+876,d_conrad_1.txt,Naive Bayes,conrad,1,1
+877,d_conrad_10.txt,Naive Bayes,conrad,1,1
+878,d_conrad_11.txt,Naive Bayes,conrad,1,1
+879,d_conrad_12.txt,Naive Bayes,conrad,1,0
+880,d_conrad_13.txt,Naive Bayes,conrad,1,1
+881,d_conrad_14.txt,Naive Bayes,conrad,1,1
+882,d_conrad_15.txt,Naive Bayes,conrad,1,1
+883,d_conrad_16.txt,Naive Bayes,conrad,1,1
+884,d_conrad_17.txt,Naive Bayes,conrad,1,1
+885,d_conrad_18.txt,Naive Bayes,conrad,1,1
+886,d_conrad_19.txt,Naive Bayes,conrad,1,1
+887,d_conrad_2.txt,Naive Bayes,conrad,1,0
+888,d_conrad_20.txt,Naive Bayes,conrad,1,1
+889,d_conrad_3.txt,Naive Bayes,conrad,1,1
+890,d_conrad_4.txt,Naive Bayes,conrad,1,1
+891,d_conrad_5.txt,Naive Bayes,conrad,1,1
+892,d_conrad_6.txt,Naive Bayes,conrad,1,1
+893,d_conrad_7.txt,Naive Bayes,conrad,1,1
+894,d_conrad_8.txt,Naive Bayes,conrad,1,1
+895,d_conrad_9.txt,Naive Bayes,conrad,1,1
+1276,t_conrad_1.txt,Naive Bayes,conrad,0,0
+1277,t_conrad_10.txt,Naive Bayes,conrad,0,0
+1278,t_conrad_11.txt,Naive Bayes,conrad,0,0
+1279,t_conrad_12.txt,Naive Bayes,conrad,0,0
+1280,t_conrad_13.txt,Naive Bayes,conrad,0,0
+1281,t_conrad_14.txt,Naive Bayes,conrad,0,0
+1282,t_conrad_15.txt,Naive Bayes,conrad,0,0
+1283,t_conrad_16.txt,Naive Bayes,conrad,0,0
+1284,t_conrad_17.txt,Naive Bayes,conrad,0,0
+1285,t_conrad_18.txt,Naive Bayes,conrad,0,0
+1286,t_conrad_19.txt,Naive Bayes,conrad,0,0
+1287,t_conrad_2.txt,Naive Bayes,conrad,0,0
+1288,t_conrad_20.txt,Naive Bayes,conrad,0,0
+1289,t_conrad_3.txt,Naive Bayes,conrad,0,0
+1290,t_conrad_4.txt,Naive Bayes,conrad,0,0
+1291,t_conrad_5.txt,Naive Bayes,conrad,0,0
+1292,t_conrad_6.txt,Naive Bayes,conrad,0,0
+1293,t_conrad_7.txt,Naive Bayes,conrad,0,0
+1294,t_conrad_8.txt,Naive Bayes,conrad,0,0
+1295,t_conrad_9.txt,Naive Bayes,conrad,0,0
+100,d_fairmont_1.txt,Naive Bayes,fairmont,1,0
+101,d_fairmont_10.txt,Naive Bayes,fairmont,1,1
+102,d_fairmont_11.txt,Naive Bayes,fairmont,1,1
+103,d_fairmont_12.txt,Naive Bayes,fairmont,1,1
+104,d_fairmont_13.txt,Naive Bayes,fairmont,1,0
+105,d_fairmont_14.txt,Naive Bayes,fairmont,1,1
+106,d_fairmont_15.txt,Naive Bayes,fairmont,1,1
+107,d_fairmont_16.txt,Naive Bayes,fairmont,1,1
+108,d_fairmont_17.txt,Naive Bayes,fairmont,1,1
+109,d_fairmont_18.txt,Naive Bayes,fairmont,1,1
+110,d_fairmont_19.txt,Naive Bayes,fairmont,1,1
+111,d_fairmont_2.txt,Naive Bayes,fairmont,1,1
+112,d_fairmont_20.txt,Naive Bayes,fairmont,1,1
+113,d_fairmont_3.txt,Naive Bayes,fairmont,1,1
+114,d_fairmont_4.txt,Naive Bayes,fairmont,1,1
+115,d_fairmont_5.txt,Naive Bayes,fairmont,1,1
+116,d_fairmont_6.txt,Naive Bayes,fairmont,1,1
+117,d_fairmont_7.txt,Naive Bayes,fairmont,1,1
+118,d_fairmont_8.txt,Naive Bayes,fairmont,1,1
+119,d_fairmont_9.txt,Naive Bayes,fairmont,1,1
+499,t_fairmont_1.txt,Naive Bayes,fairmont,0,0
+500,t_fairmont_10.txt,Naive Bayes,fairmont,0,0
+501,t_fairmont_11.txt,Naive Bayes,fairmont,0,0
+502,t_fairmont_12.txt,Naive Bayes,fairmont,0,0
+503,t_fairmont_13.txt,Naive Bayes,fairmont,0,1
+504,t_fairmont_14.txt,Naive Bayes,fairmont,0,0
+505,t_fairmont_15.txt,Naive Bayes,fairmont,0,0
+506,t_fairmont_16.txt,Naive Bayes,fairmont,0,0
+507,t_fairmont_17.txt,Naive Bayes,fairmont,0,0
+508,t_fairmont_18.txt,Naive Bayes,fairmont,0,0
+509,t_fairmont_19.txt,Naive Bayes,fairmont,0,0
+510,t_fairmont_2.txt,Naive Bayes,fairmont,0,0
+511,t_fairmont_20.txt,Naive Bayes,fairmont,0,0
+512,t_fairmont_3.txt,Naive Bayes,fairmont,0,0
+513,t_fairmont_4.txt,Naive Bayes,fairmont,0,0
+514,t_fairmont_5.txt,Naive Bayes,fairmont,0,0
+515,t_fairmont_6.txt,Naive Bayes,fairmont,0,0
+516,t_fairmont_7.txt,Naive Bayes,fairmont,0,0
+517,t_fairmont_8.txt,Naive Bayes,fairmont,0,0
+518,t_fairmont_9.txt,Naive Bayes,fairmont,0,0
+896,d_fairmont_1.txt,Naive Bayes,fairmont,1,1
+897,d_fairmont_10.txt,Naive Bayes,fairmont,1,1
+898,d_fairmont_11.txt,Naive Bayes,fairmont,1,1
+899,d_fairmont_12.txt,Naive Bayes,fairmont,1,1
+900,d_fairmont_13.txt,Naive Bayes,fairmont,1,1
+901,d_fairmont_14.txt,Naive Bayes,fairmont,1,1
+902,d_fairmont_15.txt,Naive Bayes,fairmont,1,1
+903,d_fairmont_16.txt,Naive Bayes,fairmont,1,1
+904,d_fairmont_17.txt,Naive Bayes,fairmont,1,1
+905,d_fairmont_18.txt,Naive Bayes,fairmont,1,1
+906,d_fairmont_19.txt,Naive Bayes,fairmont,1,1
+907,d_fairmont_2.txt,Naive Bayes,fairmont,1,1
+908,d_fairmont_20.txt,Naive Bayes,fairmont,1,1
+909,d_fairmont_3.txt,Naive Bayes,fairmont,1,1
+910,d_fairmont_4.txt,Naive Bayes,fairmont,1,1
+911,d_fairmont_5.txt,Naive Bayes,fairmont,1,1
+912,d_fairmont_6.txt,Naive Bayes,fairmont,1,1
+913,d_fairmont_7.txt,Naive Bayes,fairmont,1,1
+914,d_fairmont_8.txt,Naive Bayes,fairmont,1,1
+915,d_fairmont_9.txt,Naive Bayes,fairmont,1,1
+1296,t_fairmont_1.txt,Naive Bayes,fairmont,0,0
+1297,t_fairmont_10.txt,Naive Bayes,fairmont,0,0
+1298,t_fairmont_11.txt,Naive Bayes,fairmont,0,0
+1299,t_fairmont_12.txt,Naive Bayes,fairmont,0,0
+1300,t_fairmont_13.txt,Naive Bayes,fairmont,0,0
+1301,t_fairmont_14.txt,Naive Bayes,fairmont,0,0
+1302,t_fairmont_15.txt,Naive Bayes,fairmont,0,0
+1303,t_fairmont_16.txt,Naive Bayes,fairmont,0,0
+1304,t_fairmont_17.txt,Naive Bayes,fairmont,0,0
+1305,t_fairmont_18.txt,Naive Bayes,fairmont,0,0
+1306,t_fairmont_19.txt,Naive Bayes,fairmont,0,0
+1307,t_fairmont_2.txt,Naive Bayes,fairmont,0,0
+1308,t_fairmont_20.txt,Naive Bayes,fairmont,0,0
+1309,t_fairmont_3.txt,Naive Bayes,fairmont,0,1
+1310,t_fairmont_4.txt,Naive Bayes,fairmont,0,0
+1311,t_fairmont_5.txt,Naive Bayes,fairmont,0,0
+1312,t_fairmont_6.txt,Naive Bayes,fairmont,0,0
+1313,t_fairmont_7.txt,Naive Bayes,fairmont,0,0
+1314,t_fairmont_8.txt,Naive Bayes,fairmont,0,0
+1315,t_fairmont_9.txt,Naive Bayes,fairmont,0,0
+120,d_hardrock_1.txt,Naive Bayes,hardrock,1,1
+121,d_hardrock_10.txt,Naive Bayes,hardrock,1,1
+122,d_hardrock_11.txt,Naive Bayes,hardrock,1,1
+123,d_hardrock_12.txt,Naive Bayes,hardrock,1,1
+124,d_hardrock_13.txt,Naive Bayes,hardrock,1,1
+125,d_hardrock_14.txt,Naive Bayes,hardrock,1,1
+126,d_hardrock_15.txt,Naive Bayes,hardrock,1,1
+127,d_hardrock_16.txt,Naive Bayes,hardrock,1,1
+128,d_hardrock_17.txt,Naive Bayes,hardrock,1,1
+129,d_hardrock_18.txt,Naive Bayes,hardrock,1,1
+130,d_hardrock_19.txt,Naive Bayes,hardrock,1,1
+131,d_hardrock_2.txt,Naive Bayes,hardrock,1,1
+132,d_hardrock_20.txt,Naive Bayes,hardrock,1,1
+133,d_hardrock_3.txt,Naive Bayes,hardrock,1,0
+134,d_hardrock_4.txt,Naive Bayes,hardrock,1,1
+135,d_hardrock_5.txt,Naive Bayes,hardrock,1,1
+136,d_hardrock_6.txt,Naive Bayes,hardrock,1,1
+137,d_hardrock_7.txt,Naive Bayes,hardrock,1,1
+138,d_hardrock_8.txt,Naive Bayes,hardrock,1,1
+139,d_hardrock_9.txt,Naive Bayes,hardrock,1,1
+519,t_hardrock_1.txt,Naive Bayes,hardrock,0,0
+520,t_hardrock_10.txt,Naive Bayes,hardrock,0,0
+521,t_hardrock_11.txt,Naive Bayes,hardrock,0,0
+522,t_hardrock_12.txt,Naive Bayes,hardrock,0,0
+523,t_hardrock_13.txt,Naive Bayes,hardrock,0,0
+524,t_hardrock_14.txt,Naive Bayes,hardrock,0,0
+525,t_hardrock_15.txt,Naive Bayes,hardrock,0,0
+526,t_hardrock_16.txt,Naive Bayes,hardrock,0,0
+527,t_hardrock_17.txt,Naive Bayes,hardrock,0,0
+528,t_hardrock_18.txt,Naive Bayes,hardrock,0,0
+529,t_hardrock_19.txt,Naive Bayes,hardrock,0,0
+530,t_hardrock_2.txt,Naive Bayes,hardrock,0,0
+531,t_hardrock_20.txt,Naive Bayes,hardrock,0,0
+532,t_hardrock_3.txt,Naive Bayes,hardrock,0,0
+533,t_hardrock_4.txt,Naive Bayes,hardrock,0,0
+534,t_hardrock_5.txt,Naive Bayes,hardrock,0,0
+535,t_hardrock_6.txt,Naive Bayes,hardrock,0,0
+536,t_hardrock_7.txt,Naive Bayes,hardrock,0,0
+537,t_hardrock_8.txt,Naive Bayes,hardrock,0,0
+538,t_hardrock_9.txt,Naive Bayes,hardrock,0,1
+916,d_hardrock_1.txt,Naive Bayes,hardrock,1,1
+917,d_hardrock_10.txt,Naive Bayes,hardrock,1,1
+918,d_hardrock_11.txt,Naive Bayes,hardrock,1,1
+919,d_hardrock_12.txt,Naive Bayes,hardrock,1,1
+920,d_hardrock_13.txt,Naive Bayes,hardrock,1,1
+921,d_hardrock_14.txt,Naive Bayes,hardrock,1,1
+922,d_hardrock_15.txt,Naive Bayes,hardrock,1,1
+923,d_hardrock_16.txt,Naive Bayes,hardrock,1,1
+924,d_hardrock_17.txt,Naive Bayes,hardrock,1,0
+925,d_hardrock_18.txt,Naive Bayes,hardrock,1,1
+926,d_hardrock_19.txt,Naive Bayes,hardrock,1,1
+927,d_hardrock_2.txt,Naive Bayes,hardrock,1,0
+928,d_hardrock_20.txt,Naive Bayes,hardrock,1,1
+929,d_hardrock_3.txt,Naive Bayes,hardrock,1,1
+930,d_hardrock_4.txt,Naive Bayes,hardrock,1,1
+931,d_hardrock_5.txt,Naive Bayes,hardrock,1,1
+932,d_hardrock_6.txt,Naive Bayes,hardrock,1,1
+933,d_hardrock_7.txt,Naive Bayes,hardrock,1,1
+934,d_hardrock_8.txt,Naive Bayes,hardrock,1,1
+935,d_hardrock_9.txt,Naive Bayes,hardrock,1,1
+1316,t_hardrock_1.txt,Naive Bayes,hardrock,0,0
+1317,t_hardrock_10.txt,Naive Bayes,hardrock,0,0
+1318,t_hardrock_11.txt,Naive Bayes,hardrock,0,0
+1319,t_hardrock_12.txt,Naive Bayes,hardrock,0,0
+1320,t_hardrock_13.txt,Naive Bayes,hardrock,0,0
+1321,t_hardrock_14.txt,Naive Bayes,hardrock,0,0
+1322,t_hardrock_15.txt,Naive Bayes,hardrock,0,0
+1323,t_hardrock_16.txt,Naive Bayes,hardrock,0,0
+1324,t_hardrock_17.txt,Naive Bayes,hardrock,0,0
+1325,t_hardrock_18.txt,Naive Bayes,hardrock,0,0
+1326,t_hardrock_19.txt,Naive Bayes,hardrock,0,0
+1327,t_hardrock_2.txt,Naive Bayes,hardrock,0,0
+1328,t_hardrock_20.txt,Naive Bayes,hardrock,0,0
+1329,t_hardrock_3.txt,Naive Bayes,hardrock,0,0
+1330,t_hardrock_4.txt,Naive Bayes,hardrock,0,0
+1331,t_hardrock_5.txt,Naive Bayes,hardrock,0,1
+1332,t_hardrock_6.txt,Naive Bayes,hardrock,0,0
+1333,t_hardrock_7.txt,Naive Bayes,hardrock,0,0
+1334,t_hardrock_8.txt,Naive Bayes,hardrock,0,0
+1335,t_hardrock_9.txt,Naive Bayes,hardrock,0,0
+140,d_hilton_1.txt,Naive Bayes,hilton,1,1
+141,d_hilton_10.txt,Naive Bayes,hilton,1,0
+142,d_hilton_11.txt,Naive Bayes,hilton,1,1
+143,d_hilton_12.txt,Naive Bayes,hilton,1,1
+144,d_hilton_13.txt,Naive Bayes,hilton,1,1
+145,d_hilton_14.txt,Naive Bayes,hilton,1,1
+146,d_hilton_15.txt,Naive Bayes,hilton,1,1
+147,d_hilton_16.txt,Naive Bayes,hilton,1,0
+148,d_hilton_17.txt,Naive Bayes,hilton,1,1
+149,d_hilton_18.txt,Naive Bayes,hilton,1,1
+150,d_hilton_19.txt,Naive Bayes,hilton,1,1
+151,d_hilton_2.txt,Naive Bayes,hilton,1,1
+152,d_hilton_20.txt,Naive Bayes,hilton,1,1
+153,d_hilton_3.txt,Naive Bayes,hilton,1,1
+154,d_hilton_4.txt,Naive Bayes,hilton,1,1
+155,d_hilton_5.txt,Naive Bayes,hilton,1,1
+156,d_hilton_6.txt,Naive Bayes,hilton,1,1
+157,d_hilton_7.txt,Naive Bayes,hilton,1,1
+158,d_hilton_8.txt,Naive Bayes,hilton,1,1
+159,d_hilton_9.txt,Naive Bayes,hilton,1,1
+539,t_hilton_1.txt,Naive Bayes,hilton,0,0
+540,t_hilton_10.txt,Naive Bayes,hilton,0,0
+541,t_hilton_11.txt,Naive Bayes,hilton,0,1
+542,t_hilton_12.txt,Naive Bayes,hilton,0,0
+543,t_hilton_13.txt,Naive Bayes,hilton,0,0
+544,t_hilton_14.txt,Naive Bayes,hilton,0,0
+545,t_hilton_15.txt,Naive Bayes,hilton,0,0
+546,t_hilton_16.txt,Naive Bayes,hilton,0,0
+547,t_hilton_17.txt,Naive Bayes,hilton,0,0
+548,t_hilton_18.txt,Naive Bayes,hilton,0,0
+549,t_hilton_19.txt,Naive Bayes,hilton,0,0
+550,t_hilton_2.txt,Naive Bayes,hilton,0,0
+551,t_hilton_20.txt,Naive Bayes,hilton,0,1
+552,t_hilton_3.txt,Naive Bayes,hilton,0,1
+553,t_hilton_4.txt,Naive Bayes,hilton,0,0
+554,t_hilton_5.txt,Naive Bayes,hilton,0,0
+555,t_hilton_6.txt,Naive Bayes,hilton,0,1
+556,t_hilton_7.txt,Naive Bayes,hilton,0,1
+557,t_hilton_8.txt,Naive Bayes,hilton,0,0
+558,t_hilton_9.txt,Naive Bayes,hilton,0,0
+936,d_hilton_1.txt,Naive Bayes,hilton,1,1
+937,d_hilton_10.txt,Naive Bayes,hilton,1,0
+938,d_hilton_11.txt,Naive Bayes,hilton,1,0
+939,d_hilton_12.txt,Naive Bayes,hilton,1,1
+940,d_hilton_13.txt,Naive Bayes,hilton,1,1
+941,d_hilton_14.txt,Naive Bayes,hilton,1,1
+942,d_hilton_15.txt,Naive Bayes,hilton,1,1
+943,d_hilton_16.txt,Naive Bayes,hilton,1,1
+944,d_hilton_17.txt,Naive Bayes,hilton,1,0
+945,d_hilton_18.txt,Naive Bayes,hilton,1,1
+946,d_hilton_19.txt,Naive Bayes,hilton,1,1
+947,d_hilton_2.txt,Naive Bayes,hilton,1,1
+948,d_hilton_20.txt,Naive Bayes,hilton,1,1
+949,d_hilton_3.txt,Naive Bayes,hilton,1,1
+950,d_hilton_4.txt,Naive Bayes,hilton,1,1
+951,d_hilton_5.txt,Naive Bayes,hilton,1,0
+952,d_hilton_6.txt,Naive Bayes,hilton,1,1
+953,d_hilton_7.txt,Naive Bayes,hilton,1,1
+954,d_hilton_8.txt,Naive Bayes,hilton,1,1
+955,d_hilton_9.txt,Naive Bayes,hilton,1,1
+1336,t_hilton_1.txt,Naive Bayes,hilton,0,0
+1337,t_hilton_10.txt,Naive Bayes,hilton,0,0
+1338,t_hilton_11.txt,Naive Bayes,hilton,0,0
+1339,t_hilton_12.txt,Naive Bayes,hilton,0,0
+1340,t_hilton_13.txt,Naive Bayes,hilton,0,0
+1341,t_hilton_14.txt,Naive Bayes,hilton,0,0
+1342,t_hilton_15.txt,Naive Bayes,hilton,0,0
+1343,t_hilton_16.txt,Naive Bayes,hilton,0,0
+1344,t_hilton_17.txt,Naive Bayes,hilton,0,1
+1345,t_hilton_18.txt,Naive Bayes,hilton,0,0
+1346,t_hilton_19.txt,Naive Bayes,hilton,0,0
+1347,t_hilton_2.txt,Naive Bayes,hilton,0,0
+1348,t_hilton_20.txt,Naive Bayes,hilton,0,0
+1349,t_hilton_3.txt,Naive Bayes,hilton,0,0
+1350,t_hilton_4.txt,Naive Bayes,hilton,0,0
+1351,t_hilton_5.txt,Naive Bayes,hilton,0,1
+1352,t_hilton_6.txt,Naive Bayes,hilton,0,0
+1353,t_hilton_7.txt,Naive Bayes,hilton,0,0
+1354,t_hilton_8.txt,Naive Bayes,hilton,0,0
+1355,t_hilton_9.txt,Naive Bayes,hilton,0,0
+160,d_homewood_1.txt,Naive Bayes,homewood,1,1
+161,d_homewood_10.txt,Naive Bayes,homewood,1,1
+162,d_homewood_11.txt,Naive Bayes,homewood,1,1
+163,d_homewood_12.txt,Naive Bayes,homewood,1,0
+164,d_homewood_13.txt,Naive Bayes,homewood,1,1
+165,d_homewood_14.txt,Naive Bayes,homewood,1,1
+166,d_homewood_15.txt,Naive Bayes,homewood,1,1
+167,d_homewood_16.txt,Naive Bayes,homewood,1,1
+168,d_homewood_17.txt,Naive Bayes,homewood,1,1
+169,d_homewood_18.txt,Naive Bayes,homewood,1,0
+170,d_homewood_19.txt,Naive Bayes,homewood,1,1
+171,d_homewood_2.txt,Naive Bayes,homewood,1,1
+172,d_homewood_20.txt,Naive Bayes,homewood,1,1
+173,d_homewood_3.txt,Naive Bayes,homewood,1,0
+174,d_homewood_4.txt,Naive Bayes,homewood,1,1
+175,d_homewood_5.txt,Naive Bayes,homewood,1,1
+176,d_homewood_6.txt,Naive Bayes,homewood,1,1
+177,d_homewood_7.txt,Naive Bayes,homewood,1,1
+178,d_homewood_8.txt,Naive Bayes,homewood,1,1
+179,d_homewood_9.txt,Naive Bayes,homewood,1,1
+559,t_homewood_1.txt,Naive Bayes,homewood,0,0
+560,t_homewood_10.txt,Naive Bayes,homewood,0,0
+561,t_homewood_11.txt,Naive Bayes,homewood,0,0
+562,t_homewood_12.txt,Naive Bayes,homewood,0,0
+563,t_homewood_13.txt,Naive Bayes,homewood,0,1
+564,t_homewood_14.txt,Naive Bayes,homewood,0,0
+565,t_homewood_15.txt,Naive Bayes,homewood,0,0
+566,t_homewood_16.txt,Naive Bayes,homewood,0,0
+567,t_homewood_17.txt,Naive Bayes,homewood,0,0
+568,t_homewood_18.txt,Naive Bayes,homewood,0,0
+569,t_homewood_19.txt,Naive Bayes,homewood,0,0
+570,t_homewood_2.txt,Naive Bayes,homewood,0,0
+571,t_homewood_20.txt,Naive Bayes,homewood,0,0
+572,t_homewood_3.txt,Naive Bayes,homewood,0,0
+573,t_homewood_4.txt,Naive Bayes,homewood,0,1
+574,t_homewood_5.txt,Naive Bayes,homewood,0,0
+575,t_homewood_6.txt,Naive Bayes,homewood,0,0
+576,t_homewood_7.txt,Naive Bayes,homewood,0,0
+577,t_homewood_8.txt,Naive Bayes,homewood,0,0
+578,t_homewood_9.txt,Naive Bayes,homewood,0,0
+956,d_homewood_1.txt,Naive Bayes,homewood,1,1
+957,d_homewood_10.txt,Naive Bayes,homewood,1,1
+958,d_homewood_11.txt,Naive Bayes,homewood,1,1
+959,d_homewood_12.txt,Naive Bayes,homewood,1,0
+960,d_homewood_13.txt,Naive Bayes,homewood,1,0
+961,d_homewood_14.txt,Naive Bayes,homewood,1,1
+962,d_homewood_15.txt,Naive Bayes,homewood,1,1
+963,d_homewood_16.txt,Naive Bayes,homewood,1,1
+964,d_homewood_17.txt,Naive Bayes,homewood,1,1
+965,d_homewood_18.txt,Naive Bayes,homewood,1,1
+966,d_homewood_19.txt,Naive Bayes,homewood,1,0
+967,d_homewood_2.txt,Naive Bayes,homewood,1,1
+968,d_homewood_20.txt,Naive Bayes,homewood,1,1
+969,d_homewood_3.txt,Naive Bayes,homewood,1,1
+970,d_homewood_4.txt,Naive Bayes,homewood,1,1
+971,d_homewood_5.txt,Naive Bayes,homewood,1,1
+972,d_homewood_6.txt,Naive Bayes,homewood,1,1
+973,d_homewood_7.txt,Naive Bayes,homewood,1,0
+974,d_homewood_8.txt,Naive Bayes,homewood,1,1
+975,d_homewood_9.txt,Naive Bayes,homewood,1,1
+1356,t_homewood_1.txt,Naive Bayes,homewood,0,0
+1357,t_homewood_10.txt,Naive Bayes,homewood,0,0
+1358,t_homewood_11.txt,Naive Bayes,homewood,0,0
+1359,t_homewood_12.txt,Naive Bayes,homewood,0,0
+1360,t_homewood_13.txt,Naive Bayes,homewood,0,0
+1361,t_homewood_14.txt,Naive Bayes,homewood,0,0
+1362,t_homewood_15.txt,Naive Bayes,homewood,0,0
+1363,t_homewood_16.txt,Naive Bayes,homewood,0,0
+1364,t_homewood_17.txt,Naive Bayes,homewood,0,0
+1365,t_homewood_18.txt,Naive Bayes,homewood,0,1
+1366,t_homewood_19.txt,Naive Bayes,homewood,0,0
+1367,t_homewood_2.txt,Naive Bayes,homewood,0,1
+1368,t_homewood_20.txt,Naive Bayes,homewood,0,0
+1369,t_homewood_3.txt,Naive Bayes,homewood,0,0
+1370,t_homewood_4.txt,Naive Bayes,homewood,0,0
+1371,t_homewood_5.txt,Naive Bayes,homewood,0,0
+1372,t_homewood_6.txt,Naive Bayes,homewood,0,0
+1373,t_homewood_7.txt,Naive Bayes,homewood,0,0
+1374,t_homewood_8.txt,Naive Bayes,homewood,0,0
+1375,t_homewood_9.txt,Naive Bayes,homewood,0,0
+180,d_hyatt_1.txt,Naive Bayes,hyatt,1,1
+181,d_hyatt_10.txt,Naive Bayes,hyatt,1,1
+182,d_hyatt_11.txt,Naive Bayes,hyatt,1,0
+183,d_hyatt_12.txt,Naive Bayes,hyatt,1,0
+184,d_hyatt_13.txt,Naive Bayes,hyatt,1,0
+185,d_hyatt_14.txt,Naive Bayes,hyatt,1,1
+186,d_hyatt_15.txt,Naive Bayes,hyatt,1,1
+187,d_hyatt_16.txt,Naive Bayes,hyatt,1,1
+188,d_hyatt_17.txt,Naive Bayes,hyatt,1,1
+189,d_hyatt_18.txt,Naive Bayes,hyatt,1,0
+190,d_hyatt_19.txt,Naive Bayes,hyatt,1,1
+191,d_hyatt_2.txt,Naive Bayes,hyatt,1,0
+192,d_hyatt_20.txt,Naive Bayes,hyatt,1,1
+193,d_hyatt_3.txt,Naive Bayes,hyatt,1,1
+194,d_hyatt_4.txt,Naive Bayes,hyatt,1,1
+195,d_hyatt_5.txt,Naive Bayes,hyatt,1,0
+196,d_hyatt_6.txt,Naive Bayes,hyatt,1,0
+197,d_hyatt_7.txt,Naive Bayes,hyatt,1,0
+198,d_hyatt_8.txt,Naive Bayes,hyatt,1,1
+199,d_hyatt_9.txt,Naive Bayes,hyatt,1,1
+579,t_hyatt_1.txt,Naive Bayes,hyatt,0,0
+580,t_hyatt_10.txt,Naive Bayes,hyatt,0,0
+581,t_hyatt_11.txt,Naive Bayes,hyatt,0,0
+582,t_hyatt_12.txt,Naive Bayes,hyatt,0,0
+583,t_hyatt_13.txt,Naive Bayes,hyatt,0,0
+584,t_hyatt_14.txt,Naive Bayes,hyatt,0,0
+585,t_hyatt_15.txt,Naive Bayes,hyatt,0,0
+586,t_hyatt_16.txt,Naive Bayes,hyatt,0,0
+587,t_hyatt_17.txt,Naive Bayes,hyatt,0,0
+588,t_hyatt_18.txt,Naive Bayes,hyatt,0,0
+589,t_hyatt_19.txt,Naive Bayes,hyatt,0,0
+590,t_hyatt_2.txt,Naive Bayes,hyatt,0,0
+591,t_hyatt_20.txt,Naive Bayes,hyatt,0,0
+592,t_hyatt_3.txt,Naive Bayes,hyatt,0,0
+593,t_hyatt_4.txt,Naive Bayes,hyatt,0,0
+594,t_hyatt_5.txt,Naive Bayes,hyatt,0,0
+595,t_hyatt_6.txt,Naive Bayes,hyatt,0,0
+596,t_hyatt_7.txt,Naive Bayes,hyatt,0,1
+597,t_hyatt_8.txt,Naive Bayes,hyatt,0,0
+598,t_hyatt_9.txt,Naive Bayes,hyatt,0,0
+976,d_hyatt_1.txt,Naive Bayes,hyatt,1,1
+977,d_hyatt_10.txt,Naive Bayes,hyatt,1,1
+978,d_hyatt_11.txt,Naive Bayes,hyatt,1,1
+979,d_hyatt_12.txt,Naive Bayes,hyatt,1,0
+980,d_hyatt_13.txt,Naive Bayes,hyatt,1,1
+981,d_hyatt_14.txt,Naive Bayes,hyatt,1,1
+982,d_hyatt_15.txt,Naive Bayes,hyatt,1,1
+983,d_hyatt_16.txt,Naive Bayes,hyatt,1,0
+984,d_hyatt_17.txt,Naive Bayes,hyatt,1,1
+985,d_hyatt_18.txt,Naive Bayes,hyatt,1,1
+986,d_hyatt_19.txt,Naive Bayes,hyatt,1,1
+987,d_hyatt_2.txt,Naive Bayes,hyatt,1,1
+988,d_hyatt_20.txt,Naive Bayes,hyatt,1,1
+989,d_hyatt_3.txt,Naive Bayes,hyatt,1,1
+990,d_hyatt_4.txt,Naive Bayes,hyatt,1,1
+991,d_hyatt_5.txt,Naive Bayes,hyatt,1,1
+992,d_hyatt_6.txt,Naive Bayes,hyatt,1,1
+993,d_hyatt_7.txt,Naive Bayes,hyatt,1,1
+994,d_hyatt_8.txt,Naive Bayes,hyatt,1,1
+995,d_hyatt_9.txt,Naive Bayes,hyatt,1,1
+1376,t_hyatt_1.txt,Naive Bayes,hyatt,0,0
+1377,t_hyatt_10.txt,Naive Bayes,hyatt,0,0
+1378,t_hyatt_11.txt,Naive Bayes,hyatt,0,0
+1379,t_hyatt_12.txt,Naive Bayes,hyatt,0,0
+1380,t_hyatt_13.txt,Naive Bayes,hyatt,0,0
+1381,t_hyatt_14.txt,Naive Bayes,hyatt,0,0
+1382,t_hyatt_15.txt,Naive Bayes,hyatt,0,0
+1383,t_hyatt_16.txt,Naive Bayes,hyatt,0,0
+1384,t_hyatt_17.txt,Naive Bayes,hyatt,0,0
+1385,t_hyatt_18.txt,Naive Bayes,hyatt,0,0
+1386,t_hyatt_19.txt,Naive Bayes,hyatt,0,0
+1387,t_hyatt_2.txt,Naive Bayes,hyatt,0,0
+1388,t_hyatt_20.txt,Naive Bayes,hyatt,0,0
+1389,t_hyatt_3.txt,Naive Bayes,hyatt,0,0
+1390,t_hyatt_4.txt,Naive Bayes,hyatt,0,0
+1391,t_hyatt_5.txt,Naive Bayes,hyatt,0,0
+1392,t_hyatt_6.txt,Naive Bayes,hyatt,0,0
+1393,t_hyatt_7.txt,Naive Bayes,hyatt,0,0
+1394,t_hyatt_8.txt,Naive Bayes,hyatt,0,0
+1395,t_hyatt_9.txt,Naive Bayes,hyatt,0,0
+200,d_intercontinental_1.txt,Naive Bayes,intercontinental,1,1
+201,d_intercontinental_10.txt,Naive Bayes,intercontinental,1,1
+202,d_intercontinental_11.txt,Naive Bayes,intercontinental,1,1
+203,d_intercontinental_12.txt,Naive Bayes,intercontinental,1,1
+204,d_intercontinental_13.txt,Naive Bayes,intercontinental,1,0
+205,d_intercontinental_14.txt,Naive Bayes,intercontinental,1,1
+206,d_intercontinental_15.txt,Naive Bayes,intercontinental,1,1
+207,d_intercontinental_16.txt,Naive Bayes,intercontinental,1,1
+208,d_intercontinental_17.txt,Naive Bayes,intercontinental,1,1
+209,d_intercontinental_18.txt,Naive Bayes,intercontinental,1,1
+210,d_intercontinental_19.txt,Naive Bayes,intercontinental,1,1
+211,d_intercontinental_2.txt,Naive Bayes,intercontinental,1,1
+212,d_intercontinental_20.txt,Naive Bayes,intercontinental,1,1
+213,d_intercontinental_3.txt,Naive Bayes,intercontinental,1,0
+214,d_intercontinental_4.txt,Naive Bayes,intercontinental,1,1
+215,d_intercontinental_5.txt,Naive Bayes,intercontinental,1,0
+216,d_intercontinental_6.txt,Naive Bayes,intercontinental,1,0
+217,d_intercontinental_7.txt,Naive Bayes,intercontinental,1,0
+218,d_intercontinental_8.txt,Naive Bayes,intercontinental,1,0
+219,d_intercontinental_9.txt,Naive Bayes,intercontinental,1,1
+599,t_intercontinental_1.txt,Naive Bayes,intercontinental,0,0
+600,t_intercontinental_10.txt,Naive Bayes,intercontinental,0,0
+601,t_intercontinental_11.txt,Naive Bayes,intercontinental,0,0
+602,t_intercontinental_12.txt,Naive Bayes,intercontinental,0,0
+603,t_intercontinental_13.txt,Naive Bayes,intercontinental,0,0
+604,t_intercontinental_14.txt,Naive Bayes,intercontinental,0,0
+605,t_intercontinental_15.txt,Naive Bayes,intercontinental,0,0
+606,t_intercontinental_16.txt,Naive Bayes,intercontinental,0,0
+607,t_intercontinental_17.txt,Naive Bayes,intercontinental,0,0
+608,t_intercontinental_18.txt,Naive Bayes,intercontinental,0,0
+609,t_intercontinental_19.txt,Naive Bayes,intercontinental,0,1
+610,t_intercontinental_2.txt,Naive Bayes,intercontinental,0,0
+611,t_intercontinental_20.txt,Naive Bayes,intercontinental,0,0
+612,t_intercontinental_3.txt,Naive Bayes,intercontinental,0,0
+613,t_intercontinental_4.txt,Naive Bayes,intercontinental,0,0
+614,t_intercontinental_5.txt,Naive Bayes,intercontinental,0,0
+615,t_intercontinental_6.txt,Naive Bayes,intercontinental,0,0
+616,t_intercontinental_7.txt,Naive Bayes,intercontinental,0,0
+617,t_intercontinental_8.txt,Naive Bayes,intercontinental,0,0
+618,t_intercontinental_9.txt,Naive Bayes,intercontinental,0,1
+996,d_intercontinental_1.txt,Naive Bayes,intercontinental,1,1
+997,d_intercontinental_10.txt,Naive Bayes,intercontinental,1,1
+998,d_intercontinental_11.txt,Naive Bayes,intercontinental,1,1
+999,d_intercontinental_12.txt,Naive Bayes,intercontinental,1,1
+1000,d_intercontinental_13.txt,Naive Bayes,intercontinental,1,0
+1001,d_intercontinental_14.txt,Naive Bayes,intercontinental,1,1
+1002,d_intercontinental_15.txt,Naive Bayes,intercontinental,1,1
+1003,d_intercontinental_16.txt,Naive Bayes,intercontinental,1,1
+1004,d_intercontinental_17.txt,Naive Bayes,intercontinental,1,1
+1005,d_intercontinental_18.txt,Naive Bayes,intercontinental,1,1
+1006,d_intercontinental_19.txt,Naive Bayes,intercontinental,1,0
+1007,d_intercontinental_2.txt,Naive Bayes,intercontinental,1,1
+1008,d_intercontinental_20.txt,Naive Bayes,intercontinental,1,1
+1009,d_intercontinental_3.txt,Naive Bayes,intercontinental,1,1
+1010,d_intercontinental_4.txt,Naive Bayes,intercontinental,1,1
+1011,d_intercontinental_5.txt,Naive Bayes,intercontinental,1,1
+1012,d_intercontinental_6.txt,Naive Bayes,intercontinental,1,1
+1013,d_intercontinental_7.txt,Naive Bayes,intercontinental,1,1
+1014,d_intercontinental_8.txt,Naive Bayes,intercontinental,1,1
+1015,d_intercontinental_9.txt,Naive Bayes,intercontinental,1,0
+1396,t_intercontinental_1.txt,Naive Bayes,intercontinental,0,0
+1397,t_intercontinental_10.txt,Naive Bayes,intercontinental,0,0
+1398,t_intercontinental_11.txt,Naive Bayes,intercontinental,0,0
+1399,t_intercontinental_12.txt,Naive Bayes,intercontinental,0,0
+1400,t_intercontinental_13.txt,Naive Bayes,intercontinental,0,0
+1401,t_intercontinental_14.txt,Naive Bayes,intercontinental,0,0
+1402,t_intercontinental_15.txt,Naive Bayes,intercontinental,0,0
+1403,t_intercontinental_16.txt,Naive Bayes,intercontinental,0,0
+1404,t_intercontinental_17.txt,Naive Bayes,intercontinental,0,0
+1405,t_intercontinental_18.txt,Naive Bayes,intercontinental,0,0
+1406,t_intercontinental_19.txt,Naive Bayes,intercontinental,0,0
+1407,t_intercontinental_2.txt,Naive Bayes,intercontinental,0,0
+1408,t_intercontinental_20.txt,Naive Bayes,intercontinental,0,0
+1409,t_intercontinental_3.txt,Naive Bayes,intercontinental,0,0
+1410,t_intercontinental_4.txt,Naive Bayes,intercontinental,0,0
+1411,t_intercontinental_5.txt,Naive Bayes,intercontinental,0,0
+1412,t_intercontinental_6.txt,Naive Bayes,intercontinental,0,0
+1413,t_intercontinental_7.txt,Naive Bayes,intercontinental,0,0
+1414,t_intercontinental_8.txt,Naive Bayes,intercontinental,0,0
+1415,t_intercontinental_9.txt,Naive Bayes,intercontinental,0,0
+220,d_james_1.txt,Naive Bayes,james,1,1
+221,d_james_10.txt,Naive Bayes,james,1,1
+222,d_james_11.txt,Naive Bayes,james,1,1
+223,d_james_12.txt,Naive Bayes,james,1,1
+224,d_james_13.txt,Naive Bayes,james,1,1
+225,d_james_14.txt,Naive Bayes,james,1,1
+226,d_james_15.txt,Naive Bayes,james,1,1
+227,d_james_16.txt,Naive Bayes,james,1,1
+228,d_james_17.txt,Naive Bayes,james,1,1
+229,d_james_18.txt,Naive Bayes,james,1,1
+230,d_james_19.txt,Naive Bayes,james,1,1
+231,d_james_2.txt,Naive Bayes,james,1,1
+232,d_james_20.txt,Naive Bayes,james,1,1
+233,d_james_3.txt,Naive Bayes,james,1,1
+234,d_james_4.txt,Naive Bayes,james,1,1
+235,d_james_5.txt,Naive Bayes,james,1,1
+236,d_james_6.txt,Naive Bayes,james,1,1
+237,d_james_7.txt,Naive Bayes,james,1,1
+238,d_james_8.txt,Naive Bayes,james,1,1
+239,d_james_9.txt,Naive Bayes,james,1,1
+619,t_james_1.txt,Naive Bayes,james,0,0
+620,t_james_10.txt,Naive Bayes,james,0,0
+621,t_james_11.txt,Naive Bayes,james,0,0
+622,t_james_12.txt,Naive Bayes,james,0,0
+623,t_james_13.txt,Naive Bayes,james,0,0
+624,t_james_14.txt,Naive Bayes,james,0,0
+625,t_james_15.txt,Naive Bayes,james,0,0
+626,t_james_16.txt,Naive Bayes,james,0,0
+627,t_james_17.txt,Naive Bayes,james,0,1
+628,t_james_18.txt,Naive Bayes,james,0,0
+629,t_james_19.txt,Naive Bayes,james,0,0
+630,t_james_2.txt,Naive Bayes,james,0,0
+631,t_james_20.txt,Naive Bayes,james,0,0
+632,t_james_3.txt,Naive Bayes,james,0,0
+633,t_james_4.txt,Naive Bayes,james,0,0
+634,t_james_5.txt,Naive Bayes,james,0,0
+635,t_james_6.txt,Naive Bayes,james,0,0
+636,t_james_7.txt,Naive Bayes,james,0,0
+637,t_james_8.txt,Naive Bayes,james,0,1
+638,t_james_9.txt,Naive Bayes,james,0,0
+1016,d_james_1.txt,Naive Bayes,james,1,1
+1017,d_james_10.txt,Naive Bayes,james,1,1
+1018,d_james_11.txt,Naive Bayes,james,1,1
+1019,d_james_12.txt,Naive Bayes,james,1,1
+1020,d_james_13.txt,Naive Bayes,james,1,1
+1021,d_james_14.txt,Naive Bayes,james,1,1
+1022,d_james_15.txt,Naive Bayes,james,1,1
+1023,d_james_16.txt,Naive Bayes,james,1,1
+1024,d_james_17.txt,Naive Bayes,james,1,1
+1025,d_james_18.txt,Naive Bayes,james,1,1
+1026,d_james_19.txt,Naive Bayes,james,1,1
+1027,d_james_2.txt,Naive Bayes,james,1,1
+1028,d_james_20.txt,Naive Bayes,james,1,1
+1029,d_james_3.txt,Naive Bayes,james,1,1
+1030,d_james_4.txt,Naive Bayes,james,1,1
+1031,d_james_5.txt,Naive Bayes,james,1,1
+1032,d_james_6.txt,Naive Bayes,james,1,1
+1033,d_james_7.txt,Naive Bayes,james,1,1
+1034,d_james_8.txt,Naive Bayes,james,1,1
+1035,d_james_9.txt,Naive Bayes,james,1,1
+1416,t_james_1.txt,Naive Bayes,james,0,1
+1417,t_james_10.txt,Naive Bayes,james,0,0
+1418,t_james_11.txt,Naive Bayes,james,0,1
+1419,t_james_12.txt,Naive Bayes,james,0,0
+1420,t_james_13.txt,Naive Bayes,james,0,0
+1421,t_james_14.txt,Naive Bayes,james,0,1
+1422,t_james_15.txt,Naive Bayes,james,0,1
+1423,t_james_16.txt,Naive Bayes,james,0,0
+1424,t_james_17.txt,Naive Bayes,james,0,0
+1425,t_james_18.txt,Naive Bayes,james,0,0
+1426,t_james_19.txt,Naive Bayes,james,0,0
+1427,t_james_2.txt,Naive Bayes,james,0,1
+1428,t_james_20.txt,Naive Bayes,james,0,0
+1429,t_james_3.txt,Naive Bayes,james,0,1
+1430,t_james_4.txt,Naive Bayes,james,0,0
+1431,t_james_5.txt,Naive Bayes,james,0,0
+1432,t_james_6.txt,Naive Bayes,james,0,1
+1433,t_james_7.txt,Naive Bayes,james,0,0
+1434,t_james_8.txt,Naive Bayes,james,0,0
+1435,t_james_9.txt,Naive Bayes,james,0,0
+240,d_knickerbocker_1.txt,Naive Bayes,knickerbocker,1,1
+241,d_knickerbocker_10.txt,Naive Bayes,knickerbocker,1,1
+242,d_knickerbocker_11.txt,Naive Bayes,knickerbocker,1,1
+243,d_knickerbocker_12.txt,Naive Bayes,knickerbocker,1,1
+244,d_knickerbocker_13.txt,Naive Bayes,knickerbocker,1,0
+245,d_knickerbocker_14.txt,Naive Bayes,knickerbocker,1,1
+246,d_knickerbocker_15.txt,Naive Bayes,knickerbocker,1,1
+247,d_knickerbocker_16.txt,Naive Bayes,knickerbocker,1,1
+248,d_knickerbocker_17.txt,Naive Bayes,knickerbocker,1,0
+249,d_knickerbocker_18.txt,Naive Bayes,knickerbocker,1,1
+250,d_knickerbocker_19.txt,Naive Bayes,knickerbocker,1,1
+251,d_knickerbocker_2.txt,Naive Bayes,knickerbocker,1,1
+252,d_knickerbocker_20.txt,Naive Bayes,knickerbocker,1,1
+253,d_knickerbocker_3.txt,Naive Bayes,knickerbocker,1,1
+254,d_knickerbocker_4.txt,Naive Bayes,knickerbocker,1,1
+255,d_knickerbocker_5.txt,Naive Bayes,knickerbocker,1,1
+256,d_knickerbocker_6.txt,Naive Bayes,knickerbocker,1,1
+257,d_knickerbocker_7.txt,Naive Bayes,knickerbocker,1,1
+258,d_knickerbocker_8.txt,Naive Bayes,knickerbocker,1,0
+259,d_knickerbocker_9.txt,Naive Bayes,knickerbocker,1,0
+639,t_knickerbocker_1.txt,Naive Bayes,knickerbocker,0,0
+640,t_knickerbocker_10.txt,Naive Bayes,knickerbocker,0,0
+641,t_knickerbocker_11.txt,Naive Bayes,knickerbocker,0,0
+642,t_knickerbocker_12.txt,Naive Bayes,knickerbocker,0,0
+643,t_knickerbocker_13.txt,Naive Bayes,knickerbocker,0,0
+644,t_knickerbocker_14.txt,Naive Bayes,knickerbocker,0,0
+645,t_knickerbocker_15.txt,Naive Bayes,knickerbocker,0,0
+646,t_knickerbocker_16.txt,Naive Bayes,knickerbocker,0,0
+647,t_knickerbocker_17.txt,Naive Bayes,knickerbocker,0,0
+648,t_knickerbocker_18.txt,Naive Bayes,knickerbocker,0,0
+649,t_knickerbocker_19.txt,Naive Bayes,knickerbocker,0,0
+650,t_knickerbocker_2.txt,Naive Bayes,knickerbocker,0,0
+651,t_knickerbocker_20.txt,Naive Bayes,knickerbocker,0,1
+652,t_knickerbocker_3.txt,Naive Bayes,knickerbocker,0,0
+653,t_knickerbocker_4.txt,Naive Bayes,knickerbocker,0,0
+654,t_knickerbocker_5.txt,Naive Bayes,knickerbocker,0,0
+655,t_knickerbocker_6.txt,Naive Bayes,knickerbocker,0,0
+656,t_knickerbocker_7.txt,Naive Bayes,knickerbocker,0,0
+657,t_knickerbocker_8.txt,Naive Bayes,knickerbocker,0,0
+658,t_knickerbocker_9.txt,Naive Bayes,knickerbocker,0,0
+1036,d_knickerbocker_1.txt,Naive Bayes,knickerbocker,1,1
+1037,d_knickerbocker_10.txt,Naive Bayes,knickerbocker,1,1
+1038,d_knickerbocker_11.txt,Naive Bayes,knickerbocker,1,1
+1039,d_knickerbocker_12.txt,Naive Bayes,knickerbocker,1,1
+1040,d_knickerbocker_13.txt,Naive Bayes,knickerbocker,1,1
+1041,d_knickerbocker_14.txt,Naive Bayes,knickerbocker,1,1
+1042,d_knickerbocker_15.txt,Naive Bayes,knickerbocker,1,0
+1043,d_knickerbocker_16.txt,Naive Bayes,knickerbocker,1,1
+1044,d_knickerbocker_17.txt,Naive Bayes,knickerbocker,1,1
+1045,d_knickerbocker_18.txt,Naive Bayes,knickerbocker,1,1
+1046,d_knickerbocker_19.txt,Naive Bayes,knickerbocker,1,1
+1047,d_knickerbocker_2.txt,Naive Bayes,knickerbocker,1,1
+1048,d_knickerbocker_20.txt,Naive Bayes,knickerbocker,1,1
+1049,d_knickerbocker_3.txt,Naive Bayes,knickerbocker,1,1
+1050,d_knickerbocker_4.txt,Naive Bayes,knickerbocker,1,1
+1051,d_knickerbocker_5.txt,Naive Bayes,knickerbocker,1,1
+1052,d_knickerbocker_6.txt,Naive Bayes,knickerbocker,1,1
+1053,d_knickerbocker_7.txt,Naive Bayes,knickerbocker,1,1
+1054,d_knickerbocker_8.txt,Naive Bayes,knickerbocker,1,1
+1055,d_knickerbocker_9.txt,Naive Bayes,knickerbocker,1,1
+1436,t_knickerbocker_1.txt,Naive Bayes,knickerbocker,0,0
+1437,t_knickerbocker_10.txt,Naive Bayes,knickerbocker,0,0
+1438,t_knickerbocker_11.txt,Naive Bayes,knickerbocker,0,1
+1439,t_knickerbocker_12.txt,Naive Bayes,knickerbocker,0,0
+1440,t_knickerbocker_13.txt,Naive Bayes,knickerbocker,0,0
+1441,t_knickerbocker_14.txt,Naive Bayes,knickerbocker,0,0
+1442,t_knickerbocker_15.txt,Naive Bayes,knickerbocker,0,0
+1443,t_knickerbocker_16.txt,Naive Bayes,knickerbocker,0,0
+1444,t_knickerbocker_17.txt,Naive Bayes,knickerbocker,0,0
+1445,t_knickerbocker_18.txt,Naive Bayes,knickerbocker,0,0
+1446,t_knickerbocker_19.txt,Naive Bayes,knickerbocker,0,0
+1447,t_knickerbocker_2.txt,Naive Bayes,knickerbocker,0,0
+1448,t_knickerbocker_20.txt,Naive Bayes,knickerbocker,0,0
+1449,t_knickerbocker_3.txt,Naive Bayes,knickerbocker,0,0
+1450,t_knickerbocker_4.txt,Naive Bayes,knickerbocker,0,0
+1451,t_knickerbocker_5.txt,Naive Bayes,knickerbocker,0,0
+1452,t_knickerbocker_6.txt,Naive Bayes,knickerbocker,0,0
+1453,t_knickerbocker_7.txt,Naive Bayes,knickerbocker,0,0
+1454,t_knickerbocker_8.txt,Naive Bayes,knickerbocker,0,0
+1455,t_knickerbocker_9.txt,Naive Bayes,knickerbocker,0,0
+260,d_monaco_1.txt,Naive Bayes,monaco,1,1
+261,d_monaco_10.txt,Naive Bayes,monaco,1,1
+262,d_monaco_11.txt,Naive Bayes,monaco,1,1
+263,d_monaco_12.txt,Naive Bayes,monaco,1,1
+264,d_monaco_13.txt,Naive Bayes,monaco,1,1
+265,d_monaco_14.txt,Naive Bayes,monaco,1,1
+266,d_monaco_15.txt,Naive Bayes,monaco,1,1
+267,d_monaco_16.txt,Naive Bayes,monaco,1,0
+268,d_monaco_17.txt,Naive Bayes,monaco,1,1
+269,d_monaco_18.txt,Naive Bayes,monaco,1,1
+270,d_monaco_19.txt,Naive Bayes,monaco,1,1
+271,d_monaco_2.txt,Naive Bayes,monaco,1,1
+272,d_monaco_20.txt,Naive Bayes,monaco,1,1
+273,d_monaco_3.txt,Naive Bayes,monaco,1,0
+274,d_monaco_4.txt,Naive Bayes,monaco,1,1
+275,d_monaco_5.txt,Naive Bayes,monaco,1,1
+276,d_monaco_6.txt,Naive Bayes,monaco,1,1
+277,d_monaco_7.txt,Naive Bayes,monaco,1,1
+278,d_monaco_8.txt,Naive Bayes,monaco,1,1
+279,d_monaco_9.txt,Naive Bayes,monaco,1,1
+659,t_monaco_1.txt,Naive Bayes,monaco,0,0
+660,t_monaco_10.txt,Naive Bayes,monaco,0,0
+661,t_monaco_11.txt,Naive Bayes,monaco,0,0
+662,t_monaco_12.txt,Naive Bayes,monaco,0,0
+663,t_monaco_13.txt,Naive Bayes,monaco,0,0
+664,t_monaco_14.txt,Naive Bayes,monaco,0,0
+665,t_monaco_15.txt,Naive Bayes,monaco,0,0
+666,t_monaco_16.txt,Naive Bayes,monaco,0,1
+667,t_monaco_20.txt,Naive Bayes,monaco,0,0
+668,t_monaco_18.txt,Naive Bayes,monaco,0,0
+669,t_monaco_19.txt,Naive Bayes,monaco,0,1
+670,t_monaco_2.txt,Naive Bayes,monaco,0,0
+671,t_monaco_3.txt,Naive Bayes,monaco,0,0
+672,t_monaco_4.txt,Naive Bayes,monaco,0,0
+673,t_monaco_5.txt,Naive Bayes,monaco,0,0
+674,t_monaco_6.txt,Naive Bayes,monaco,0,0
+675,t_monaco_7.txt,Naive Bayes,monaco,0,0
+676,t_monaco_8.txt,Naive Bayes,monaco,0,0
+677,t_monaco_9.txt,Naive Bayes,monaco,0,0
+1056,d_monaco_1.txt,Naive Bayes,monaco,1,1
+1057,d_monaco_10.txt,Naive Bayes,monaco,1,1
+1058,d_monaco_11.txt,Naive Bayes,monaco,1,0
+1059,d_monaco_12.txt,Naive Bayes,monaco,1,1
+1060,d_monaco_13.txt,Naive Bayes,monaco,1,1
+1061,d_monaco_14.txt,Naive Bayes,monaco,1,1
+1062,d_monaco_15.txt,Naive Bayes,monaco,1,1
+1063,d_monaco_16.txt,Naive Bayes,monaco,1,1
+1064,d_monaco_17.txt,Naive Bayes,monaco,1,1
+1065,d_monaco_18.txt,Naive Bayes,monaco,1,1
+1066,d_monaco_19.txt,Naive Bayes,monaco,1,1
+1067,d_monaco_2.txt,Naive Bayes,monaco,1,1
+1068,d_monaco_20.txt,Naive Bayes,monaco,1,1
+1069,d_monaco_3.txt,Naive Bayes,monaco,1,1
+1070,d_monaco_4.txt,Naive Bayes,monaco,1,1
+1071,d_monaco_5.txt,Naive Bayes,monaco,1,1
+1072,d_monaco_6.txt,Naive Bayes,monaco,1,1
+1073,d_monaco_7.txt,Naive Bayes,monaco,1,1
+1074,d_monaco_8.txt,Naive Bayes,monaco,1,1
+1075,d_monaco_9.txt,Naive Bayes,monaco,1,0
+1456,t_monaco_1.txt,Naive Bayes,monaco,0,0
+1457,t_monaco_10.txt,Naive Bayes,monaco,0,0
+1458,t_monaco_11.txt,Naive Bayes,monaco,0,0
+1459,t_monaco_12.txt,Naive Bayes,monaco,0,0
+1460,t_monaco_13.txt,Naive Bayes,monaco,0,0
+1461,t_monaco_14.txt,Naive Bayes,monaco,0,0
+1462,t_monaco_15.txt,Naive Bayes,monaco,0,0
+1463,t_monaco_16.txt,Naive Bayes,monaco,0,0
+1464,t_monaco_17.txt,Naive Bayes,monaco,0,0
+1465,t_monaco_18.txt,Naive Bayes,monaco,0,0
+1466,t_monaco_19.txt,Naive Bayes,monaco,0,1
+1467,t_monaco_2.txt,Naive Bayes,monaco,0,0
+1468,t_monaco_20.txt,Naive Bayes,monaco,0,0
+1469,t_monaco_3.txt,Naive Bayes,monaco,0,0
+1470,t_monaco_4.txt,Naive Bayes,monaco,0,0
+1471,t_monaco_5.txt,Naive Bayes,monaco,0,1
+1472,t_monaco_6.txt,Naive Bayes,monaco,0,0
+1473,t_monaco_7.txt,Naive Bayes,monaco,0,0
+1474,t_monaco_8.txt,Naive Bayes,monaco,0,0
+1475,t_monaco_9.txt,Naive Bayes,monaco,0,0
+280,d_omni_1.txt,Naive Bayes,omni,1,1
+281,d_omni_10.txt,Naive Bayes,omni,1,1
+282,d_omni_11.txt,Naive Bayes,omni,1,1
+283,d_omni_12.txt,Naive Bayes,omni,1,1
+284,d_omni_13.txt,Naive Bayes,omni,1,1
+285,d_omni_14.txt,Naive Bayes,omni,1,1
+286,d_omni_15.txt,Naive Bayes,omni,1,1
+287,d_omni_16.txt,Naive Bayes,omni,1,0
+288,d_omni_17.txt,Naive Bayes,omni,1,1
+289,d_omni_18.txt,Naive Bayes,omni,1,1
+290,d_omni_19.txt,Naive Bayes,omni,1,1
+291,d_omni_2.txt,Naive Bayes,omni,1,1
+292,d_omni_20.txt,Naive Bayes,omni,1,1
+293,d_omni_3.txt,Naive Bayes,omni,1,1
+294,d_omni_4.txt,Naive Bayes,omni,1,1
+295,d_omni_5.txt,Naive Bayes,omni,1,1
+296,d_omni_6.txt,Naive Bayes,omni,1,1
+297,d_omni_7.txt,Naive Bayes,omni,1,1
+298,d_omni_8.txt,Naive Bayes,omni,1,1
+299,d_omni_9.txt,Naive Bayes,omni,1,1
+678,t_omni_1.txt,Naive Bayes,omni,0,0
+679,t_omni_13.txt,Naive Bayes,omni,0,0
+680,t_omni_11.txt,Naive Bayes,omni,0,0
+681,t_omni_12.txt,Naive Bayes,omni,0,0
+682,t_omni_14.txt,Naive Bayes,omni,0,0
+683,t_omni_15.txt,Naive Bayes,omni,0,0
+684,t_omni_16.txt,Naive Bayes,omni,0,0
+685,t_omni_17.txt,Naive Bayes,omni,0,0
+686,t_omni_18.txt,Naive Bayes,omni,0,1
+687,t_omni_19.txt,Naive Bayes,omni,0,0
+688,t_omni_2.txt,Naive Bayes,omni,0,0
+689,t_omni_20.txt,Naive Bayes,omni,0,0
+690,t_omni_3.txt,Naive Bayes,omni,0,0
+691,t_omni_4.txt,Naive Bayes,omni,0,0
+692,t_omni_9.txt,Naive Bayes,omni,0,0
+693,t_omni_6.txt,Naive Bayes,omni,0,0
+694,t_omni_7.txt,Naive Bayes,omni,0,0
+695,t_omni_8.txt,Naive Bayes,omni,0,0
+1076,d_omni_1.txt,Naive Bayes,omni,1,1
+1077,d_omni_10.txt,Naive Bayes,omni,1,1
+1078,d_omni_11.txt,Naive Bayes,omni,1,1
+1079,d_omni_12.txt,Naive Bayes,omni,1,1
+1080,d_omni_13.txt,Naive Bayes,omni,1,1
+1081,d_omni_14.txt,Naive Bayes,omni,1,1
+1082,d_omni_15.txt,Naive Bayes,omni,1,1
+1083,d_omni_16.txt,Naive Bayes,omni,1,1
+1084,d_omni_17.txt,Naive Bayes,omni,1,1
+1085,d_omni_18.txt,Naive Bayes,omni,1,1
+1086,d_omni_19.txt,Naive Bayes,omni,1,1
+1087,d_omni_2.txt,Naive Bayes,omni,1,1
+1088,d_omni_20.txt,Naive Bayes,omni,1,1
+1089,d_omni_3.txt,Naive Bayes,omni,1,1
+1090,d_omni_4.txt,Naive Bayes,omni,1,1
+1091,d_omni_5.txt,Naive Bayes,omni,1,1
+1092,d_omni_6.txt,Naive Bayes,omni,1,1
+1093,d_omni_7.txt,Naive Bayes,omni,1,1
+1094,d_omni_8.txt,Naive Bayes,omni,1,1
+1095,d_omni_9.txt,Naive Bayes,omni,1,1
+1476,t_omni_1.txt,Naive Bayes,omni,0,0
+1477,t_omni_10.txt,Naive Bayes,omni,0,0
+1478,t_omni_11.txt,Naive Bayes,omni,0,0
+1479,t_omni_12.txt,Naive Bayes,omni,0,0
+1480,t_omni_13.txt,Naive Bayes,omni,0,0
+1481,t_omni_14.txt,Naive Bayes,omni,0,0
+1482,t_omni_15.txt,Naive Bayes,omni,0,0
+1483,t_omni_16.txt,Naive Bayes,omni,0,0
+1484,t_omni_17.txt,Naive Bayes,omni,0,0
+1485,t_omni_18.txt,Naive Bayes,omni,0,0
+1486,t_omni_19.txt,Naive Bayes,omni,0,1
+1487,t_omni_2.txt,Naive Bayes,omni,0,0
+1488,t_omni_20.txt,Naive Bayes,omni,0,0
+1489,t_omni_3.txt,Naive Bayes,omni,0,0
+1490,t_omni_4.txt,Naive Bayes,omni,0,0
+1491,t_omni_5.txt,Naive Bayes,omni,0,0
+1492,t_omni_6.txt,Naive Bayes,omni,0,0
+1493,t_omni_7.txt,Naive Bayes,omni,0,0
+1494,t_omni_8.txt,Naive Bayes,omni,0,0
+1495,t_omni_9.txt,Naive Bayes,omni,0,0
+300,d_palmer_1.txt,Naive Bayes,palmer,1,1
+301,d_palmer_10.txt,Naive Bayes,palmer,1,1
+302,d_palmer_11.txt,Naive Bayes,palmer,1,1
+303,d_palmer_12.txt,Naive Bayes,palmer,1,1
+304,d_palmer_13.txt,Naive Bayes,palmer,1,1
+305,d_palmer_14.txt,Naive Bayes,palmer,1,1
+306,d_palmer_15.txt,Naive Bayes,palmer,1,1
+307,d_palmer_16.txt,Naive Bayes,palmer,1,0
+308,d_palmer_17.txt,Naive Bayes,palmer,1,1
+309,d_palmer_18.txt,Naive Bayes,palmer,1,1
+310,d_palmer_19.txt,Naive Bayes,palmer,1,1
+311,d_palmer_2.txt,Naive Bayes,palmer,1,0
+312,d_palmer_20.txt,Naive Bayes,palmer,1,1
+313,d_palmer_3.txt,Naive Bayes,palmer,1,1
+314,d_palmer_4.txt,Naive Bayes,palmer,1,1
+315,d_palmer_5.txt,Naive Bayes,palmer,1,1
+316,d_palmer_6.txt,Naive Bayes,palmer,1,1
+317,d_palmer_7.txt,Naive Bayes,palmer,1,0
+318,d_palmer_8.txt,Naive Bayes,palmer,1,0
+319,d_palmer_9.txt,Naive Bayes,palmer,1,1
+696,t_palmer_1.txt,Naive Bayes,palmer,0,0
+697,t_palmer_10.txt,Naive Bayes,palmer,0,1
+698,t_palmer_11.txt,Naive Bayes,palmer,0,0
+699,t_palmer_12.txt,Naive Bayes,palmer,0,0
+700,t_palmer_13.txt,Naive Bayes,palmer,0,0
+701,t_palmer_14.txt,Naive Bayes,palmer,0,1
+702,t_palmer_15.txt,Naive Bayes,palmer,0,0
+703,t_palmer_16.txt,Naive Bayes,palmer,0,0
+704,t_palmer_17.txt,Naive Bayes,palmer,0,0
+705,t_palmer_18.txt,Naive Bayes,palmer,0,0
+706,t_palmer_19.txt,Naive Bayes,palmer,0,0
+707,t_palmer_2.txt,Naive Bayes,palmer,0,0
+708,t_palmer_20.txt,Naive Bayes,palmer,0,0
+709,t_palmer_3.txt,Naive Bayes,palmer,0,0
+710,t_palmer_4.txt,Naive Bayes,palmer,0,0
+711,t_palmer_5.txt,Naive Bayes,palmer,0,0
+712,t_palmer_6.txt,Naive Bayes,palmer,0,0
+713,t_palmer_7.txt,Naive Bayes,palmer,0,0
+714,t_palmer_8.txt,Naive Bayes,palmer,0,0
+715,t_palmer_9.txt,Naive Bayes,palmer,0,0
+1096,d_palmer_1.txt,Naive Bayes,palmer,1,1
+1097,d_palmer_10.txt,Naive Bayes,palmer,1,1
+1098,d_palmer_11.txt,Naive Bayes,palmer,1,1
+1099,d_palmer_12.txt,Naive Bayes,palmer,1,0
+1100,d_palmer_13.txt,Naive Bayes,palmer,1,1
+1101,d_palmer_14.txt,Naive Bayes,palmer,1,1
+1102,d_palmer_15.txt,Naive Bayes,palmer,1,1
+1103,d_palmer_16.txt,Naive Bayes,palmer,1,0
+1104,d_palmer_17.txt,Naive Bayes,palmer,1,1
+1105,d_palmer_18.txt,Naive Bayes,palmer,1,1
+1106,d_palmer_19.txt,Naive Bayes,palmer,1,1
+1107,d_palmer_2.txt,Naive Bayes,palmer,1,1
+1108,d_palmer_20.txt,Naive Bayes,palmer,1,1
+1109,d_palmer_3.txt,Naive Bayes,palmer,1,1
+1110,d_palmer_4.txt,Naive Bayes,palmer,1,0
+1111,d_palmer_5.txt,Naive Bayes,palmer,1,1
+1112,d_palmer_6.txt,Naive Bayes,palmer,1,0
+1113,d_palmer_7.txt,Naive Bayes,palmer,1,1
+1114,d_palmer_8.txt,Naive Bayes,palmer,1,1
+1115,d_palmer_9.txt,Naive Bayes,palmer,1,1
+1496,t_palmer_1.txt,Naive Bayes,palmer,0,0
+1497,t_palmer_10.txt,Naive Bayes,palmer,0,0
+1498,t_palmer_11.txt,Naive Bayes,palmer,0,0
+1499,t_palmer_12.txt,Naive Bayes,palmer,0,0
+1500,t_palmer_13.txt,Naive Bayes,palmer,0,0
+1501,t_palmer_14.txt,Naive Bayes,palmer,0,0
+1502,t_palmer_15.txt,Naive Bayes,palmer,0,0
+1503,t_palmer_16.txt,Naive Bayes,palmer,0,0
+1504,t_palmer_17.txt,Naive Bayes,palmer,0,0
+1505,t_palmer_18.txt,Naive Bayes,palmer,0,0
+1506,t_palmer_19.txt,Naive Bayes,palmer,0,0
+1507,t_palmer_2.txt,Naive Bayes,palmer,0,0
+1508,t_palmer_20.txt,Naive Bayes,palmer,0,0
+1509,t_palmer_3.txt,Naive Bayes,palmer,0,0
+1510,t_palmer_4.txt,Naive Bayes,palmer,0,0
+1511,t_palmer_5.txt,Naive Bayes,palmer,0,0
+1512,t_palmer_6.txt,Naive Bayes,palmer,0,0
+1513,t_palmer_7.txt,Naive Bayes,palmer,0,0
+1514,t_palmer_8.txt,Naive Bayes,palmer,0,0
+1515,t_palmer_9.txt,Naive Bayes,palmer,0,0
+320,d_sheraton_1.txt,Naive Bayes,sheraton,1,1
+321,d_sheraton_10.txt,Naive Bayes,sheraton,1,1
+322,d_sheraton_11.txt,Naive Bayes,sheraton,1,1
+323,d_sheraton_12.txt,Naive Bayes,sheraton,1,1
+324,d_sheraton_13.txt,Naive Bayes,sheraton,1,1
+325,d_sheraton_14.txt,Naive Bayes,sheraton,1,1
+326,d_sheraton_15.txt,Naive Bayes,sheraton,1,1
+327,d_sheraton_16.txt,Naive Bayes,sheraton,1,1
+328,d_sheraton_17.txt,Naive Bayes,sheraton,1,1
+329,d_sheraton_18.txt,Naive Bayes,sheraton,1,1
+330,d_sheraton_19.txt,Naive Bayes,sheraton,1,1
+331,d_sheraton_2.txt,Naive Bayes,sheraton,1,1
+332,d_sheraton_20.txt,Naive Bayes,sheraton,1,1
+333,d_sheraton_3.txt,Naive Bayes,sheraton,1,1
+334,d_sheraton_4.txt,Naive Bayes,sheraton,1,1
+335,d_sheraton_5.txt,Naive Bayes,sheraton,1,1
+336,d_sheraton_6.txt,Naive Bayes,sheraton,1,0
+337,d_sheraton_7.txt,Naive Bayes,sheraton,1,1
+338,d_sheraton_8.txt,Naive Bayes,sheraton,1,1
+339,d_sheraton_9.txt,Naive Bayes,sheraton,1,1
+716,t_sheraton_1.txt,Naive Bayes,sheraton,0,0
+717,t_sheraton_10.txt,Naive Bayes,sheraton,0,0
+718,t_sheraton_11.txt,Naive Bayes,sheraton,0,0
+719,t_sheraton_12.txt,Naive Bayes,sheraton,0,0
+720,t_sheraton_13.txt,Naive Bayes,sheraton,0,0
+721,t_sheraton_14.txt,Naive Bayes,sheraton,0,1
+722,t_sheraton_15.txt,Naive Bayes,sheraton,0,0
+723,t_sheraton_16.txt,Naive Bayes,sheraton,0,0
+724,t_sheraton_17.txt,Naive Bayes,sheraton,0,0
+725,t_sheraton_18.txt,Naive Bayes,sheraton,0,0
+726,t_sheraton_19.txt,Naive Bayes,sheraton,0,1
+727,t_sheraton_2.txt,Naive Bayes,sheraton,0,0
+728,t_sheraton_20.txt,Naive Bayes,sheraton,0,0
+729,t_sheraton_3.txt,Naive Bayes,sheraton,0,0
+730,t_sheraton_4.txt,Naive Bayes,sheraton,0,0
+731,t_sheraton_5.txt,Naive Bayes,sheraton,0,0
+732,t_sheraton_6.txt,Naive Bayes,sheraton,0,0
+733,t_sheraton_7.txt,Naive Bayes,sheraton,0,0
+734,t_sheraton_8.txt,Naive Bayes,sheraton,0,0
+735,t_sheraton_9.txt,Naive Bayes,sheraton,0,0
+1116,d_sheraton_1.txt,Naive Bayes,sheraton,1,1
+1117,d_sheraton_10.txt,Naive Bayes,sheraton,1,1
+1118,d_sheraton_11.txt,Naive Bayes,sheraton,1,1
+1119,d_sheraton_12.txt,Naive Bayes,sheraton,1,1
+1120,d_sheraton_13.txt,Naive Bayes,sheraton,1,1
+1121,d_sheraton_14.txt,Naive Bayes,sheraton,1,1
+1122,d_sheraton_15.txt,Naive Bayes,sheraton,1,1
+1123,d_sheraton_16.txt,Naive Bayes,sheraton,1,1
+1124,d_sheraton_17.txt,Naive Bayes,sheraton,1,1
+1125,d_sheraton_18.txt,Naive Bayes,sheraton,1,0
+1126,d_sheraton_19.txt,Naive Bayes,sheraton,1,0
+1127,d_sheraton_2.txt,Naive Bayes,sheraton,1,1
+1128,d_sheraton_20.txt,Naive Bayes,sheraton,1,1
+1129,d_sheraton_3.txt,Naive Bayes,sheraton,1,1
+1130,d_sheraton_4.txt,Naive Bayes,sheraton,1,1
+1131,d_sheraton_5.txt,Naive Bayes,sheraton,1,1
+1132,d_sheraton_6.txt,Naive Bayes,sheraton,1,0
+1133,d_sheraton_7.txt,Naive Bayes,sheraton,1,1
+1134,d_sheraton_8.txt,Naive Bayes,sheraton,1,1
+1135,d_sheraton_9.txt,Naive Bayes,sheraton,1,1
+1516,t_sheraton_1.txt,Naive Bayes,sheraton,0,0
+1517,t_sheraton_10.txt,Naive Bayes,sheraton,0,0
+1518,t_sheraton_11.txt,Naive Bayes,sheraton,0,0
+1519,t_sheraton_12.txt,Naive Bayes,sheraton,0,0
+1520,t_sheraton_13.txt,Naive Bayes,sheraton,0,0
+1521,t_sheraton_14.txt,Naive Bayes,sheraton,0,1
+1522,t_sheraton_15.txt,Naive Bayes,sheraton,0,0
+1523,t_sheraton_16.txt,Naive Bayes,sheraton,0,0
+1524,t_sheraton_17.txt,Naive Bayes,sheraton,0,0
+1525,t_sheraton_18.txt,Naive Bayes,sheraton,0,0
+1526,t_sheraton_19.txt,Naive Bayes,sheraton,0,0
+1527,t_sheraton_2.txt,Naive Bayes,sheraton,0,0
+1528,t_sheraton_20.txt,Naive Bayes,sheraton,0,0
+1529,t_sheraton_3.txt,Naive Bayes,sheraton,0,0
+1530,t_sheraton_4.txt,Naive Bayes,sheraton,0,0
+1531,t_sheraton_5.txt,Naive Bayes,sheraton,0,0
+1532,t_sheraton_6.txt,Naive Bayes,sheraton,0,0
+1533,t_sheraton_7.txt,Naive Bayes,sheraton,0,0
+1534,t_sheraton_8.txt,Naive Bayes,sheraton,0,0
+1535,t_sheraton_9.txt,Naive Bayes,sheraton,0,0
+340,d_sofitel_1.txt,Naive Bayes,sofitel,1,1
+341,d_sofitel_10.txt,Naive Bayes,sofitel,1,1
+342,d_sofitel_11.txt,Naive Bayes,sofitel,1,1
+343,d_sofitel_12.txt,Naive Bayes,sofitel,1,1
+344,d_sofitel_13.txt,Naive Bayes,sofitel,1,1
+345,d_sofitel_14.txt,Naive Bayes,sofitel,1,1
+346,d_sofitel_15.txt,Naive Bayes,sofitel,1,0
+347,d_sofitel_16.txt,Naive Bayes,sofitel,1,0
+348,d_sofitel_17.txt,Naive Bayes,sofitel,1,0
+349,d_sofitel_18.txt,Naive Bayes,sofitel,1,1
+350,d_sofitel_19.txt,Naive Bayes,sofitel,1,1
+351,d_sofitel_2.txt,Naive Bayes,sofitel,1,1
+352,d_sofitel_20.txt,Naive Bayes,sofitel,1,1
+353,d_sofitel_3.txt,Naive Bayes,sofitel,1,1
+354,d_sofitel_4.txt,Naive Bayes,sofitel,1,1
+355,d_sofitel_5.txt,Naive Bayes,sofitel,1,0
+356,d_sofitel_6.txt,Naive Bayes,sofitel,1,1
+357,d_sofitel_7.txt,Naive Bayes,sofitel,1,1
+358,d_sofitel_8.txt,Naive Bayes,sofitel,1,1
+359,d_sofitel_9.txt,Naive Bayes,sofitel,1,1
+736,t_sofitel_1.txt,Naive Bayes,sofitel,0,0
+737,t_sofitel_10.txt,Naive Bayes,sofitel,0,0
+738,t_sofitel_11.txt,Naive Bayes,sofitel,0,1
+739,t_sofitel_12.txt,Naive Bayes,sofitel,0,1
+740,t_sofitel_13.txt,Naive Bayes,sofitel,0,1
+741,t_sofitel_14.txt,Naive Bayes,sofitel,0,0
+742,t_sofitel_15.txt,Naive Bayes,sofitel,0,0
+743,t_sofitel_16.txt,Naive Bayes,sofitel,0,0
+744,t_sofitel_17.txt,Naive Bayes,sofitel,0,1
+745,t_sofitel_18.txt,Naive Bayes,sofitel,0,1
+746,t_sofitel_19.txt,Naive Bayes,sofitel,0,0
+747,t_sofitel_2.txt,Naive Bayes,sofitel,0,0
+748,t_sofitel_20.txt,Naive Bayes,sofitel,0,0
+749,t_sofitel_3.txt,Naive Bayes,sofitel,0,0
+750,t_sofitel_4.txt,Naive Bayes,sofitel,0,0
+751,t_sofitel_5.txt,Naive Bayes,sofitel,0,0
+752,t_sofitel_6.txt,Naive Bayes,sofitel,0,1
+753,t_sofitel_7.txt,Naive Bayes,sofitel,0,0
+754,t_sofitel_8.txt,Naive Bayes,sofitel,0,0
+755,t_sofitel_9.txt,Naive Bayes,sofitel,0,0
+1136,d_sofitel_1.txt,Naive Bayes,sofitel,1,1
+1137,d_sofitel_10.txt,Naive Bayes,sofitel,1,1
+1138,d_sofitel_11.txt,Naive Bayes,sofitel,1,1
+1139,d_sofitel_12.txt,Naive Bayes,sofitel,1,1
+1140,d_sofitel_13.txt,Naive Bayes,sofitel,1,1
+1141,d_sofitel_14.txt,Naive Bayes,sofitel,1,1
+1142,d_sofitel_15.txt,Naive Bayes,sofitel,1,1
+1143,d_sofitel_16.txt,Naive Bayes,sofitel,1,1
+1144,d_sofitel_17.txt,Naive Bayes,sofitel,1,1
+1145,d_sofitel_18.txt,Naive Bayes,sofitel,1,0
+1146,d_sofitel_19.txt,Naive Bayes,sofitel,1,1
+1147,d_sofitel_2.txt,Naive Bayes,sofitel,1,1
+1148,d_sofitel_20.txt,Naive Bayes,sofitel,1,0
+1149,d_sofitel_3.txt,Naive Bayes,sofitel,1,1
+1150,d_sofitel_4.txt,Naive Bayes,sofitel,1,1
+1151,d_sofitel_5.txt,Naive Bayes,sofitel,1,1
+1152,d_sofitel_6.txt,Naive Bayes,sofitel,1,1
+1153,d_sofitel_7.txt,Naive Bayes,sofitel,1,1
+1154,d_sofitel_8.txt,Naive Bayes,sofitel,1,1
+1155,d_sofitel_9.txt,Naive Bayes,sofitel,1,1
+1536,t_sofitel_1.txt,Naive Bayes,sofitel,0,1
+1537,t_sofitel_10.txt,Naive Bayes,sofitel,0,0
+1538,t_sofitel_11.txt,Naive Bayes,sofitel,0,0
+1539,t_sofitel_12.txt,Naive Bayes,sofitel,0,0
+1540,t_sofitel_13.txt,Naive Bayes,sofitel,0,0
+1541,t_sofitel_14.txt,Naive Bayes,sofitel,0,0
+1542,t_sofitel_15.txt,Naive Bayes,sofitel,0,0
+1543,t_sofitel_16.txt,Naive Bayes,sofitel,0,0
+1544,t_sofitel_17.txt,Naive Bayes,sofitel,0,0
+1545,t_sofitel_18.txt,Naive Bayes,sofitel,0,0
+1546,t_sofitel_19.txt,Naive Bayes,sofitel,0,1
+1547,t_sofitel_2.txt,Naive Bayes,sofitel,0,0
+1548,t_sofitel_20.txt,Naive Bayes,sofitel,0,0
+1549,t_sofitel_3.txt,Naive Bayes,sofitel,0,0
+1550,t_sofitel_4.txt,Naive Bayes,sofitel,0,0
+1551,t_sofitel_5.txt,Naive Bayes,sofitel,0,0
+1552,t_sofitel_6.txt,Naive Bayes,sofitel,0,0
+1553,t_sofitel_7.txt,Naive Bayes,sofitel,0,0
+1554,t_sofitel_8.txt,Naive Bayes,sofitel,0,0
+1555,t_sofitel_9.txt,Naive Bayes,sofitel,0,0
+360,d_swissotel_1.txt,Naive Bayes,swissotel,1,1
+361,d_swissotel_10.txt,Naive Bayes,swissotel,1,1
+362,d_swissotel_11.txt,Naive Bayes,swissotel,1,0
+363,d_swissotel_12.txt,Naive Bayes,swissotel,1,1
+364,d_swissotel_13.txt,Naive Bayes,swissotel,1,1
+365,d_swissotel_14.txt,Naive Bayes,swissotel,1,1
+366,d_swissotel_15.txt,Naive Bayes,swissotel,1,1
+367,d_swissotel_16.txt,Naive Bayes,swissotel,1,1
+368,d_swissotel_17.txt,Naive Bayes,swissotel,1,1
+369,d_swissotel_18.txt,Naive Bayes,swissotel,1,1
+370,d_swissotel_19.txt,Naive Bayes,swissotel,1,1
+371,d_swissotel_2.txt,Naive Bayes,swissotel,1,1
+372,d_swissotel_20.txt,Naive Bayes,swissotel,1,0
+373,d_swissotel_3.txt,Naive Bayes,swissotel,1,1
+374,d_swissotel_4.txt,Naive Bayes,swissotel,1,1
+375,d_swissotel_5.txt,Naive Bayes,swissotel,1,1
+376,d_swissotel_6.txt,Naive Bayes,swissotel,1,1
+377,d_swissotel_7.txt,Naive Bayes,swissotel,1,1
+378,d_swissotel_8.txt,Naive Bayes,swissotel,1,1
+379,d_swissotel_9.txt,Naive Bayes,swissotel,1,1
+756,t_swissotel_1.txt,Naive Bayes,swissotel,0,0
+757,t_swissotel_10.txt,Naive Bayes,swissotel,0,0
+758,t_swissotel_11.txt,Naive Bayes,swissotel,0,0
+759,t_swissotel_12.txt,Naive Bayes,swissotel,0,0
+760,t_swissotel_13.txt,Naive Bayes,swissotel,0,0
+761,t_swissotel_14.txt,Naive Bayes,swissotel,0,0
+762,t_swissotel_15.txt,Naive Bayes,swissotel,0,0
+763,t_swissotel_16.txt,Naive Bayes,swissotel,0,0
+764,t_swissotel_17.txt,Naive Bayes,swissotel,0,0
+765,t_swissotel_18.txt,Naive Bayes,swissotel,0,0
+766,t_swissotel_19.txt,Naive Bayes,swissotel,0,0
+767,t_swissotel_2.txt,Naive Bayes,swissotel,0,0
+768,t_swissotel_20.txt,Naive Bayes,swissotel,0,0
+769,t_swissotel_3.txt,Naive Bayes,swissotel,0,0
+770,t_swissotel_4.txt,Naive Bayes,swissotel,0,0
+771,t_swissotel_5.txt,Naive Bayes,swissotel,0,0
+772,t_swissotel_6.txt,Naive Bayes,swissotel,0,0
+773,t_swissotel_7.txt,Naive Bayes,swissotel,0,0
+774,t_swissotel_8.txt,Naive Bayes,swissotel,0,0
+775,t_swissotel_9.txt,Naive Bayes,swissotel,0,1
+1156,d_swissotel_1.txt,Naive Bayes,swissotel,1,1
+1157,d_swissotel_10.txt,Naive Bayes,swissotel,1,1
+1158,d_swissotel_11.txt,Naive Bayes,swissotel,1,0
+1159,d_swissotel_12.txt,Naive Bayes,swissotel,1,1
+1160,d_swissotel_13.txt,Naive Bayes,swissotel,1,1
+1161,d_swissotel_14.txt,Naive Bayes,swissotel,1,1
+1162,d_swissotel_15.txt,Naive Bayes,swissotel,1,1
+1163,d_swissotel_16.txt,Naive Bayes,swissotel,1,1
+1164,d_swissotel_17.txt,Naive Bayes,swissotel,1,1
+1165,d_swissotel_18.txt,Naive Bayes,swissotel,1,1
+1166,d_swissotel_19.txt,Naive Bayes,swissotel,1,1
+1167,d_swissotel_2.txt,Naive Bayes,swissotel,1,1
+1168,d_swissotel_20.txt,Naive Bayes,swissotel,1,1
+1169,d_swissotel_3.txt,Naive Bayes,swissotel,1,0
+1170,d_swissotel_4.txt,Naive Bayes,swissotel,1,1
+1171,d_swissotel_5.txt,Naive Bayes,swissotel,1,1
+1172,d_swissotel_6.txt,Naive Bayes,swissotel,1,1
+1173,d_swissotel_7.txt,Naive Bayes,swissotel,1,1
+1174,d_swissotel_8.txt,Naive Bayes,swissotel,1,1
+1175,d_swissotel_9.txt,Naive Bayes,swissotel,1,0
+1556,t_swissotel_1.txt,Naive Bayes,swissotel,0,0
+1557,t_swissotel_10.txt,Naive Bayes,swissotel,0,0
+1558,t_swissotel_11.txt,Naive Bayes,swissotel,0,0
+1559,t_swissotel_12.txt,Naive Bayes,swissotel,0,0
+1560,t_swissotel_13.txt,Naive Bayes,swissotel,0,0
+1561,t_swissotel_14.txt,Naive Bayes,swissotel,0,0
+1562,t_swissotel_15.txt,Naive Bayes,swissotel,0,0
+1563,t_swissotel_16.txt,Naive Bayes,swissotel,0,0
+1564,t_swissotel_17.txt,Naive Bayes,swissotel,0,0
+1565,t_swissotel_18.txt,Naive Bayes,swissotel,0,0
+1566,t_swissotel_19.txt,Naive Bayes,swissotel,0,0
+1567,t_swissotel_2.txt,Naive Bayes,swissotel,0,0
+1568,t_swissotel_20.txt,Naive Bayes,swissotel,0,0
+1569,t_swissotel_3.txt,Naive Bayes,swissotel,0,0
+1570,t_swissotel_4.txt,Naive Bayes,swissotel,0,0
+1571,t_swissotel_5.txt,Naive Bayes,swissotel,0,0
+1572,t_swissotel_6.txt,Naive Bayes,swissotel,0,0
+1573,t_swissotel_7.txt,Naive Bayes,swissotel,0,0
+1574,t_swissotel_8.txt,Naive Bayes,swissotel,0,0
+1575,t_swissotel_9.txt,Naive Bayes,swissotel,0,0
+380,d_talbott_1.txt,Naive Bayes,talbott,1,1
+381,d_talbott_10.txt,Naive Bayes,talbott,1,1
+382,d_talbott_11.txt,Naive Bayes,talbott,1,1
+383,d_talbott_12.txt,Naive Bayes,talbott,1,1
+384,d_talbott_13.txt,Naive Bayes,talbott,1,1
+385,d_talbott_14.txt,Naive Bayes,talbott,1,1
+386,d_talbott_15.txt,Naive Bayes,talbott,1,0
+387,d_talbott_16.txt,Naive Bayes,talbott,1,0
+388,d_talbott_17.txt,Naive Bayes,talbott,1,1
+389,d_talbott_18.txt,Naive Bayes,talbott,1,1
+390,d_talbott_19.txt,Naive Bayes,talbott,1,1
+391,d_talbott_2.txt,Naive Bayes,talbott,1,1
+392,d_talbott_20.txt,Naive Bayes,talbott,1,1
+393,d_talbott_3.txt,Naive Bayes,talbott,1,1
+394,d_talbott_4.txt,Naive Bayes,talbott,1,1
+395,d_talbott_5.txt,Naive Bayes,talbott,1,1
+396,d_talbott_6.txt,Naive Bayes,talbott,1,1
+397,d_talbott_7.txt,Naive Bayes,talbott,1,0
+398,d_talbott_8.txt,Naive Bayes,talbott,1,0
+399,d_talbott_9.txt,Naive Bayes,talbott,1,1
+776,t_talbott_1.txt,Naive Bayes,talbott,0,0
+777,t_talbott_10.txt,Naive Bayes,talbott,0,0
+778,t_talbott_11.txt,Naive Bayes,talbott,0,0
+779,t_talbott_12.txt,Naive Bayes,talbott,0,0
+780,t_talbott_13.txt,Naive Bayes,talbott,0,0
+781,t_talbott_14.txt,Naive Bayes,talbott,0,0
+782,t_talbott_15.txt,Naive Bayes,talbott,0,0
+783,t_talbott_16.txt,Naive Bayes,talbott,0,0
+784,t_talbott_17.txt,Naive Bayes,talbott,0,1
+785,t_talbott_18.txt,Naive Bayes,talbott,0,0
+786,t_talbott_19.txt,Naive Bayes,talbott,0,0
+787,t_talbott_2.txt,Naive Bayes,talbott,0,0
+788,t_talbott_20.txt,Naive Bayes,talbott,0,0
+789,t_talbott_3.txt,Naive Bayes,talbott,0,0
+790,t_talbott_4.txt,Naive Bayes,talbott,0,1
+791,t_talbott_5.txt,Naive Bayes,talbott,0,0
+792,t_talbott_6.txt,Naive Bayes,talbott,0,0
+793,t_talbott_7.txt,Naive Bayes,talbott,0,0
+794,t_talbott_8.txt,Naive Bayes,talbott,0,0
+795,t_talbott_9.txt,Naive Bayes,talbott,0,1
+1176,d_talbott_1.txt,Naive Bayes,talbott,1,1
+1177,d_talbott_10.txt,Naive Bayes,talbott,1,1
+1178,d_talbott_11.txt,Naive Bayes,talbott,1,1
+1179,d_talbott_12.txt,Naive Bayes,talbott,1,1
+1180,d_talbott_13.txt,Naive Bayes,talbott,1,1
+1181,d_talbott_14.txt,Naive Bayes,talbott,1,1
+1182,d_talbott_15.txt,Naive Bayes,talbott,1,1
+1183,d_talbott_16.txt,Naive Bayes,talbott,1,1
+1184,d_talbott_17.txt,Naive Bayes,talbott,1,1
+1185,d_talbott_18.txt,Naive Bayes,talbott,1,1
+1186,d_talbott_19.txt,Naive Bayes,talbott,1,1
+1187,d_talbott_2.txt,Naive Bayes,talbott,1,1
+1188,d_talbott_20.txt,Naive Bayes,talbott,1,1
+1189,d_talbott_3.txt,Naive Bayes,talbott,1,1
+1190,d_talbott_4.txt,Naive Bayes,talbott,1,1
+1191,d_talbott_5.txt,Naive Bayes,talbott,1,1
+1192,d_talbott_6.txt,Naive Bayes,talbott,1,0
+1193,d_talbott_7.txt,Naive Bayes,talbott,1,0
+1194,d_talbott_8.txt,Naive Bayes,talbott,1,1
+1195,d_talbott_9.txt,Naive Bayes,talbott,1,1
+1576,t_talbott_1.txt,Naive Bayes,talbott,0,0
+1577,t_talbott_10.txt,Naive Bayes,talbott,0,0
+1578,t_talbott_11.txt,Naive Bayes,talbott,0,0
+1579,t_talbott_12.txt,Naive Bayes,talbott,0,0
+1580,t_talbott_13.txt,Naive Bayes,talbott,0,0
+1581,t_talbott_14.txt,Naive Bayes,talbott,0,0
+1582,t_talbott_15.txt,Naive Bayes,talbott,0,0
+1583,t_talbott_16.txt,Naive Bayes,talbott,0,0
+1584,t_talbott_17.txt,Naive Bayes,talbott,0,0
+1585,t_talbott_18.txt,Naive Bayes,talbott,0,0
+1586,t_talbott_19.txt,Naive Bayes,talbott,0,0
+1587,t_talbott_2.txt,Naive Bayes,talbott,0,0
+1588,t_talbott_20.txt,Naive Bayes,talbott,0,0
+1589,t_talbott_3.txt,Naive Bayes,talbott,0,0
+1590,t_talbott_4.txt,Naive Bayes,talbott,0,0
+1591,t_talbott_5.txt,Naive Bayes,talbott,0,0
+1592,t_talbott_6.txt,Naive Bayes,talbott,0,0
+1593,t_talbott_7.txt,Naive Bayes,talbott,0,0
+1594,t_talbott_8.txt,Naive Bayes,talbott,0,0
+1595,t_talbott_9.txt,Naive Bayes,talbott,0,0

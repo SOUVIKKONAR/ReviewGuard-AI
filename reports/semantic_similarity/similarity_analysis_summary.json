@@ -1,0 +1,11 @@
+{
+    "total_high_similarity_pairs": 1641,
+    "pair_categories": {
+        "Deceptive-Deceptive": 798,
+        "Truthful-Deceptive": 626,
+        "Truthful-Truthful": 217
+    },
+    "same_hotel_pairs": 931,
+    "different_hotel_pairs": 710,
+    "average_similarity": 0.8263637184152365
+}

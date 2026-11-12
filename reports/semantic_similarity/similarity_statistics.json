@@ -1,0 +1,12 @@
+{
+    "total_reviews": 1596,
+    "embedding_dimension": 384,
+    "device": "cuda",
+    "embedding_generation_time_seconds": 1.47,
+    "similarity_threshold": 0.8,
+    "total_review_pairs": 1272810,
+    "average_similarity": 0.4602009057998657,
+    "maximum_similarity": 0.925638735294342,
+    "minimum_similarity": -0.07054473459720612,
+    "high_similarity_pairs": 1641
+}

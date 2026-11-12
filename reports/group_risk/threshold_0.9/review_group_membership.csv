@@ -1,0 +1,16 @@
+review_id,group_id,hotel,svm_prediction,actual_label,similarity_threshold
+812,G_0.9_0001,affinia,1,1,0.9
+1213,G_0.9_0001,affinia,0,0,0.9
+867,G_0.9_0002,ambassador,1,1,0.9
+1138,G_0.9_0002,sofitel,1,1,0.9
+911,G_0.9_0003,fairmont,1,1,0.9
+1090,G_0.9_0003,omni,1,1,0.9
+926,G_0.9_0004,hardrock,1,1,0.9
+927,G_0.9_0004,hardrock,0,1,0.9
+931,G_0.9_0004,hardrock,1,1,0.9
+1318,G_0.9_0004,hardrock,0,0,0.9
+978,G_0.9_0005,hyatt,1,1,0.9
+989,G_0.9_0005,hyatt,1,1,0.9
+994,G_0.9_0005,hyatt,1,1,0.9
+1014,G_0.9_0006,intercontinental,1,1,0.9
+1015,G_0.9_0006,intercontinental,1,1,0.9

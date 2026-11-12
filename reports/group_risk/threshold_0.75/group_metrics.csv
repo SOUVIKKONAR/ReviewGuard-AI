@@ -1,0 +1,30 @@
+group_id,threshold,group_size,average_similarity,maximum_similarity,similarity_density,similarity_edges,possible_edges,svm_deceptive_rate,actual_deceptive_rate,hotel_count,hotels
+G_0.75_0001,0.75,910,0.5461,0.9256,0.0179,7407,413595,0.5703,0.6011,20,"affinia, allegro, amalfi, ambassador, conrad, fairmont, hardrock, hilton, homewood, hyatt, intercontinental, james, knickerbocker, monaco, omni, palmer, sheraton, sofitel, swissotel, talbott"
+G_0.75_0002,0.75,3,0.7295,0.7576,0.6667,2,3,1.0,1.0,3,"affinia, amalfi, ambassador"
+G_0.75_0003,0.75,2,0.7922,0.7922,1.0,1,1,0.5,1.0,1,amalfi
+G_0.75_0004,0.75,2,0.7581,0.7581,1.0,1,1,0.5,0.5,2,"ambassador, hyatt"
+G_0.75_0005,0.75,2,0.7625,0.7625,1.0,1,1,1.0,1.0,2,"conrad, intercontinental"
+G_0.75_0006,0.75,2,0.7553,0.7553,1.0,1,1,1.0,1.0,2,"conrad, sheraton"
+G_0.75_0007,0.75,2,0.7527,0.7527,1.0,1,1,0.5,1.0,2,"hardrock, james"
+G_0.75_0008,0.75,4,0.7157,0.7659,0.5,3,6,0.5,0.5,3,"fairmont, hardrock, intercontinental"
+G_0.75_0009,0.75,4,0.7222,0.8163,0.5,3,6,1.0,1.0,2,"hilton, sheraton"
+G_0.75_0010,0.75,2,0.764,0.764,1.0,1,1,0.5,1.0,2,"hyatt, palmer"
+G_0.75_0011,0.75,3,0.7327,0.7636,0.6667,2,3,1.0,1.0,3,"hyatt, james, omni"
+G_0.75_0012,0.75,2,0.7655,0.7655,1.0,1,1,1.0,1.0,1,knickerbocker
+G_0.75_0013,0.75,2,0.7831,0.7831,1.0,1,1,1.0,1.0,1,knickerbocker
+G_0.75_0014,0.75,2,0.7507,0.7507,1.0,1,1,1.0,1.0,2,"omni, sofitel"
+G_0.75_0015,0.75,2,0.7578,0.7578,1.0,1,1,0.5,0.5,1,palmer
+G_0.75_0016,0.75,3,0.7567,0.7868,0.6667,2,3,0.6667,0.6667,2,"amalfi, sheraton"
+G_0.75_0017,0.75,2,0.7549,0.7549,1.0,1,1,1.0,1.0,1,swissotel
+G_0.75_0018,0.75,2,0.7633,0.7633,1.0,1,1,0.5,0.5,2,"ambassador, talbott"
+G_0.75_0019,0.75,3,0.7167,0.7606,0.6667,2,3,0.3333,0.0,1,allegro
+G_0.75_0020,0.75,2,0.7587,0.7587,1.0,1,1,0.0,0.0,2,"allegro, hardrock"
+G_0.75_0021,0.75,2,0.7565,0.7565,1.0,1,1,0.0,0.0,2,"allegro, amalfi"
+G_0.75_0022,0.75,2,0.824,0.824,1.0,1,1,0.0,0.0,1,amalfi
+G_0.75_0023,0.75,2,0.757,0.757,1.0,1,1,0.0,0.0,2,"ambassador, knickerbocker"
+G_0.75_0024,0.75,2,0.7575,0.7575,1.0,1,1,0.0,0.0,2,"hilton, knickerbocker"
+G_0.75_0025,0.75,2,0.7522,0.7522,1.0,1,1,0.0,0.0,2,"intercontinental, sheraton"
+G_0.75_0026,0.75,2,0.7572,0.7572,1.0,1,1,0.5,0.0,2,"knickerbocker, palmer"
+G_0.75_0027,0.75,2,0.8,0.8,1.0,1,1,0.0,0.0,1,omni
+G_0.75_0028,0.75,2,0.7857,0.7857,1.0,1,1,0.0,0.0,1,talbott
+G_0.75_0029,0.75,2,0.7611,0.7611,1.0,1,1,0.0,0.0,1,fairmont

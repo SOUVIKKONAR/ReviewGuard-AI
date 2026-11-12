@@ -1,0 +1,32 @@
+{
+    "total_direct_edges_analysed": 5012,
+    "unique_review_pairs": 908,
+    "same_hotel_edges": 3857,
+    "cross_hotel_edges": 1155,
+    "average_semantic_similarity": 0.8491286413605843,
+    "average_word_jaccard": 0.11423041758618377,
+    "average_bigram_jaccard": 0.039720688741282775,
+    "average_trigram_jaccard": 0.011049019493222182,
+    "edges_with_shared_trigrams": 3766,
+    "edges_with_long_common_phrase": 1942,
+    "hotel_relationship_comparison": [
+        {
+            "hotel_relationship": "cross_hotel",
+            "edge_count": 1155,
+            "avg_semantic_similarity": 0.8440014312793682,
+            "avg_word_jaccard": 0.11905686670560596,
+            "avg_bigram_jaccard": 0.036705978033358524,
+            "avg_trigram_jaccard": 0.007394390323921282,
+            "avg_shared_trigrams": 1.225974025974026
+        },
+        {
+            "hotel_relationship": "same_hotel",
+            "edge_count": 3857,
+            "avg_semantic_similarity": 0.8506640128005128,
+            "avg_word_jaccard": 0.11278511068109365,
+            "avg_bigram_jaccard": 0.040623460550370805,
+            "avg_trigram_jaccard": 0.012143418427767824,
+            "avg_shared_trigrams": 2.484573502722323
+        }
+    ]
+}

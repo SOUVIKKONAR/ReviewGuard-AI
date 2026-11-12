@@ -1,0 +1,61 @@
+algorithm,scope,threshold,parameter,total_groups,grouped_reviews,ungrouped_reviews,largest_group,average_group_size,average_pairwise_similarity,average_pairwise_density
+Connected Components,all_hotels,0.75,,29,974,622,910,33.59,0.7514,0.8857
+Connected Components,same_hotel,0.75,,53,763,833,44,14.4,0.7358,0.6624
+Connected Components,cross_hotel,0.75,,25,650,946,593,26.0,0.7467,0.8928
+DBSCAN,all_hotels,0.75,,29,974,622,910,33.59,0.7514,0.8857
+DBSCAN,same_hotel,0.75,,53,763,833,44,14.4,0.7358,0.6624
+DBSCAN,cross_hotel,0.75,,25,650,946,593,26.0,0.7467,0.8928
+Mutual KNN,all_hotels,0.75,3.0,157,632,964,17,4.03,0.7803,0.8617
+Mutual KNN,same_hotel,0.75,3.0,134,541,1055,18,4.04,0.7812,0.8573
+Mutual KNN,cross_hotel,0.75,3.0,82,294,1302,19,3.59,0.7687,0.8539
+Mutual KNN,all_hotels,0.75,5.0,88,759,837,195,8.62,0.7535,0.8033
+Mutual KNN,same_hotel,0.75,5.0,91,635,961,35,6.98,0.7597,0.7659
+Mutual KNN,cross_hotel,0.75,5.0,63,390,1206,54,6.19,0.7527,0.827
+Mutual KNN,all_hotels,0.75,7.0,55,823,773,602,14.96,0.7523,0.8577
+Mutual KNN,same_hotel,0.75,7.0,71,683,913,36,9.62,0.7469,0.7097
+Mutual KNN,cross_hotel,0.75,7.0,48,442,1154,319,9.21,0.7581,0.9002
+Connected Components,all_hotels,0.8,,18,531,1065,472,29.5,0.7971,0.8036
+Connected Components,same_hotel,0.8,,42,430,1166,33,10.24,0.7856,0.6027
+Connected Components,cross_hotel,0.8,,9,227,1369,188,25.22,0.7856,0.7092
+DBSCAN,all_hotels,0.8,,18,531,1065,472,29.5,0.7971,0.8036
+DBSCAN,same_hotel,0.8,,42,430,1166,33,10.24,0.7856,0.6027
+DBSCAN,cross_hotel,0.8,,9,227,1369,188,25.22,0.7856,0.7092
+Mutual KNN,all_hotels,0.8,3.0,86,373,1223,15,4.34,0.8162,0.7996
+Mutual KNN,same_hotel,0.8,3.0,75,326,1270,12,4.35,0.8143,0.7965
+Mutual KNN,cross_hotel,0.8,3.0,32,119,1477,12,3.72,0.8156,0.8202
+Mutual KNN,all_hotels,0.8,5.0,51,437,1159,67,8.57,0.7936,0.6732
+Mutual KNN,same_hotel,0.8,5.0,55,371,1225,27,6.75,0.7991,0.7019
+Mutual KNN,cross_hotel,0.8,5.0,21,154,1442,38,7.33,0.7992,0.7098
+Mutual KNN,all_hotels,0.8,7.0,40,481,1115,142,12.02,0.7891,0.6463
+Mutual KNN,same_hotel,0.8,7.0,48,403,1193,28,8.4,0.7925,0.6503
+Mutual KNN,cross_hotel,0.8,7.0,16,172,1424,87,10.75,0.7971,0.7361
+Connected Components,all_hotels,0.85,,33,212,1384,30,6.42,0.8384,0.611
+Connected Components,same_hotel,0.85,,30,168,1428,13,5.6,0.8432,0.6215
+Connected Components,cross_hotel,0.85,,6,47,1549,25,7.83,0.8291,0.6648
+DBSCAN,all_hotels,0.85,,33,212,1384,30,6.42,0.8384,0.611
+DBSCAN,same_hotel,0.85,,30,168,1428,13,5.6,0.8432,0.6215
+DBSCAN,cross_hotel,0.85,,6,47,1549,25,7.83,0.8291,0.6648
+Mutual KNN,all_hotels,0.85,3.0,41,182,1414,10,4.44,0.8485,0.706
+Mutual KNN,same_hotel,0.85,3.0,34,149,1447,10,4.38,0.8513,0.7218
+Mutual KNN,cross_hotel,0.85,3.0,9,35,1561,7,3.89,0.8426,0.7238
+Mutual KNN,all_hotels,0.85,5.0,34,204,1392,22,6.0,0.8403,0.615
+Mutual KNN,same_hotel,0.85,5.0,30,163,1433,13,5.43,0.8439,0.6308
+Mutual KNN,cross_hotel,0.85,5.0,6,43,1553,22,7.17,0.8301,0.6724
+Mutual KNN,all_hotels,0.85,7.0,34,211,1385,23,6.21,0.8395,0.6061
+Mutual KNN,same_hotel,0.85,7.0,30,168,1428,13,5.6,0.8432,0.6215
+Mutual KNN,cross_hotel,0.85,7.0,6,45,1551,23,7.5,0.8292,0.6675
+Connected Components,all_hotels,0.9,,6,15,1581,4,2.5,0.8973,0.8611
+Connected Components,same_hotel,0.9,,4,11,1585,4,2.75,0.8945,0.7917
+Connected Components,cross_hotel,0.9,,2,4,1592,2,2.0,0.9028,1.0
+DBSCAN,all_hotels,0.9,,6,15,1581,4,2.5,0.8973,0.8611
+DBSCAN,same_hotel,0.9,,4,11,1585,4,2.75,0.8945,0.7917
+DBSCAN,cross_hotel,0.9,,2,4,1592,2,2.0,0.9028,1.0
+Mutual KNN,all_hotels,0.9,3.0,6,15,1581,4,2.5,0.8973,0.8611
+Mutual KNN,same_hotel,0.9,3.0,4,11,1585,4,2.75,0.8945,0.7917
+Mutual KNN,cross_hotel,0.9,3.0,2,4,1592,2,2.0,0.9028,1.0
+Mutual KNN,all_hotels,0.9,5.0,6,15,1581,4,2.5,0.8973,0.8611
+Mutual KNN,same_hotel,0.9,5.0,4,11,1585,4,2.75,0.8945,0.7917
+Mutual KNN,cross_hotel,0.9,5.0,2,4,1592,2,2.0,0.9028,1.0
+Mutual KNN,all_hotels,0.9,7.0,6,15,1581,4,2.5,0.8973,0.8611
+Mutual KNN,same_hotel,0.9,7.0,4,11,1585,4,2.75,0.8945,0.7917
+Mutual KNN,cross_hotel,0.9,7.0,2,4,1592,2,2.0,0.9028,1.0

@@ -1,0 +1,26 @@
+import torch
+
+print("PyTorch:", torch.__version__)
+print("CUDA Available:", torch.cuda.is_available())
+
+if torch.cuda.is_available():
+
+    print("GPU:", torch.cuda.get_device_name(0))
+
+    print(
+        "VRAM:",
+        round(
+            torch.cuda.get_device_properties(0).total_memory / 1024**3,
+            2
+        ),
+        "GB"
+    )
+
+    x = torch.randn(5000, 5000, device="cuda")
+
+    print("GPU Test:", (x @ x).shape)
+
+    print("GPU computation successful!")
+
+else:
+    print("CUDA initialization failed!")

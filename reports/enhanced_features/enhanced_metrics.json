@@ -1,0 +1,37 @@
+[
+    {
+        "experiment": "E1_TFIDF_SVM",
+        "accuracy": 0.8984962406015038,
+        "precision": 0.910025706940874,
+        "recall": 0.885,
+        "f1": 0.8973384030418251
+    },
+    {
+        "experiment": "E2_LINGUISTIC_SVM",
+        "accuracy": 0.7149122807017544,
+        "precision": 0.7041420118343196,
+        "recall": 0.74375,
+        "f1": 0.723404255319149
+    },
+    {
+        "experiment": "E3_COMBINED_SVM",
+        "accuracy": 0.5607769423558897,
+        "precision": 0.5660881174899867,
+        "recall": 0.53,
+        "f1": 0.5474499677211104
+    },
+    {
+        "experiment": "E4_COMBINED_NAIVE_BAYES",
+        "accuracy": 0.8728070175438597,
+        "precision": 0.877370417193426,
+        "recall": 0.8675,
+        "f1": 0.8724072910119421
+    },
+    {
+        "experiment": "E5_COMBINED_KNN",
+        "accuracy": 0.5156641604010025,
+        "precision": 0.5164034021871203,
+        "recall": 0.53125,
+        "f1": 0.5237215033887862
+    }
+]

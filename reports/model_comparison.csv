@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1_Score,Confusion_Matrix,Best_Parameters,CV_F1_Macro
+KNN,0.81875,0.7712765957446809,0.90625,0.8333333333333334,"[[117, 43], [15, 145]]","{'classifier__n_neighbors': '9', 'classifier__weights': 'distance'}",0.7981960516717287
+SVM,0.896875,0.8944099378881988,0.9,0.897196261682243,"[[143, 17], [16, 144]]",{'classifier__C': '10'},0.8949957719170272
+Naive Bayes,0.9125,0.9024390243902439,0.925,0.9135802469135802,"[[144, 16], [12, 148]]",{'classifier__alpha': '0.01'},0.901152387516532

@@ -1,0 +1,66 @@
+[
+    {
+        "Model": "KNN",
+        "Accuracy": 0.81875,
+        "Precision": 0.7712765957446809,
+        "Recall": 0.90625,
+        "F1_Score": 0.8333333333333334,
+        "Confusion_Matrix": [
+            [
+                117,
+                43
+            ],
+            [
+                15,
+                145
+            ]
+        ],
+        "Best_Parameters": {
+            "classifier__n_neighbors": "9",
+            "classifier__weights": "distance"
+        },
+        "CV_F1_Macro": 0.7981960516717287
+    },
+    {
+        "Model": "SVM",
+        "Accuracy": 0.896875,
+        "Precision": 0.8944099378881988,
+        "Recall": 0.9,
+        "F1_Score": 0.897196261682243,
+        "Confusion_Matrix": [
+            [
+                143,
+                17
+            ],
+            [
+                16,
+                144
+            ]
+        ],
+        "Best_Parameters": {
+            "classifier__C": "10"
+        },
+        "CV_F1_Macro": 0.8949957719170272
+    },
+    {
+        "Model": "Naive Bayes",
+        "Accuracy": 0.9125,
+        "Precision": 0.9024390243902439,
+        "Recall": 0.925,
+        "F1_Score": 0.9135802469135802,
+        "Confusion_Matrix": [
+            [
+                144,
+                16
+            ],
+            [
+                12,
+                148
+            ]
+        ],
+        "Best_Parameters": {
+            "classifier__alpha": "0.01"
+        },
+        "CV_F1_Macro": 0.901152387516532
+    }
+]
